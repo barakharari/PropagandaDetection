@@ -1,0 +1,343 @@
+article_id	span_start	span_end	span	context	label
+DT_press_release_11.txt	199	210	"""The people"	Repetition
+DT_press_release_11.txt	316	366	"with their help we will Make America Great Again!"""	Repetition
+DT_press_release_11.txt	639	650	"""The people"	Repetition
+DT_press_release_11.txt	756	806	"with their help we will Make America Great Again!"""	Repetition
+DT_press_release_11.txt	1079	1090	"""The people"	Repetition
+DT_press_release_11.txt	1196	1246	"with their help we will Make America Great Again!"""	Repetition
+DT_press_release_11.txt	1519	1530	"""The people"	Repetition
+DT_press_release_11.txt	1636	1686	"with their help we will Make America Great Again!"""	Repetition
+DT_press_release_11.txt	1959	1970	"""The people"	Repetition
+DT_press_release_11.txt	2076	2126	"with their help we will Make America Great Again!"""	Repetition
+DT_press_release_11.txt	2378	2389	"""The people"	Repetition
+DT_press_release_11.txt	2495	2545	"with their help we will Make America Great Again!"""	Repetition
+DT_press_release_11.txt	2697	2734	"""The people of Georgia are incredible"	Exaggeration,Minimisation
+DT_press_release_11.txt	2814	2864	"with their help we will Make America Great Again!"""	Repetition
+DT_press_release_11.txt	3109	3132	have built a great team	Exaggeration,Minimisation
+DT_press_release_11.txt	3137	3185	with their help we will Make America Great Again	Slogans
+DT_press_release_167.txt	106	125	absolutely innocent	Repetition
+DT_press_release_167.txt	220	230	completely	Repetition
+DT_press_release_167.txt	516	535	absolutely innocent	Repetition
+DT_press_release_167.txt	630	640	completely	Repetition
+DT_press_release_167.txt	926	945	absolutely innocent	Repetition
+DT_press_release_167.txt	1040	1050	completely	Repetition
+DT_press_release_167.txt	1336	1355	absolutely innocent	Repetition
+DT_press_release_167.txt	1450	1460	completely	Repetition
+DT_press_release_167.txt	1746	1765	absolutely innocent	Repetition
+DT_press_release_167.txt	1860	1870	completely	Repetition
+DT_press_release_167.txt	2156	2175	absolutely innocent	Repetition
+DT_press_release_167.txt	2270	2280	completely	Repetition
+DT_press_release_167.txt	2521	2540	absolutely innocent	Repetition
+DT_press_release_167.txt	2918	2937	absolutely innocent	Repetition
+DT_press_release_167.txt	3342	3361	absolutely innocent	Repetition
+DT_press_release_167.txt	3766	3785	absolutely innocent	Repetition
+DT_press_release_167.txt	4190	4209	absolutely innocent	Repetition
+DT_press_release_167.txt	4614	4633	absolutely innocent	Repetition
+DT_press_release_167.txt	5038	5057	absolutely innocent	Repetition
+DT_press_release_359.txt	385	436	the worst economic recovery since World War II ISIL	Exaggeration,Minimisation
+DT_press_release_359.txt	735	781	the worst economic recovery since World War II	Repetition
+DT_press_release_359.txt	820	848	to act out their evil agenda	Loaded_Language
+DT_press_release_359.txt	1106	1152	the worst economic recovery since World War II	Repetition
+DT_press_release_359.txt	1194	1219	act out their evil agenda	Appeal_to_fear-prejudice
+DT_press_release_359.txt	1268	1330	another four years of the same failed policies that brought us	Appeal_to_fear-prejudice
+DT_press_release_359.txt	1461	1507	the worst economic recovery since World War II	Repetition
+DT_press_release_359.txt	1557	1574	their evil agenda	Appeal_to_fear-prejudice
+DT_press_release_359.txt	1623	1726	"another four years of the same failed policies that brought us such disappointment at home and abroad """	Appeal_to_fear-prejudice
+DT_press_release_359.txt	1782	1828	the worst economic recovery since World War II	Repetition
+DT_press_release_359.txt	1884	1895	evil agenda	Appeal_to_fear-prejudice
+DT_press_release_359.txt	1966	2047	"the same failed policies that brought us such disappointment at home and abroad """	Appeal_to_fear-prejudice
+DT_press_release_359.txt	2084	2094	our nation	Repetition
+DT_press_release_359.txt	2246	2327	"the same failed policies that brought us such disappointment at home and abroad """	Appeal_to_fear-prejudice
+DT_press_release_359.txt	2364	2374	our nation	Repetition
+DT_press_release_359.txt	2506	2542	principled conservative man of faith	Repetition
+DT_press_release_359.txt	2691	2701	our nation	Repetition
+DT_press_release_359.txt	2833	2869	principled conservative man of faith	Repetition
+DT_press_release_359.txt	3200	3236	principled conservative man of faith	Repetition
+DT_press_release_359.txt	3891	3947	She has failed the American people throughout her career	Flag-Waving
+DT_press_release_359.txt	4178	4314	She has failed the American people throughout her career Our nation needs new leadership and Im confident Trump and Pence can provide it	Repetition
+DT_press_release_359.txt	4555	4691	She has failed the American people throughout her career Our nation needs new leadership and Im confident Trump and Pence can provide it	Repetition
+DT_press_release_359.txt	4965	5101	She has failed the American people throughout her career Our nation needs new leadership and Im confident Trump and Pence can provide it	Repetition
+DT_press_release_359.txt	5375	5511	She has failed the American people throughout her career Our nation needs new leadership and Im confident Trump and Pence can provide it	Repetition
+DT_press_release_38.txt	3221	3235	a terrific guy	Appeal_to_Authority
+DT_press_release_38.txt	3347	3390	such an intelligent high quality individual	Appeal_to_Authority
+DT_press_release_38.txt	3683	3735	a terrific guy He has been supportive of my campaign	Appeal_to_Authority
+DT_press_release_38.txt	3809	3891	such an intelligent high quality individual committed to my vision to Make America	Appeal_to_Authority
+DT_press_release_38.txt	3998	4012	a terrific guy	Appeal_to_Authority
+DT_press_release_38.txt	4124	4218	such an intelligent high quality individual committed to my vision to Make America Great Again	Appeal_to_Authority
+DT_press_release_38.txt	4437	4472	intelligent high quality individual	Name_Calling,Labeling
+DT_press_release_38.txt	4486	4523	my vision to Make America Great Again	Slogans
+DT_press_release_38.txt	4791	4885	such an intelligent high quality individual committed to my vision to Make America Great Again	Name_Calling,Labeling
+DT_press_release_38.txt	5613	5662	"""Our countrys political elite have forgotten that"	Flag-Waving
+DT_press_release_38.txt	5971	6015	"""Our countrys political elite have forgotten"	Flag-Waving
+DT_press_release_38.txt	6021	6067	this country was built with grit and hard work	Repetition
+DT_press_release_38.txt	6271	6300	"""Our countrys political elite"	Flag-Waving
+DT_press_release_38.txt	6321	6367	this country was built with grit and hard work	Repetition
+DT_press_release_38.txt	6574	6620	this country was built with grit and hard work	Repetition
+DT_press_release_38.txt	6800	6811	our country	Repetition
+DT_press_release_38.txt	6853	6884	conservative political outsider	Repetition
+DT_press_release_38.txt	7042	7121	we cannot rely on politicians to put our country back on the path to prosperity	Flag-Waving
+DT_press_release_38.txt	7132	7163	conservative political outsider	Repetition
+DT_press_release_38.txt	7452	7483	conservative political outsider	Repetition
+DT_press_release_38.txt	7777	7818	one of the smartest and quickest minds of	Exaggeration,Minimisation
+DT_press_release_38.txt	7826	7857	conservative political outsider	Repetition
+DT_press_release_38.txt	8151	8201	one of the smartest and quickest minds of our time	Repetition
+DT_press_release_38.txt	8482	8553	one of the smartest and quickest minds of our time His business success	Exaggeration,Minimisation
+DT_press_release_38.txt	8571	8635	His passion for America our veterans and protecting our freedoms	Flag-Waving
+DT_press_release_38.txt	8793	8843	one of the smartest and quickest minds of our time	Repetition
+DT_press_release_38.txt	8886	8946	passion for America our veterans and protecting our freedoms	Flag-Waving
+DT_press_release_38.txt	9154	9204	one of the smartest and quickest minds of our time	Repetition
+DT_press_release_38.txt	9259	9307	America our veterans and protecting our freedoms	Flag-Waving
+DT_press_release_38.txt	9406	9417	our country	Repetition
+DT_press_release_38.txt	9507	9557	one of the smartest and quickest minds of our time	Repetition
+DT_press_release_38.txt	9612	9623	America our	Flag-Waving
+DT_press_release_38.txt	9759	9770	our country	Repetition
+DT_press_release_38.txt	9846	9853	passion	Flag-Waving
+DT_press_release_38.txt	9858	9878	America our veterans	Flag-Waving
+DT_press_release_38.txt	10005	10016	our country	Repetition
+DT_press_release_38.txt	10142	10188	the greatest country ever known to man the USA	Exaggeration,Minimisation
+DT_press_release_38.txt	10380	10418	the greatest country ever known to man	Exaggeration,Minimisation
+DT_press_release_38.txt	10653	10699	the greatest country ever known to man the USA	Exaggeration,Minimisation
+DT_press_release_38.txt	10928	10959	"lets Make America Great Again!"""	Slogans
+DT_press_release_38.txt	11209	11240	"lets Make America Great Again!"""	Slogans
+DT_retweets_102_2.txt	23	39	rocked them hard	Loaded_Language
+DT_retweets_102_2.txt	68	75	pummled	Loaded_Language
+DT_retweets_102_2.txt	98	110	Next no liar	Thought-terminating_Cliches
+DT_retweets_161_1.txt	76	119	This says something about how America feels	Causal_Oversimplification
+DT_retweets_187_2.txt	12	75	MakeAmericaGreatAgain we can only do that with @realDonaldTrump	Slogans
+DT_retweets_318_5.txt	27	89	sick of their bad coverage of you and the fawning over Clinton	Loaded_Language
+DT_retweets_487_11.txt	26	74	That is a reason to NOT Vote for Hillary Clinton	Causal_Oversimplification
+DT_retweets_50_2.txt	45	65	It will never happen	Repetition
+DT_retweets_50_2.txt	67	107	Fox will drop Kelly if it means no Trump	Black-and-White_Fallacy
+DT_retweets_74_2.txt	16	26	dominating	Loaded_Language
+DT_retweets_74_3.txt	18	99	The police in this country have done an unbelievable job of keeping law and order	Flag-Waving
+DT_tweets_101_5.txt	0	90	The failing @WSJ Wall Street Journal should fire both its pollster and its Editorial Board	Doubt
+DT_tweets_101_5.txt	92	139	Seldom has a paper been so wrong.Totally biased	Exaggeration,Minimisation
+DT_tweets_130_14.txt	4	51	a disaster candidate who had no guts and choked	Name_Calling,Labeling
+DT_tweets_130_14.txt	53	97	Romney is a total joke and everyone knows it	Exaggeration,Minimisation
+DT_tweets_130_15.txt	8	23	failed advisors	Name_Calling,Labeling
+DT_tweets_130_15.txt	100	135	But they lost- dont know how to win	Doubt
+DT_tweets_130_8.txt	39	68	failed presidential candidate	Name_Calling,Labeling
+DT_tweets_130_8.txt	91	121	Made a fool of himself (1%.)KY	Loaded_Language
+DT_tweets_143_10.txt	30	44	very dishonest	Loaded_Language
+DT_tweets_143_10.txt	115	137	trying to rig the vote	Loaded_Language
+DT_tweets_143_11.txt	111	134	No way to run a country	Flag-Waving
+DT_tweets_153_15.txt	36	63	it\s all Trump all the time	Exaggeration,Minimisation
+DT_tweets_153_15.txt	110	134	MAKE AMERICA GREAT AGAIN	Slogans
+DT_tweets_166_3.txt	42	54	Aggressively	Loaded_Language
+DT_tweets_16_3.txt	39	58	an unbelievable day	Exaggeration,Minimisation
+DT_tweets_200_5.txt	9	48	Cruz will never be able to beat Hillary	Exaggeration,Minimisation
+DT_tweets_200_5.txt	50	82	Despite a rigged delegate system	Name_Calling,Labeling
+DT_tweets_204_1.txt	19	43	the terrific @GovPenceIN	Name_Calling,Labeling
+DT_tweets_204_1.txt	86	101	wonderful state	Loaded_Language
+DT_tweets_206_2.txt	0	45	Thank you for the incredible support Maryland	Exaggeration,Minimisation
+DT_tweets_206_2.txt	47	88	This is a movement!#MakeAmericaGreatAgain	Slogans
+DT_tweets_220_1.txt	17	27	so amazing	Loaded_Language
+DT_tweets_220_1.txt	29	83	Your mother is and always has been an incredible woman	Loaded_Language
+DT_tweets_222_2.txt	0	15	Crooked Hillary	Name_Calling,Labeling
+DT_tweets_222_3.txt	109	138	I will bring back jobs to USA	Slogans
+DT_tweets_231_9.txt	98	123	Not much power or insight	Doubt
+DT_tweets_243_3.txt	0	66	Wow @CNN is really working hard to make me look as bad as possible	Doubt
+DT_tweets_243_3.txt	68	87	Very unprofessional	Name_Calling,Labeling
+DT_tweets_243_3.txt	110	124	bad television	Loaded_Language
+DT_tweets_250_8.txt	16	33	dopey @CNN flunky	Name_Calling,Labeling
+DT_tweets_250_9.txt	0	94	Bernie Sanders is being treated very badly by the Democrats - the system is rigged against him	Causal_Oversimplification
+DT_tweets_267_2.txt	58	79	MakeAmericaGreatAgain	Slogans
+DT_tweets_267_3.txt	0	123	Crooked Hillary Clinton is a fraud who has put the public and country at risk by her illegal and very stupid use of e-mails	Flag-Waving
+DT_tweets_268_12.txt	0	41	Crooked Hillary no longer has credibility	Doubt
+DT_tweets_268_12.txt	72	128	People will not allow another four years of incompetence	Appeal_to_fear-prejudice
+DT_tweets_268_13.txt	0	3	Bad	Loaded_Language
+DT_tweets_268_13.txt	19	42	Crooked Hillary Clinton	Name_Calling,Labeling
+DT_tweets_268_13.txt	81	114	She doesnt even look presidential	Exaggeration,Minimisation
+DT_tweets_287_6.txt	38	52	Allah hu Akbar	Repetition
+DT_tweets_287_6.txt	60	71	slaughtered	Loaded_Language
+DT_tweets_287_7.txt	70	90	weak and ineffective	Name_Calling,Labeling
+DT_tweets_28_16.txt	0	123	Everybody that loves the people of New York and all they have been thru should get hypocrites like Ted Cruz out of politics	Flag-Waving
+DT_tweets_320_5.txt	56	80	MAKE AMERICA GREAT AGAIN	Slogans
+DT_tweets_354_8.txt	29	36	destroy	Loaded_Language
+DT_tweets_354_8.txt	57	66	bad moves	Loaded_Language
+DT_tweets_365_4.txt	30	51	dumb one-sided panels	Loaded_Language
+DT_tweets_365_4.txt	108	132	Make America Great Again	Slogans
+DT_tweets_369_8.txt	0	20	Great job @EricTrump	Thought-terminating_Cliches
+DT_tweets_369_8.txt	22	34	Proud of you	Slogans
+DT_tweets_378_16.txt	120	123	BAD	Loaded_Language
+DT_tweets_398_5.txt	0	138	Crooked Hillary Clinton is being protected by the media. She is not a talented person or politician. The dishonest media refuses to expose	Doubt
+DT_tweets_409_1.txt	0	58	Together we are going to MAKE AMERICA SAFE AND GREAT AGAIN	Slogans
+DT_tweets_448_4.txt	61	89	MakeAmericaGreatAgainTickets	Slogans
+DT_tweets_448_5.txt	35	74	Together we will #MakeAmericaGreatAgain	Slogans
+DT_tweets_455_1.txt	90	99	fantastic	Loaded_Language
+DT_tweets_460_8.txt	87	128	We will bring jobs back where they belong	Slogans
+DT_tweets_473_2.txt	20	46	My supporters are the best	Exaggeration,Minimisation
+DT_tweets_473_2.txt	65	69	hard	Loaded_Language
+DT_tweets_477_7.txt	35	47	really smart	Loaded_Language
+DT_tweets_491_4.txt	8	33	self-righteous hypocrites	Name_Calling,Labeling
+DT_tweets_492_51.txt	15	30	Its US vs. them	Slogans
+DT_tweets_505_9.txt	38	43	Great	Loaded_Language
+DT_tweets_505_9.txt	69	88	total media hit job	Loaded_Language
+DT_tweets_511_12.txt	0	35	Drugs are pouring into this country	Flag-Waving
+DT_tweets_511_12.txt	37	76	If we have no border we have no country	Black-and-White_Fallacy
+DT_tweets_511_13.txt	25	45	American tax dollars	Flag-Waving
+DT_tweets_538_8.txt	1	33	CrookedHillary is unfit to serve	Doubt
+DT_tweets_539_12.txt	39	60	MakeAmericaGreatAgain	Slogans
+DT_tweets_544_12.txt	98	111	Very exciting	Loaded_Language
+DT_tweets_59_17.txt	0	17	Thank you America	Slogans
+DT_tweets_68_4.txt	64	80	the great people	Flag-Waving
+DT_tweets_77_2.txt	0	23	Thank you New Hampshire	Slogans
+DT_tweets_77_3.txt	65	74	very weak	Loaded_Language
+DT_tweets_77_3.txt	121	133	Not a leader	Name_Calling,Labeling
+DT_tweets_88_1.txt	43	54	our borders	Flag-Waving
+DT_tweets_88_1.txt	56	98	We need to MAKE AMERICA SAFE & GREAT AGAIN	Flag-Waving
+DT_tweets_95_4.txt	0	82	Why does @megynkelly devote so much time on her shows to me almost always negative	Doubt
+DT_tweets_95_4.txt	84	117	Without me her ratings would tank	Appeal_to_fear-prejudice
+DT_tweets_95_5.txt	97	132	the worst president in U.S. history	Exaggeration,Minimisation
+DT_tweets_97_6.txt	1	22	MakeAmericaGreatAgain	Slogans
+DT_tweets_97_7.txt	0	24	Thank you South Carolina	Slogans
+DT_tweets_97_7.txt	26	67	Together WE WILL MAKE AMERICA GREAT AGAIN	Slogans
+HC_press_release_165.txt	1263	1273	bad as the	Exaggeration,Minimisation
+HC_press_release_165.txt	1458	1461	bad	Loaded_Language
+HC_press_release_171.txt	1533	1558	She was genuinely shocked	Repetition
+HC_press_release_171.txt	1843	1860	genuinely shocked	Repetition
+HC_press_release_171.txt	2213	2230	genuinely shocked	Repetition
+HC_press_release_171.txt	3119	3181	"this woman should be the next president of the United States """	Flag-Waving
+HC_press_release_171.txt	3508	3540	your vote absolutely does matter	Slogans
+HC_press_release_171.txt	3545	3598	we have the power to change the politics of our state	Flag-Waving
+HC_press_release_171.txt	3686	3848	a red state that your vote absolutely does matter And we have the power to change the politics of our state by voting for someone who is genuine and who is for us	Flag-Waving
+HC_press_release_171.txt	11288	11299	even bigger	Repetition
+HC_press_release_171.txt	12674	12688	an even bigger	Repetition
+HC_press_release_171.txt	12997	13008	even bigger	Repetition
+HC_press_release_171.txt	13307	13318	even bigger	Repetition
+HC_press_release_171.txt	13910	13929	a serious candidate	Repetition
+HC_press_release_171.txt	13994	14021	Too much is at stake for us	Exaggeration,Minimisation
+HC_press_release_171.txt	14209	14228	a serious candidate	Repetition
+HC_press_release_171.txt	14852	14871	a serious candidate	Repetition
+HC_press_release_171.txt	15192	15211	a serious candidate	Repetition
+HC_press_release_171.txt	17639	17657	I wouldnt trade my	Exaggeration,Minimisation
+HC_press_release_171.txt	17964	17973	I wouldnt	Exaggeration,Minimisation
+HC_press_release_171.txt	18252	18270	I wouldnt trade my	Exaggeration,Minimisation
+HC_press_release_171.txt	18292	18307	"for the world."""	Exaggeration,Minimisation
+HC_press_release_171.txt	19629	19664	treat ourselves not cheat ourselves	Loaded_Language
+HC_press_release_206.txt	0	9	"""This may"	Exaggeration,Minimisation
+HC_press_release_206.txt	13	63	"the most consequential campaign of our lifetimes."""	Exaggeration,Minimisation
+HC_press_release_206.txt	78	88	incredible	Loaded_Language
+HC_press_release_206.txt	249	258	"""This may"	Repetition
+HC_press_release_206.txt	262	312	"the most consequential campaign of our lifetimes."""	Exaggeration,Minimisation
+HC_press_release_206.txt	327	337	incredible	Loaded_Language
+HC_press_release_44.txt	89	95	uphill	Loaded_Language
+HC_press_release_44.txt	167	202	two billionaire hedge fund managers	Name_Calling,Labeling
+HC_press_release_44.txt	527	562	two billionaire hedge fund managers	Name_Calling,Labeling
+HC_press_release_44.txt	580	588	ad blitz	Loaded_Language
+HC_press_release_44.txt	1925	1930	scars	Loaded_Language
+HC_press_release_44.txt	2691	2705	smear campaign	Loaded_Language
+HC_press_release_44.txt	3028	3042	smear campaign	Loaded_Language
+HC_press_release_44.txt	3136	3143	wrecked	Loaded_Language
+HC_press_release_44.txt	3199	3205	Beware	Causal_Oversimplification
+HC_press_release_44.txt	3270	3277	wrecked	Loaded_Language
+HC_press_release_44.txt	3347	3362	"Phony Express."""	Name_Calling,Labeling
+HC_press_release_44.txt	3617	3627	tirelessly	Loaded_Language
+HC_press_release_44.txt	3647	3664	hugely successful	Exaggeration,Minimisation
+HC_press_release_44.txt	3758	3775	worked tirelessly	Loaded_Language
+HC_press_release_44.txt	3795	3812	hugely successful	Loaded_Language
+HC_press_release_44.txt	4033	4089	"""one of the most strident advocates"" of gun restrictions"	Exaggeration,Minimisation
+HC_press_release_44.txt	4261	4296	"""one of the most strident advocates"	Exaggeration,Minimisation
+HC_press_release_44.txt	4864	4873	Americans	Flag-Waving
+HC_press_release_44.txt	4896	4960	"""the most significant piece of pro-gun legislation in 20 years."""	Exaggeration,Minimisation
+HC_press_release_44.txt	5080	5144	"""the most significant piece of pro-gun legislation in 20 years."""	Exaggeration,Minimisation
+HC_press_release_45.txt	0	14	"""In a dogfight"	Loaded_Language
+HC_press_release_45.txt	117	142	glowing joint endorsement	Loaded_Language
+HC_press_release_45.txt	467	480	glowing joint	Loaded_Language
+HC_press_release_45.txt	2088	2097	crippling	Loaded_Language
+HC_press_release_45.txt	2402	2421	crippling sanctions	Repetition
+HC_press_release_45.txt	2555	2564	tragedies	Loaded_Language
+HC_press_release_45.txt	2757	2776	crippling sanctions	Repetition
+HC_press_release_45.txt	2910	2919	tragedies	Loaded_Language
+HC_press_release_45.txt	3057	3128	"ran the State Department in the most effective way that Ive ever seen."""	Exaggeration,Minimisation
+HC_press_release_45.txt	3273	3347	"ran the State Department in the most effective way that Ive ever seen."" ""W"	Exaggeration,Minimisation
+HC_press_release_45.txt	3673	3702	embattled human rights leader	Name_Calling,Labeling
+HC_press_release_45.txt	4206	4210	took	Loaded_Language
+HC_press_release_45.txt	6863	6900	"America makes its greatest progress."""	Repetition
+HC_press_release_45.txt	7319	7356	"America makes its greatest progress."""	Repetition
+HC_press_release_45.txt	7775	7812	"America makes its greatest progress."""	Repetition
+HC_press_release_79.txt	4581	4599	weve got to tackle	Repetition
+HC_press_release_79.txt	4955	4973	weve got to tackle	Repetition
+HC_press_release_79.txt	5333	5351	weve got to tackle	Repetition
+HC_press_release_79.txt	7124	7132	American	Flag-Waving
+HC_press_release_79.txt	7426	7446	"the American Dream."""	Repetition
+HC_press_release_79.txt	7447	7482	"""Thats the basic bargain of America"	Flag-Waving
+HC_press_release_79.txt	7484	7532	You work hard you do your part you can get ahead	Slogans
+HC_press_release_79.txt	7664	7684	"the American Dream."""	Repetition
+HC_press_release_79.txt	7692	7720	the basic bargain of America	Flag-Waving
+HC_press_release_79.txt	7722	7735	You work hard	Slogans
+HC_press_release_79.txt	7939	7973	"of it That is the American Dream."""	Repetition
+HC_press_release_79.txt	7974	8009	"""Thats the basic bargain of America"	Flag-Waving
+HC_press_release_79.txt	8011	8019	You work	Slogans
+HC_press_release_79.txt	8094	8106	awfully hard	Repetition
+HC_press_release_79.txt	8443	8455	awfully hard	Repetition
+HC_press_release_79.txt	8859	8871	awfully hard	Repetition
+HC_press_release_93.txt	5468	5516	"""She is the best change-maker I have ever known"""	Loaded_Language
+HC_press_release_93.txt	5815	5855	"the best change-maker I have ever known"""	Repetition
+HC_press_release_93.txt	6119	6159	"the best change-maker I have ever known"""	Repetition
+HC_press_release_93.txt	6496	6536	"the best change-maker I have ever known"""	Repetition
+HC_press_release_93.txt	6905	6945	"the best change-maker I have ever known"""	Repetition
+HC_statement_349.txt	50	99	has painted Mexicans asxa0rapistsxa0and criminals	Repetition
+HC_statement_349.txt	488	537	has painted Mexicans asxa0rapistsxa0and criminals	Repetition
+HC_statement_349.txt	926	975	has painted Mexicans asxa0rapistsxa0and criminals	Repetition
+HC_statement_349.txt	1698	1707	splitting	Doubt
+HC_statement_349.txt	1727	1738	deportation	Black-and-White_Fallacy
+HC_statement_349.txt	1753	1790	Mexicans asxa0rapistsxa0and criminals	Name_Calling,Labeling
+HC_statement_349.txt	2146	2155	splitting	Repetition
+HC_statement_349.txt	2175	2186	deportation	Repetition
+HC_statement_361.txt	1448	1461	"our country """	Repetition
+HC_statement_361.txt	1759	1772	"our country """	Repetition
+HC_statement_361.txt	1831	1851	I couldnt be prouder	Repetition
+HC_statement_361.txt	1899	1931	"The stakes could not be higher """	Repetition
+HC_statement_361.txt	1950	2011	Donald Trump has based his campaign on prejudice and paranoia	Flag-Waving
+HC_statement_361.txt	2119	2132	"our country """	Repetition
+HC_statement_361.txt	2191	2211	I couldnt be prouder	Repetition
+HC_statement_361.txt	2259	2291	"The stakes could not be higher """	Repetition
+HC_statement_361.txt	2310	2435	Donald Trump has based his campaign on prejudice and paranoia He has insulted immigrants and demeaned women He has called for	Causal_Oversimplification
+HC_statement_361.txt	2489	2502	"our country """	Repetition
+HC_statement_361.txt	2561	2581	I couldnt be prouder	Repetition
+HC_statement_361.txt	2629	2661	"The stakes could not be higher """	Repetition
+HC_statement_361.txt	2680	2787	Donald Trump has based his campaign on prejudice and paranoia He has insulted immigrants and demeaned women	Flag-Waving
+HC_statement_361.txt	2866	2879	"our country """	Repetition
+HC_statement_361.txt	3017	3038	"could not be higher """	Flag-Waving
+HC_statement_361.txt	3057	3118	Donald Trump has based his campaign on prejudice and paranoia	Flag-Waving
+HC_statement_361.txt	3122	3164	has insulted immigrants and demeaned women	Flag-Waving
+HC_statement_361.txt	3378	3410	"The stakes could not be higher """	Repetition
+HC_statement_361.txt	3442	3490	has based his campaign on prejudice and paranoia	Repetition
+HC_statement_361.txt	3498	3517	insulted immigrants	Flag-Waving
+HC_statement_361.txt	3752	3784	"The stakes could not be higher """	Repetition
+HC_statement_361.txt	3816	3864	has based his campaign on prejudice and paranoia	Repetition
+HC_statement_361.txt	4184	4228	based his campaign on prejudice and paranoia	Repetition
+HC_statement_361.txt	4687	4735	mocked and mimicked a reporter with a disability	Flag-Waving
+HC_statement_361.txt	4873	5036	"a man who signed a law that would have allowed Indiana businesses to discriminate against LGBT people ""Donald Trump does not understand a basic truth about America"	Flag-Waving
+HC_statement_361.txt	5038	5088	"we are stronger together ""Americans dont tear each"	Flag-Waving
+HC_statement_361.txt	5654	5676	"""Donald Trump does not"	Flag-Waving
+HC_statement_361.txt	5717	5752	"we are stronger together ""Americans"	Flag-Waving
+HC_statement_361.txt	6075	6108	"""Donald Trump does not understand"	Flag-Waving
+HC_statement_361.txt	6138	6178	"we are stronger together ""Americans dont"	Flag-Waving
+HC_statement_361.txt	7666	7722	"one nation indivisible ""The future we want is within our"	Flag-Waving
+HC_statement_375.txt	0	20	"""Americas commitment"	Flag-Waving
+HC_statement_375.txt	60	85	rock-solid and unwavering	Repetition
+HC_statement_375.txt	509	529	"""Americas commitment"	Flag-Waving
+HC_statement_375.txt	569	594	rock-solid and unwavering	Repetition
+HC_statement_375.txt	1751	1764	destabilizing	Appeal_to_fear-prejudice
+HC_statement_375.txt	2121	2134	destabilizing	Appeal_to_fear-prejudice
+HC_statement_413.txt	21	51	beyond the shadow of any doubt	Doubt
+HC_statement_413.txt	150	212	clear attempt to interfere with the integrity of our elections	Doubt
+HC_statement_413.txt	248	288	Donald Trump continues to make apologies	Doubt
+HC_statement_413.txt	439	445	of any	Doubt
+HC_statement_413.txt	503	544	was carried out by the Russian government	Doubt
+HC_statement_413.txt	550	612	clear attempt to interfere with the integrity of our elections	Doubt
+HC_statement_413.txt	906	1061	clear attempt to interfere with the integrity of our elections The only remaining question is why Donald Trump continues to make apologies for the Russians	Doubt
+HC_statement_413.txt	1660	1671	played dumb	Repetition
+HC_statement_413.txt	1982	1993	played dumb	Repetition
+HC_statement_413.txt	2290	2301	played dumb	Repetition
+HC_statement_413.txt	2560	2635	to refuse It should concern every American that Russia is willing to engage	Doubt
+HC_statement_413.txt	2897	3083	to refuse It should concern every American that Russia is willing to engage in such hostile acts in order to help Donald Trump become President of the United States But even worse Trumps	Doubt
+HC_statement_413.txt	3223	3387	to refuse It should concern every American that Russia is willing to engage in such hostile acts in order to help Donald Trump become President of the United States	Doubt
+HC_statement_413.txt	3545	3713	to refuse It should concern every American that Russia is willing to engage in such hostile acts in order to help Donald Trump become President of the United States But	Doubt
+HC_statement_413.txt	3774	3947	If he wants to reassure American voters he must not only acknowledge and condemn Russias role in this outrageous intrusion against U.S interests but he must finally disclose	Repetition
+HC_statement_413.txt	3967	3980	American that	Doubt
+HC_statement_413.txt	4162	4335	If he wants to reassure American voters he must not only acknowledge and condemn Russias role in this outrageous intrusion against U.S interests but he must finally disclose	Repetition
+HC_statement_413.txt	4413	4426	American that	Flag-Waving
+HC_statement_413.txt	4608	4781	If he wants to reassure American voters he must not only acknowledge and condemn Russias role in this outrageous intrusion against U.S interests but he must finally disclose	Repetition

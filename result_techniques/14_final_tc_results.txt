@@ -1,0 +1,786 @@
+article_id	span_start	span_end	span	context	label
+DT_press_release_210.txt	153	163	formidable	Repetition
+DT_press_release_210.txt	449	459	tremendous	Repetition
+DT_press_release_210.txt	624	634	formidable	Repetition
+DT_press_release_210.txt	920	930	tremendous	Repetition
+DT_press_release_210.txt	1095	1105	formidable	Repetition
+DT_press_release_210.txt	1391	1401	tremendous	Repetition
+DT_press_release_210.txt	1495	1505	formidable	Repetition
+DT_press_release_210.txt	1871	1881	formidable	Repetition
+DT_press_release_210.txt	2167	2177	tremendous	Repetition
+DT_press_release_210.txt	2684	2693	resilient	Repetition
+DT_press_release_210.txt	3637	3646	resilient	Repetition
+DT_press_release_210.txt	4082	4091	resilient	Repetition
+DT_remarks_404.txt	44	70	heartbreak and devastation	Loaded_Language
+DT_remarks_404.txt	450	476	heartbreak and devastation	Loaded_Language
+DT_remarks_404.txt	816	827	devastation	Loaded_Language
+DT_remarks_404.txt	2249	2267	"one great future """	Repetition
+DT_remarks_404.txt	2301	2313	New American	Repetition
+DT_remarks_404.txt	2406	2417	our country	Repetition
+DT_remarks_404.txt	2517	2535	"one great future """	Slogans
+DT_remarks_404.txt	2569	2581	New American	Repetition
+DT_remarks_404.txt	2674	2685	our country	Repetition
+DT_remarks_404.txt	2843	2862	New American Future	Repetition
+DT_remarks_404.txt	2948	2959	our country	Repetition
+DT_remarks_404.txt	3259	3270	our country	Repetition
+DT_remarks_404.txt	3900	4022	The chaos and violence on our streets and the assaults on law enforcement are an attack against all peaceful citizens If I	Flag-Waving
+DT_remarks_404.txt	4193	4198	chaos	Flag-Waving
+DT_remarks_404.txt	4203	4211	violence	Repetition
+DT_remarks_404.txt	4235	4243	assaults	Flag-Waving
+DT_remarks_404.txt	4247	4262	law enforcement	Flag-Waving
+DT_remarks_404.txt	4267	4441	an attack against all peaceful citizens If I am elected President this chaos and violence will end – and it will end very quickly Every single citizen in our land has a right	Flag-Waving
+DT_remarks_404.txt	4498	4516	chaos and violence	Flag-Waving
+DT_remarks_404.txt	4540	4567	assaults on law enforcement	Flag-Waving
+DT_remarks_404.txt	4572	4688	an attack against all peaceful citizens If I am elected President this chaos and violence will end – and it will end	Flag-Waving
+DT_remarks_404.txt	4726	4734	our land	Flag-Waving
+DT_remarks_404.txt	4771	4788	one united nation	Flag-Waving
+DT_remarks_404.txt	4843	5004	assaults on law enforcement are an attack against all peaceful citizens If I am elected President this chaos and violence will end – and it will end very quickly	Flag-Waving
+DT_remarks_404.txt	5029	5037	our land	Flag-Waving
+DT_remarks_404.txt	5074	5091	one united nation	Flag-Waving
+DT_remarks_404.txt	5100	5125	protect all of our people	Flag-Waving
+DT_remarks_404.txt	5187	5253	We cannot make America great again if we If I am elected President	Black-and-White_Fallacy
+DT_remarks_404.txt	5259	5277	chaos and violence	Flag-Waving
+DT_remarks_404.txt	5500	5567	We cannot make America great again if we leave any community behind	Repetition
+DT_remarks_404.txt	5837	5904	We cannot make America great again if we leave any community behind	Repetition
+DT_remarks_404.txt	5972	5993	I will not rest until	Repetition
+DT_remarks_404.txt	6180	6247	We cannot make America great again if we leave any community behind	Repetition
+DT_remarks_404.txt	6315	6336	I will not rest until	Repetition
+DT_remarks_404.txt	6442	6570	But we must also provide opportunities for all of our people We cannot make America great again if we leave any community behind	Flag-Waving
+DT_remarks_404.txt	6638	6659	I will not rest until	Repetition
+DT_remarks_404.txt	6726	6740	American Dream	Repetition
+DT_remarks_404.txt	7012	7033	I will not rest until	Repetition
+DT_remarks_404.txt	7100	7108	American	Repetition
+DT_remarks_404.txt	7270	7289	New American Future	Repetition
+DT_remarks_404.txt	7446	7467	I will not rest until	Repetition
+DT_remarks_404.txt	7534	7548	American Dream	Repetition
+DT_remarks_404.txt	7704	7723	New American Future	Repetition
+DT_remarks_404.txt	7855	7876	I will not rest until	Repetition
+DT_remarks_404.txt	7943	7957	American Dream	Repetition
+DT_remarks_404.txt	8113	8132	New American Future	Repetition
+DT_remarks_404.txt	8304	8318	American Dream	Repetition
+DT_remarks_404.txt	8474	8486	New American	Repetition
+DT_remarks_404.txt	9190	9203	all Americans	Repetition
+DT_remarks_404.txt	9224	9236	New American	Repetition
+DT_remarks_404.txt	10743	10751	consumed	Loaded_Language
+DT_remarks_404.txt	11347	11361	They are dying	Appeal_to_fear-prejudice
+DT_remarks_404.txt	12261	12365	"the border that deserves to be safe in their own country but is instead living with no security at all """	Flag-Waving
+DT_remarks_404.txt	12596	12604	insiders	Name_Calling,Labeling
+DT_remarks_404.txt	12639	12681	the forgotten men and women in our society	Repetition
+DT_remarks_404.txt	12896	12938	the forgotten men and women in our society	Repetition
+DT_remarks_404.txt	13095	13116	"forgotten Americans """	Repetition
+DT_remarks_404.txt	13163	13180	insiders fighting	Name_Calling,Labeling
+DT_remarks_404.txt	13206	13248	the forgotten men and women in our society	Repetition
+DT_remarks_404.txt	13405	13426	"forgotten Americans """	Repetition
+DT_remarks_404.txt	13511	13525	our government	Flag-Waving
+DT_remarks_404.txt	13571	13598	the forgotten men and women	Name_Calling,Labeling
+DT_remarks_404.txt	13602	13613	our society	Flag-Waving
+DT_remarks_404.txt	13770	13791	"forgotten Americans """	Repetition
+DT_remarks_404.txt	14010	14089	poverty the unemployment the failing schools the jobs moving to other countries	Appeal_to_fear-prejudice
+DT_remarks_404.txt	14114	14135	"forgotten Americans """	Repetition
+DT_remarks_404.txt	14675	14756	"the fight of my life its the fight ofour lives – together – to save our country."""	Flag-Waving
+DT_remarks_404.txt	14816	14950	"how much is at stake for this country This isnt just the fight of my life its the fight ofour lives – together – to save our country."""	Flag-Waving
+DT_remarks_404.txt	14951	15162	I refuse to let another generation of American children be excluded from the American Dream Our whole country loses when young people of limitless potential are denied the opportunity to contribute their talents	Flag-Waving
+DT_remarks_404.txt	15174	15214	"lives – together – to save our country."""	Flag-Waving
+DT_remarks_404.txt	15215	15460	I refuse to let another generation of American children be excluded from the American Dream Our whole country loses when young people of limitless potential are denied the opportunity to contribute their talents because we failed to provide them	Flag-Waving
+DT_remarks_404.txt	15526	15574	"""Our whole country loses every time a kid doesnt"	Flag-Waving
+DT_remarks_404.txt	15619	15826	be excluded from the American Dream Our whole country loses when young people of limitless potential are denied the opportunity to contribute their talents because we failed to provide them the opportunities	Flag-Waving
+DT_remarks_404.txt	15874	16003	"""Our whole country loses every time a kid doesnt graduate from high school or fails to enter the workforce or worse still is lost"	Flag-Waving
+DT_remarks_404.txt	16011	16046	"dreadful world of drugs and crime."""	Loaded_Language
+DT_remarks_404.txt	16079	16136	"""Our whole country loses every time a kid doesnt graduate"	Flag-Waving
+DT_remarks_404.txt	16189	16208	worse still is lost	Loaded_Language
+DT_remarks_404.txt	16216	16230	dreadful world	Loaded_Language
+DT_remarks_404.txt	16291	16299	terrible	Loaded_Language
+DT_remarks_404.txt	16451	16458	failing	Repetition
+DT_remarks_404.txt	16471	16479	terrible	Loaded_Language
+DT_remarks_404.txt	16764	16796	I have no patience for injustice	Black-and-White_Fallacy
+DT_remarks_404.txt	17047	17192	"I have no patience for injustice no tolerance for government incompetence no sympathy for leaders who fail their citizens ""Thats why I am running"	Causal_Oversimplification
+DT_remarks_404.txt	17194	17269	to end the decades of bitter failure and to offer the American people a new	Flag-Waving
+DT_remarks_404.txt	17298	17421	"I have no patience for injustice no tolerance for government incompetence no sympathy for leaders who fail their citizens """	Black-and-White_Fallacy
+DT_remarks_404.txt	17467	17481	bitter failure	Loaded_Language
+DT_remarks_404.txt	17495	17642	"the American people a new future of honesty justice and opportunity A future where America and its people always – and I mean always – come first."""	Flag-Waving
+DT_remarks_404.txt	17682	17730	"people always – and I mean always – come first."""	Slogans
+DT_remarks_404.txt	17731	17792	"""Arent you tired of a system that gets rich at your expense?"""	Doubt
+DT_remarks_404.txt	17793	17863	"""Arent you tired of the same old lies and the same old broken promises"	Doubt
+DT_remarks_404.txt	17902	17941	"one of the greatest liars of all time."""	Exaggeration,Minimisation
+DT_remarks_404.txt	17942	18039	"""Arent you tired of arrogant leaders who look down on you instead of serving and protecting you?"""	Doubt
+DT_remarks_404.txt	18195	18220	the American people first	Flag-Waving
+DT_remarks_404.txt	18477	18502	the American people first	Flag-Waving
+DT_remarks_404.txt	19154	19163	on my own	Loaded_Language
+DT_remarks_404.txt	19175	19229	nobody else is My only interest is the American people	Repetition
+DT_remarks_404.txt	19247	19371	"I will never lie to you I will never tell you something I do not believe I will never put anyones interests ahead of yours."""	Doubt
+DT_remarks_404.txt	19498	19552	nobody else is My only interest is the American people	Repetition
+DT_remarks_404.txt	19667	19718	"I will never put anyones interests ahead of yours."""	Slogans
+DT_remarks_404.txt	19845	19899	nobody else is My only interest is the American people	Repetition
+DT_remarks_404.txt	19978	20064	"she never tells the truth One lie after another put anyones interests ahead of yours."""	Doubt
+DT_remarks_404.txt	20191	20245	nobody else is My only interest is the American people	Repetition
+DT_remarks_404.txt	20324	20437	"she never tells the truth One lie after another and getting worse each passing day ""The American people are still"	Flag-Waving
+DT_remarks_404.txt	20528	20582	nobody else is My only interest is the American people	Repetition
+DT_remarks_404.txt	20661	20739	she never tells the truth One lie after another and getting worse each passing	Doubt
+DT_remarks_404.txt	20744	20764	"""The American people"	Flag-Waving
+DT_remarks_404.txt	20861	20915	nobody else is My only interest is the American people	Repetition
+DT_remarks_404.txt	20994	21041	she never tells the truth One lie after another	Doubt
+DT_remarks_404.txt	21082	21097	American people	Flag-Waving
+DT_remarks_404.txt	21321	21423	turning the State Department into a pay-for-play operation where favors are sold to the highest bidder	Loaded_Language
+DT_remarks_404.txt	21719	21750	death destruction and terrorism	Loaded_Language
+DT_remarks_404.txt	21992	22009	He lied about the	Loaded_Language
+DT_remarks_404.txt	22021	22041	openly and blatantly	Repetition
+DT_remarks_404.txt	22044	22079	"just like he lied about Obamacare."""	Repetition
+DT_remarks_404.txt	22112	22126	every American	Repetition
+DT_remarks_404.txt	22346	22372	He lied about the hostages	Repetition
+DT_remarks_404.txt	22375	22395	openly and blatantly	Repetition
+DT_remarks_404.txt	22398	22433	"just like he lied about Obamacare."""	Repetition
+DT_remarks_404.txt	22434	22552	"""Now the Administration has put every American travelling overseas including our military personnel at greater risk of"	Flag-Waving
+DT_remarks_404.txt	22641	22667	He lied about the hostages	Repetition
+DT_remarks_404.txt	22670	22690	openly and blatantly	Repetition
+DT_remarks_404.txt	22693	22728	"just like he lied about Obamacare."""	Repetition
+DT_remarks_404.txt	22729	22906	"""Now the Administration has put every American travelling overseas including our military personnel at greater risk of being kidnapped Hillary Clinton owns President Obamas Iran"	Flag-Waving
+DT_remarks_404.txt	22914	22974	"one more reason she can never be allowed to be President."" """	Causal_Oversimplification
+DT_remarks_404.txt	22986	23021	"just like he lied about Obamacare."""	Repetition
+DT_remarks_404.txt	23027	23156	the Administration has put every American travelling overseas including our military personnel at greater risk of being kidnapped	Flag-Waving
+DT_remarks_404.txt	23223	23265	"she can never be allowed to be President."""	Repetition
+DT_remarks_404.txt	23451	23504	military personnel at greater risk of being kidnapped	Appeal_to_fear-prejudice
+DT_remarks_404.txt	23571	23613	"she can never be allowed to be President."""	Repetition
+DT_remarks_404.txt	23906	23924	Obamas Iran policy	Repetition
+DT_remarks_404.txt	23941	23983	"she can never be allowed to be President."""	Repetition
+DT_remarks_404.txt	24307	24342	another Hillary Clinton-backed deal	Name_Calling,Labeling
+DT_remarks_404.txt	24361	24370	beautiful	Loaded_Language
+DT_remarks_404.txt	25121	25157	"disaster totally unfit for the job """	Repetition
+DT_remarks_404.txt	25405	25441	"disaster totally unfit for the job """	Repetition
+DT_remarks_404.txt	25675	25711	"disaster totally unfit for the job """	Repetition
+DT_remarks_404.txt	25937	25952	Our open border	Repetition
+DT_remarks_404.txt	26004	26019	our communities	Flag-Waving
+DT_remarks_404.txt	26194	26209	Our open border	Repetition
+DT_remarks_404.txt	26366	26385	wonderful Americans	Repetition
+DT_remarks_404.txt	26563	26578	Our open border	Repetition
+DT_remarks_404.txt	26630	26645	our communities	Flag-Waving
+DT_remarks_404.txt	26735	26754	wonderful Americans	Repetition
+DT_remarks_404.txt	26875	26889	crying parents	Repetition
+DT_remarks_404.txt	27045	27064	wonderful Americans	Repetition
+DT_remarks_404.txt	27185	27199	crying parents	Repetition
+DT_remarks_404.txt	27229	27237	violence	Repetition
+DT_remarks_404.txt	27461	27475	crying parents	Repetition
+DT_remarks_404.txt	27505	27513	violence	Repetition
+DT_remarks_404.txt	27729	27738	Sanctuary	Repetition
+DT_remarks_404.txt	27849	27858	Sanctuary	Name_Calling,Labeling
+DT_remarks_404.txt	27922	27959	My opponent supports Sanctuary Cities	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_404.txt	27964	28004	where was the Sanctuary for Kate Steinle	Doubt
+DT_remarks_404.txt	28006	28082	Where was the Sanctuary for the children of Laura Michelle Sabine and Jamiel	Doubt
+DT_remarks_404.txt	28084	28159	Where was the Sanctuary for every other parent who has suffered so horribly	Doubt
+DT_remarks_404.txt	28219	28234	our politicians	Repetition
+DT_remarks_404.txt	28501	28516	our politicians	Repetition
+DT_remarks_404.txt	28707	28724	American Families	Flag-Waving
+DT_remarks_404.txt	28863	28878	our politicians	Repetition
+DT_remarks_404.txt	29028	29051	we will deliver justice	Repetition
+DT_remarks_404.txt	29069	29184	"American Families We will create a system of immigration that makes us all proud ""Hillary Clintons mistakes destroy"	Flag-Waving
+DT_remarks_404.txt	29213	29228	our politicians	Repetition
+DT_remarks_404.txt	29378	29401	we will deliver justice	Repetition
+DT_remarks_404.txt	29419	29627	"American Families We will create a system of immigration that makes us all proud ""Hillary Clintons mistakes destroy innocent lives sacrifice national security and betray the working families of this country."""	Flag-Waving
+DT_remarks_404.txt	29800	30008	"American Families We will create a system of immigration that makes us all proud ""Hillary Clintons mistakes destroy innocent lives sacrifice national security and betray the working families of this country."""	Flag-Waving
+DT_remarks_404.txt	30031	30095	I will never put personal profit before national security I will	Repetition
+DT_remarks_404.txt	30105	30354	"we will deliver justice for all of these American Families We will create a system of immigration that makes us all proud ""Hillary Clintons mistakes destroy innocent lives sacrifice national security and betray the working families of this country."""	Flag-Waving
+DT_remarks_404.txt	30377	30699	"I will never put personal profit before national security I will never leave our border open to appease donors and special interests I will never support a trade deal that kills American all proud ""Hillary Clintons mistakes destroy innocent lives sacrifice national security and betray the working families of this country"	Flag-Waving
+DT_remarks_404.txt	30724	31069	"I will never put personal profit before national security I will never leave our border open to appease donors and special interests I will never support a trade deal that kills American jobs I will never put the special interests before the national interest I will never put a donor before a voter betray the working families of this country."""	Flag-Waving
+DT_remarks_404.txt	31092	31149	I will never put personal profit before national security	Doubt
+DT_remarks_404.txt	31157	31179	never leave our border	Doubt
+DT_remarks_404.txt	31225	31542	I will never support a trade deal that kills American jobs I will never put the special interests before the national interest I will never put a donor before a voter or a lobbyist before a citizen Instead I will be a champion will never put personal profit before national security I will never leave our border open	Flag-Waving
+DT_remarks_404.txt	31583	31882	"I will never support a trade deal that kills American jobs I will never put the special interests before the national interest I will never put a donor before a voter or a lobbyist before a citizen Instead I will be a champion for the people ""The establishment media doesnt cover what really matters"	Doubt
+DT_remarks_404.txt	31935	32710	"I will never support a trade deal that kills American jobs I will never put the special interests before the national interest I will never put a donor before a voter or a lobbyist before a citizen Instead I will be a champion for the people ""The establishment media doesnt cover what really matters in this country or whats really going on in peoples lives They will a trade deal that kills American jobs I will never put the special interests before the national interest I will never put a donor before a voter or a lobbyist before a citizen Instead I will be a champion for the people ""The establishment media doesnt cover what really matters in this country or whats really going on in peoples lives They will take words of mine out of context and spend a week obsessing"	Flag-Waving
+DT_remarks_404.txt	32831	32931	"champion for the people ""The establishment media doesnt cover what really matters in this country or"	Doubt
+DT_remarks_404.txt	33126	33306	"in peoples lives They will take words of mine out of context and spend a week obsessing over every single syllable and then pretend to discover some hidden meaning in what I said."""	Doubt
+DT_remarks_404.txt	33408	33426	innocent Americans	Flag-Waving
+DT_remarks_404.txt	33598	33616	innocent Americans	Flag-Waving
+DT_remarks_404.txt	34264	34271	failing	Repetition
+DT_remarks_404.txt	34540	34547	failing	Repetition
+DT_remarks_404.txt	34730	34813	the narrative of the people who rigged the system never the voice of the people its	Flag-Waving
+DT_remarks_404.txt	34866	34873	failing	Repetition
+DT_remarks_404.txt	35056	35161	"the narrative of the people who rigged the system never the voice of the people its been rigged against."""	Doubt
+DT_remarks_404.txt	35177	35197	suffering in silence	Loaded_Language
+DT_remarks_404.txt	35375	35484	"Its the narrative of the people who rigged the system never the voice of the people its been rigged against."""	Repetition
+DT_remarks_404.txt	35500	35512	suffering in	Loaded_Language
+DT_remarks_404.txt	35560	35634	"a media class that seems to get outraged over just about everything else """	Repetition
+DT_remarks_404.txt	35651	35769	"insiders Its the narrative of the people who rigged the system never the voice of the people its been rigged against."""	Causal_Oversimplification
+DT_remarks_404.txt	35770	35777	So many	Loaded_Language
+DT_remarks_404.txt	35785	35805	suffering in silence	Loaded_Language
+DT_remarks_404.txt	35845	35919	"a media class that seems to get outraged over just about everything else """	Repetition
+DT_remarks_404.txt	35928	36033	"its not about me Its never been about me Its about all the people in this country who dont have a voice."""	Repetition
+DT_remarks_404.txt	36047	36092	"voice of the people its been rigged against."""	Flag-Waving
+DT_remarks_404.txt	36093	36162	So many people suffering in silence No cameras no coverage no outrage	Loaded_Language
+DT_remarks_404.txt	36168	36242	"a media class that seems to get outraged over just about everything else """	Repetition
+DT_remarks_404.txt	36251	36356	"its not about me Its never been about me Its about all the people in this country who dont have a voice."""	Repetition
+DT_remarks_404.txt	36388	36448	"I am running to be the voice for every been rigged against."""	Appeal_to_fear-prejudice
+DT_remarks_404.txt	36449	36518	So many people suffering in silence No cameras no coverage no outrage	Loaded_Language
+DT_remarks_404.txt	36524	36598	"a media class that seems to get outraged over just about everything else """	Repetition
+DT_remarks_404.txt	36607	36712	"its not about me Its never been about me Its about all the people in this country who dont have a voice."""	Repetition
+DT_remarks_404.txt	36763	36818	the voice for every forgotten part of this country that	Exaggeration,Minimisation
+DT_remarks_404.txt	36835	36909	"a media class that seems to get outraged over just about everything else """	Repetition
+DT_remarks_404.txt	36918	37007	its not about me Its never been about me Its about all the people in this country who don	Flag-Waving
+DT_remarks_404.txt	37088	37138	every forgotten part of this country that has been	Exaggeration,Minimisation
+DT_remarks_404.txt	37188	37276	"Its never been about me Its about all the people in this country who dont have a voice."""	Repetition
+DT_remarks_404.txt	37277	37430	I am running to be their voice I am running to be the voice for every forgotten part of this country that has been waiting and hoping for a better future	Flag-Waving
+DT_remarks_404.txt	37520	37528	powerful	Repetition
+DT_remarks_404.txt	37608	37697	every forgotten part of this country that has been waiting and hoping for a better future	Flag-Waving
+DT_remarks_404.txt	37883	37956	the hedge fund managers the financial lobbyists the Wall Street investors	Name_Calling,Labeling
+DT_remarks_404.txt	38055	38063	powerful	Repetition
+DT_remarks_404.txt	38197	38395	"""Theres a reason the hedge fund managers the financial lobbyists the Wall Street investors are throwing their money at Hillary Clinton Because they know she will make sure the system stays rigged in"	Causal_Oversimplification
+DT_remarks_404.txt	38401	38413	the powerful	Repetition
+DT_remarks_404.txt	38468	38476	powerful	Repetition
+DT_remarks_404.txt	38547	38759	"""Theres a reason the hedge fund managers the financial lobbyists the Wall Street investors are throwing their money at Hillary Clinton Because they know she will make sure the system stays rigged in their favor."""	Causal_Oversimplification
+DT_remarks_404.txt	38765	38803	"the powerful protecting the powerful."""	Repetition
+DT_remarks_404.txt	38804	38844	The insiders fighting for the insiders I	Repetition
+DT_remarks_404.txt	38861	39073	"""Theres a reason the hedge fund managers the financial lobbyists the Wall Street investors are throwing their money at Hillary Clinton Because they know she will make sure the system stays rigged in their favor."""	Causal_Oversimplification
+DT_remarks_404.txt	39079	39117	"the powerful protecting the powerful."""	Repetition
+DT_remarks_404.txt	39118	39156	The insiders fighting for the insiders	Repetition
+DT_remarks_404.txt	39280	39418	"Street investors are throwing their money at Hillary Clinton Because they know she will make sure the system stays rigged in their favor."""	Causal_Oversimplification
+DT_remarks_404.txt	39424	39462	"the powerful protecting the powerful."""	Repetition
+DT_remarks_404.txt	39463	39501	The insiders fighting for the insiders	Repetition
+DT_remarks_404.txt	39729	39825	"at Hillary Clinton Because they know she will make sure the system stays rigged in their favor."""	Causal_Oversimplification
+DT_remarks_404.txt	39831	39869	"the powerful protecting the powerful."""	Repetition
+DT_remarks_404.txt	39870	39908	The insiders fighting for the insiders	Repetition
+DT_remarks_404.txt	40162	40185	"rigged in their favor."""	Loaded_Language
+DT_remarks_404.txt	40191	40229	"the powerful protecting the powerful."""	Repetition
+DT_remarks_404.txt	40230	40268	The insiders fighting for the insiders	Repetition
+DT_remarks_404.txt	40401	40411	destroying	Black-and-White_Fallacy
+DT_remarks_404.txt	40697	40707	destroying	Black-and-White_Fallacy
+DT_remarks_404.txt	40916	40958	the terrorists trying to kill our citizens	Repetition
+DT_remarks_404.txt	40960	41012	we will find you we will destroy you and we will win	Black-and-White_Fallacy
+DT_remarks_404.txt	41178	41220	the terrorists trying to kill our citizens	Repetition
+DT_remarks_404.txt	41222	41276	"we will find you we will destroy you and we will win """	Black-and-White_Fallacy
+DT_remarks_404.txt	41499	41541	the terrorists trying to kill our citizens	Repetition
+DT_remarks_404.txt	41543	41598	"we will find you we will destroy you and we will win ""O"	Black-and-White_Fallacy
+DT_remarks_404.txt	41810	41913	"anyone who doesnt share our values and love our people Anyone who we will destroy you and we will win """	Black-and-White_Fallacy
+DT_remarks_404.txt	42126	42180	anyone who doesnt share our values and love our people	Black-and-White_Fallacy
+DT_remarks_404.txt	42201	42234	Sharia law supplants American law	Black-and-White_Fallacy
+DT_remarks_404.txt	42430	42484	anyone who doesnt share our values and love our people	Black-and-White_Fallacy
+DT_remarks_404.txt	42505	42538	Sharia law supplants American law	Black-and-White_Fallacy
+DT_remarks_404.txt	42763	42871	anyone who doesnt share our values and love our people Anyone who believes Sharia law supplants American law	Black-and-White_Fallacy
+DT_remarks_404.txt	43014	43108	Those who believe in oppressing women gays Hispanics African-Americans and people of different	Black-and-White_Fallacy
+DT_remarks_404.txt	43140	43153	"our country."""	Black-and-White_Fallacy
+DT_remarks_404.txt	43170	43188	our America values	Flag-Waving
+DT_remarks_404.txt	43389	43402	"our country."""	Flag-Waving
+DT_remarks_404.txt	43419	43538	"our America values our American way of life and our American system of government which are all the best in the world """	Flag-Waving
+DT_remarks_404.txt	43613	43646	"not welcome to join our country."""	Slogans
+DT_remarks_404.txt	43663	43744	our America values our American way of life and our American system of government	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_404.txt	43755	43782	"all the best in the world """	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_404.txt	44040	44111	"our American system of government which are all the best in the world """	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_404.txt	44453	44461	"""We have"	Flag-Waving
+DT_remarks_404.txt	44652	44711	"""We have enough problems already we dont need another one."""	Thought-terminating_Cliches
+DT_remarks_404.txt	44784	44828	the best judges and prosecutors in the world	Repetition
+DT_remarks_404.txt	44889	44904	"German people."""	Flag-Waving
+DT_remarks_404.txt	44905	44964	"""We have enough problems already we dont need another one."""	Thought-terminating_Cliches
+DT_remarks_404.txt	45037	45081	the best judges and prosecutors in the world	Repetition
+DT_remarks_404.txt	45190	45200	our people	Flag-Waving
+DT_remarks_404.txt	45390	45434	the best judges and prosecutors in the world	Repetition
+DT_remarks_404.txt	45531	45553	terrorizing our people	Flag-Waving
+DT_remarks_404.txt	45696	45720	terrible trade agreement	Repetition
+DT_remarks_404.txt	45756	45800	the best judges and prosecutors in the world	Repetition
+DT_remarks_404.txt	45897	45919	terrorizing our people	Flag-Waving
+DT_remarks_404.txt	46058	46086	our terrible trade agreement	Repetition
+DT_remarks_404.txt	46091	46122	protect every last American job	Flag-Waving
+DT_remarks_404.txt	46190	46207	gangs and cartels	Flag-Waving
+DT_remarks_404.txt	46212	46254	criminal syndicates terrorizing our people	Flag-Waving
+DT_remarks_404.txt	46397	46421	terrible trade agreement	Repetition
+DT_remarks_404.txt	46426	46587	protect every last American job Hillary Clinton has supported all of the major trade deals that have stripped this country of its jobs and its wealth On taxes we	Flag-Waving
+DT_remarks_404.txt	46678	46702	terrible trade agreement	Repetition
+DT_remarks_404.txt	46707	46738	protect every last American job	Flag-Waving
+DT_remarks_404.txt	46755	46856	has supported all of the major trade deals that have stripped this country of its jobs and its wealth	Flag-Waving
+DT_remarks_404.txt	46882	46895	massively cut	Flag-Waving
+DT_remarks_404.txt	46999	47148	protect every last American job Hillary Clinton has supported all of the major trade deals that have stripped this country of its jobs and its wealth	Flag-Waving
+DT_remarks_404.txt	47174	47183	massively	Flag-Waving
+DT_remarks_404.txt	47407	47416	massively	Flag-Waving
+DT_remarks_404.txt	47616	47625	Americans	Repetition
+DT_remarks_404.txt	48096	48099	bad	Flag-Waving
+DT_remarks_404.txt	48423	48426	bad	Flag-Waving
+DT_remarks_404.txt	48579	48598	She doesnt care how	Flag-Waving
+DT_remarks_404.txt	48746	48758	bad teachers	Flag-Waving
+DT_remarks_404.txt	48902	48939	She doesnt care how many young dreams	Flag-Waving
+DT_remarks_404.txt	48944	48950	dashed	Flag-Waving
+DT_remarks_404.txt	49172	49196	She doesnt care how many	Exaggeration,Minimisation
+DT_remarks_404.txt	49214	49220	dashed	Loaded_Language
+DT_remarks_404.txt	50096	50105	Americans	Repetition
+DT_remarks_404.txt	50401	50410	Americans	Repetition
+DT_remarks_404.txt	50619	50627	disaster	Repetition
+DT_remarks_404.txt	50876	50884	disaster	Repetition
+DT_remarks_404.txt	51037	51051	our government	Flag-Waving
+DT_remarks_404.txt	51194	51202	disaster	Repetition
+DT_remarks_404.txt	51943	51949	lavish	Repetition
+DT_remarks_404.txt	52651	52657	lavish	Repetition
+DT_remarks_404.txt	52905	52911	lavish	Repetition
+DT_remarks_404.txt	53591	53600	Americans	Repetition
+DT_remarks_404.txt	53938	53947	Americans	Repetition
+DT_remarks_404.txt	53971	54100	the bigotry of Hillary Clinton which sees communities of color only as votes and not as human beings worthy of a better future If	Black-and-White_Fallacy
+DT_remarks_404.txt	54209	54218	Americans	Repetition
+DT_remarks_404.txt	54242	54487	the bigotry of Hillary Clinton which sees communities of color only as votes and not as human beings worthy of a better future If African-American voters give Donald Trump a chance by giving me their vote the result for them will be amazing Look	Black-and-White_Fallacy
+DT_remarks_404.txt	54515	54755	the bigotry of Hillary Clinton which sees communities of color only as votes and not as human beings worthy of a better future If African-American voters give Donald Trump a chance by giving me their vote the result for them will be amazing	Flag-Waving
+DT_remarks_404.txt	54929	55042	If African-American voters give Donald Trump a chance by giving me their vote the result for them will be amazing	Black-and-White_Fallacy
+DT_remarks_404.txt	55095	55105	Democratic	Black-and-White_Fallacy
+DT_remarks_404.txt	55680	55685	badly	Loaded_Language
+DT_remarks_404.txt	57063	57076	automatically	Flag-Waving
+DT_remarks_404.txt	57196	57280	for every last American child in this country to have the better future they deserve	Flag-Waving
+DT_remarks_404.txt	57363	57376	automatically	Flag-Waving
+DT_remarks_404.txt	57496	57727	for every last American child in this country to have the better future they deserve In my Administration every American will be treated equally protected equally and honored equally We will reject bigotry and hatred and oppression	Flag-Waving
+DT_remarks_404.txt	57806	57847	every last American child in this country	Flag-Waving
+DT_remarks_404.txt	57908	57922	every American	Repetition
+DT_remarks_404.txt	58216	58230	every American	Repetition
+DT_remarks_404.txt	58823	58933	we can never fix our problems by relying on the same politicians who created these problems in the first place	Flag-Waving
+DT_remarks_404.txt	58952	59012	American people This is the change I am promising all of you	Flag-Waving
+DT_remarks_404.txt	59230	59241	our country	Repetition
+DT_remarks_404.txt	59362	59519	a just society for each and every American But we can never fix our problems by relying on the same politicians who created these problems in the first place	Flag-Waving
+DT_remarks_404.txt	59621	59638	failed status quo	Flag-Waving
+DT_remarks_404.txt	59662	59676	a New American	Repetition
+DT_remarks_404.txt	59693	59850	We will make America strong again We will make we can never fix our problems by relying on the same politicians who created these problems in the first place	Flag-Waving
+DT_remarks_404.txt	59869	59902	our country is on the wrong track	Repetition
+DT_remarks_404.txt	59952	59958	failed	Repetition
+DT_remarks_404.txt	60024	60123	We will make America strong again We will make American proud again We will make America safe again	Repetition
+DT_remarks_404.txt	60136	60193	politicians who created these problems in the first place	Flag-Waving
+DT_remarks_404.txt	60212	60245	our country is on the wrong track	Repetition
+DT_remarks_404.txt	60295	60301	failed	Repetition
+DT_remarks_404.txt	60367	60466	We will make America strong again We will make American proud again We will make America safe again	Repetition
+DT_remarks_404.txt	60510	60542	we will make America great again	Repetition
+DT_remarks_404.txt	60601	60634	our country is on the wrong track	Repetition
+DT_remarks_404.txt	60684	60690	failed	Repetition
+DT_remarks_404.txt	60756	60855	We will make America strong again We will make American proud again We will make America safe again	Repetition
+DT_remarks_404.txt	60899	60931	we will make America great again	Repetition
+DT_remarks_404.txt	61008	61041	our country is on the wrong track	Repetition
+DT_remarks_404.txt	61091	61097	failed	Repetition
+DT_remarks_404.txt	61163	61262	We will make America strong again We will make American proud again We will make America safe again	Repetition
+DT_remarks_404.txt	61306	61338	we will make America great again	Repetition
+DT_remarks_404.txt	61415	61448	our country is on the wrong track	Repetition
+DT_remarks_404.txt	61498	61504	failed	Repetition
+DT_remarks_404.txt	61570	61669	We will make America strong again We will make American proud again We will make America safe again	Repetition
+DT_remarks_404.txt	61713	61745	we will make America great again	Repetition
+DT_remarks_404.txt	61822	61855	our country is on the wrong track	Repetition
+DT_remarks_404.txt	61905	61911	failed	Repetition
+DT_remarks_404.txt	61977	62076	We will make America strong again We will make American proud again We will make America safe again	Repetition
+DT_remarks_404.txt	62120	62152	we will make America great again	Repetition
+DT_remarks_404.txt	62229	62262	our country is on the wrong track	Repetition
+DT_remarks_404.txt	62312	62318	failed	Repetition
+DT_remarks_404.txt	62384	62483	We will make America strong again We will make American proud again We will make America safe again	Repetition
+DT_remarks_404.txt	62527	62559	we will make America great again	Repetition
+DT_remarks_406.txt	40	56	What a crowd Wow	Repetition
+DT_remarks_406.txt	70	86	Boy What a crowd	Repetition
+DT_remarks_406.txt	396	412	What a crowd Wow	Repetition
+DT_remarks_406.txt	426	442	Boy What a crowd	Repetition
+DT_remarks_406.txt	752	768	What a crowd Wow	Repetition
+DT_remarks_406.txt	782	798	Boy What a crowd	Repetition
+DT_remarks_406.txt	1108	1124	What a crowd Wow	Repetition
+DT_remarks_406.txt	1138	1154	Boy What a crowd	Repetition
+DT_remarks_406.txt	1464	1480	What a crowd Wow	Repetition
+DT_remarks_406.txt	1494	1510	Boy What a crowd	Repetition
+DT_remarks_406.txt	1820	1836	What a crowd Wow	Repetition
+DT_remarks_406.txt	1850	1866	Boy What a crowd	Repetition
+DT_remarks_406.txt	2176	2192	What a crowd Wow	Repetition
+DT_remarks_406.txt	2206	2222	Boy What a crowd	Repetition
+DT_remarks_406.txt	2532	2548	What a crowd Wow	Repetition
+DT_remarks_406.txt	2562	2578	Boy What a crowd	Repetition
+DT_remarks_406.txt	2888	2904	What a crowd Wow	Repetition
+DT_remarks_406.txt	2918	2934	Boy What a crowd	Repetition
+DT_remarks_406.txt	3244	3260	What a crowd Wow	Repetition
+DT_remarks_406.txt	3274	3290	Boy What a crowd	Repetition
+DT_remarks_406.txt	3600	3616	What a crowd Wow	Repetition
+DT_remarks_406.txt	3630	3646	Boy What a crowd	Repetition
+DT_remarks_406.txt	3930	3946	What a crowd Wow	Repetition
+DT_remarks_406.txt	3960	3976	Boy What a crowd	Repetition
+DT_remarks_406.txt	4230	4253	we are going to win big	Loaded_Language
+DT_remarks_406.txt	4260	4276	you What a crowd	Loaded_Language
+DT_remarks_406.txt	4294	4310	Boy What a crowd	Repetition
+DT_remarks_406.txt	4540	4559	we are going to win	Loaded_Language
+DT_remarks_406.txt	4564	4589	we are going to win big n	Loaded_Language
+DT_remarks_406.txt	4594	4600	we are	Repetition
+DT_remarks_406.txt	4831	4856	we are going to win big n	Loaded_Language
+DT_remarks_406.txt	4932	4943	our country	Repetition
+DT_remarks_406.txt	5130	5141	our country	Repetition
+DT_remarks_406.txt	5374	5385	our country	Repetition
+DT_remarks_406.txt	5632	5657	victory for every citizen	Loaded_Language
+DT_remarks_406.txt	5681	5692	our country	Repetition
+DT_remarks_406.txt	5939	5964	victory for every citizen	Loaded_Language
+DT_remarks_406.txt	6503	6506	big	Loaded_Language
+DT_remarks_406.txt	6592	6599	victory	Loaded_Language
+DT_remarks_406.txt	7052	7205	"win for the voters not for the pundits not for the journalists not for the lobbyists not for the global special interests funding my opponents campaign """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	7338	7349	win for the	Loaded_Language
+DT_remarks_406.txt	7357	7491	"not for the pundits not for the journalists not for the lobbyists not for the global special interests funding my opponents campaign """	Loaded_Language
+DT_remarks_406.txt	7494	7525	"""Its going to be your victory """	Repetition
+DT_remarks_406.txt	7602	7766	"""Itll be a win for the voters not for the pundits not for the journalists not for the lobbyists not for the global special interests funding my opponents campaign """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	7769	7800	"""Its going to be your victory """	Repetition
+DT_remarks_406.txt	7885	7910	suffering and devastation	Repetition
+DT_remarks_406.txt	7959	8104	"the voters not for the pundits not for the journalists not for the lobbyists not for the global special interests funding my opponents campaign """	Loaded_Language
+DT_remarks_406.txt	8223	8248	suffering and devastation	Repetition
+DT_remarks_406.txt	8552	8577	suffering and devastation	Repetition
+DT_remarks_406.txt	8727	8738	devastation	Repetition
+DT_remarks_406.txt	8881	8906	suffering and devastation	Repetition
+DT_remarks_406.txt	9056	9067	devastation	Repetition
+DT_remarks_406.txt	9249	9274	suffering and devastation	Repetition
+DT_remarks_406.txt	9424	9435	devastation	Repetition
+DT_remarks_406.txt	9630	9655	suffering and devastation	Repetition
+DT_remarks_406.txt	9805	9816	devastation	Repetition
+DT_remarks_406.txt	10008	10033	suffering and devastation	Repetition
+DT_remarks_406.txt	10183	10194	devastation	Repetition
+DT_remarks_406.txt	10364	10375	devastation	Repetition
+DT_remarks_406.txt	10525	10536	devastation	Repetition
+DT_remarks_406.txt	10842	10853	devastation	Repetition
+DT_remarks_406.txt	11822	11873	really unbeatable spirit Their spirit will overcome	Repetition
+DT_remarks_406.txt	12107	12158	really unbeatable spirit Their spirit will overcome	Repetition
+DT_remarks_406.txt	12422	12473	really unbeatable spirit Their spirit will overcome	Repetition
+DT_remarks_406.txt	12694	12718	really unbeatable spirit	Loaded_Language
+DT_remarks_406.txt	12980	12987	amazing	Repetition
+DT_remarks_406.txt	13321	13375	"the new American future our children so much deserve """	Repetition
+DT_remarks_406.txt	13511	13518	amazing	Repetition
+DT_remarks_406.txt	13619	13673	"the new American future our children so much deserve """	Repetition
+DT_remarks_406.txt	13819	13826	amazing	Repetition
+DT_remarks_406.txt	13927	13950	the new American future	Loaded_Language
+DT_remarks_406.txt	14125	14186	if Im not elected president that will never happen believe me	Loaded_Language
+DT_remarks_406.txt	14280	14334	"the new American future our children so much deserve """	Repetition
+DT_remarks_406.txt	14478	14505	if Im not elected president	Loaded_Language
+DT_remarks_406.txt	14620	14674	"the new American future our children so much deserve """	Repetition
+DT_remarks_406.txt	14818	14868	if Im not elected president that will never happen	Loaded_Language
+DT_remarks_406.txt	15129	15156	if Im not elected president	Loaded_Language
+DT_remarks_406.txt	15355	15451	not elected president that will never happen believe me Theyre talking to you theyre playing you	Loaded_Language
+DT_remarks_406.txt	16098	16109	our country	Repetition
+DT_remarks_406.txt	16431	16442	our country	Repetition
+DT_remarks_406.txt	17886	17902	dont worry about	Repetition
+DT_remarks_406.txt	17906	17930	"We will build the wall """	Loaded_Language
+DT_remarks_406.txt	18232	18248	dont worry about	Repetition
+DT_remarks_406.txt	18506	18515	very very	Repetition
+DT_remarks_406.txt	18551	18595	"dont worry about it We will build the wall """	Repetition
+DT_remarks_406.txt	18633	18699	the poorest places in our country will know safety and peace again	Loaded_Language
+DT_remarks_406.txt	18860	18869	very very	Repetition
+DT_remarks_406.txt	18905	18949	"dont worry about it We will build the wall """	Repetition
+DT_remarks_406.txt	19009	19020	our country	Repetition
+DT_remarks_406.txt	19173	19182	very very	Repetition
+DT_remarks_406.txt	19218	19237	dont worry about it	Repetition
+DT_remarks_406.txt	19304	19318	poorest places	Loaded_Language
+DT_remarks_406.txt	19322	19333	our country	Repetition
+DT_remarks_406.txt	19485	19497	new American	Loaded_Language
+DT_remarks_406.txt	19600	19614	poorest places	Loaded_Language
+DT_remarks_406.txt	19618	19629	our country	Repetition
+DT_remarks_406.txt	19829	19844	bitter failures	Repetition
+DT_remarks_406.txt	19901	19914	same old lies	Loaded_Language
+DT_remarks_406.txt	19993	20002	cherished	Loaded_Language
+DT_remarks_406.txt	20097	20112	bitter failures	Repetition
+DT_remarks_406.txt	20214	20328	"""No group in America has been more harmed by Hillary Clintons policies than African-Americans no group No group If"	Loaded_Language
+DT_remarks_406.txt	20364	20379	bitter failures	Repetition
+DT_remarks_406.txt	20481	20727	"""No group in America has been more harmed by Hillary Clintons policies than African-Americans no group No group If Hillary Clintons goal was to inflict pain on the African-American community she could not have done a better job It is a disgrace """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	20792	20805	same old lies	Loaded_Language
+DT_remarks_406.txt	20837	20930	"""No group in America has been more harmed by Hillary Clintons policies than African-Americans"	Loaded_Language
+DT_remarks_406.txt	20949	21083	"If Hillary Clintons goal was to inflict pain on the African-American community she could not have done a better job It is a disgrace """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	21191	21437	"""No group in America has been more harmed by Hillary Clintons policies than African-Americans no group No group If Hillary Clintons goal was to inflict pain on the African-American community she could not have done a better job It is a disgrace """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	21440	21795	"""Tonight Im asking for the vote of every single African-American citizen in this country who wants to see a better future America has been more harmed by Hillary Clintons policies than African-Americans no group No group If Hillary Clintons goal was to inflict pain on the African-American community she could not have done a better job It is a disgrace """	Loaded_Language
+DT_remarks_406.txt	21817	21921	"for the vote of every single African-American citizen in this country who wants to see a better future """	Loaded_Language
+DT_remarks_406.txt	21924	22117	"""The inner cities of our country have been run by No group If Hillary Clintons goal was to inflict pain on the African-American community she could not have done a better job It is a disgrace """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	22300	22310	Democratic	Loaded_Language
+DT_remarks_406.txt	22340	22381	Their policies have produced only poverty	Loaded_Language
+DT_remarks_406.txt	22390	22400	"disgrace """	Loaded_Language
+DT_remarks_406.txt	22623	22709	Their policies have produced only poverty joblessness failing schools and broken homes	Loaded_Language
+DT_remarks_406.txt	22996	23048	poverty joblessness failing schools and broken homes	Loaded_Language
+DT_remarks_406.txt	23235	23284	our country have been run by the Democratic party	Flag-Waving
+DT_remarks_406.txt	23308	23394	Their policies have produced only poverty joblessness failing schools and broken homes	Exaggeration,Minimisation
+DT_remarks_406.txt	23848	23854	failed	Repetition
+DT_remarks_406.txt	24086	24092	failed	Black-and-White_Fallacy
+DT_remarks_406.txt	24146	24151	empty	Repetition
+DT_remarks_406.txt	24460	24465	empty	Repetition
+DT_remarks_406.txt	25135	25157	democratic politicians	Repetition
+DT_remarks_406.txt	25419	25441	democratic politicians	Repetition
+DT_remarks_406.txt	25628	25639	"get a jobn"""	Black-and-White_Fallacy
+DT_remarks_406.txt	25750	25772	democratic politicians	Repetition
+DT_remarks_406.txt	25952	25981	We can never fix our problems	Black-and-White_Fallacy
+DT_remarks_406.txt	25996	26042	the same politicians who created our dangerous	Black-and-White_Fallacy
+DT_remarks_406.txt	26113	26135	democratic politicians	Repetition
+DT_remarks_406.txt	26315	26423	We can never fix our problems by relying on the same politicians who created our problems in the first place	Repetition
+DT_remarks_406.txt	26474	26496	democratic politicians	Repetition
+DT_remarks_406.txt	26676	26784	We can never fix our problems by relying on the same politicians who created our problems in the first place	Repetition
+DT_remarks_406.txt	26993	27101	We can never fix our problems by relying on the same politicians who created our problems in the first place	Repetition
+DT_remarks_406.txt	27340	27448	We can never fix our problems by relying on the same politicians who created our problems in the first place	Repetition
+DT_remarks_406.txt	27708	27816	We can never fix our problems by relying on the same politicians who created our problems in the first place	Repetition
+DT_remarks_406.txt	28493	28552	what do you have to lose by trying something new like Trump	Appeal_to_fear-prejudice
+DT_remarks_406.txt	28554	28578	What do you have to lose	Repetition
+DT_remarks_406.txt	28727	28763	"What the hell do you have to lose?n"""	Repetition
+DT_remarks_406.txt	28882	28906	What do you have to lose	Repetition
+DT_remarks_406.txt	28926	28950	what do you have to lose	Repetition
+DT_remarks_406.txt	29055	29091	"What the hell do you have to lose?n"""	Repetition
+DT_remarks_406.txt	29381	29406	What the hell do you have	Loaded_Language
+DT_remarks_406.txt	29659	29684	What the hell do you have	Doubt
+DT_remarks_406.txt	29896	29913	African Americans	Repetition
+DT_remarks_406.txt	29955	29991	"What the hell do you have to lose?n"""	Repetition
+DT_remarks_406.txt	30114	30299	I will produce I will produce for the inner cities and I will produce for the African Americans And the Democrats will not produce and all they have done is taken advantage of your vote	Doubt
+DT_remarks_406.txt	30516	30537	the African Americans	Repetition
+DT_remarks_406.txt	30542	30572	the Democrats will not produce	Repetition
+DT_remarks_406.txt	30577	30722	all they have done is taken advantage of your vote Thats all theyve done And once the election is over they over 95% of the African American vote	Doubt
+DT_remarks_406.txt	30845	30875	the Democrats will not produce	Repetition
+DT_remarks_406.txt	30880	31069	all they have done is taken advantage of your vote Thats all theyve done And once the election is over they go back to their palaces in Washington And you know what? They do nothing for you	Doubt
+DT_remarks_406.txt	31184	31214	the Democrats will not produce	Repetition
+DT_remarks_406.txt	31219	31365	all they have done is taken advantage of your vote Thats all theyve done And once the election is over they go back to their palaces in Washington	Doubt
+DT_remarks_406.txt	31370	31408	you know what? They do nothing for you	Doubt
+DT_remarks_406.txt	31500	31521	the African Americans	Repetition
+DT_remarks_406.txt	31526	31750	the Democrats will not produce and all they have done is taken advantage of your vote Thats all theyve done And once the election is over they go back to their palaces in Washington And you know what? They do nothing for you	Doubt
+DT_remarks_406.txt	31854	32094	"Democrats will not produce and all they have done is taken advantage of your vote Thats all theyve done And once the election is over they go back to their palaces in Washington And you know what? They do nothing for you Just remember it.n"""	Doubt
+DT_remarks_406.txt	32248	32438	"is taken advantage of your vote Thats all theyve done And once the election is over they go back to their palaces in Washington And you know what? They do nothing for you Just remember it.n"""	Doubt
+DT_remarks_406.txt	33638	33645	African	Appeal_to_fear-prejudice
+DT_remarks_406.txt	35073	35096	"they take your jobs.n """	Repetition
+DT_remarks_406.txt	35137	35154	"take your jobs.n"""	Repetition
+DT_remarks_406.txt	35159	35176	fierce opposition	Repetition
+DT_remarks_406.txt	35423	35446	"they take your jobs.n """	Repetition
+DT_remarks_406.txt	35487	35504	"take your jobs.n"""	Repetition
+DT_remarks_406.txt	35509	35526	fierce opposition	Repetition
+DT_remarks_406.txt	35758	35781	"they take your jobs.n """	Repetition
+DT_remarks_406.txt	35817	35839	"They take your jobs.n"""	Repetition
+DT_remarks_406.txt	35844	35850	fierce	Appeal_to_fear-prejudice
+DT_remarks_406.txt	36005	36014	massively	Repetition
+DT_remarks_406.txt	36149	36172	"they take your jobs.n """	Repetition
+DT_remarks_406.txt	36208	36230	"They take your jobs.n"""	Repetition
+DT_remarks_406.txt	36235	36252	fierce opposition	Repetition
+DT_remarks_406.txt	36396	36405	massively	Repetition
+DT_remarks_406.txt	36620	36637	fierce opposition	Repetition
+DT_remarks_406.txt	36781	36790	massively	Repetition
+DT_remarks_406.txt	37011	37028	fierce opposition	Repetition
+DT_remarks_406.txt	37172	37181	massively	Repetition
+DT_remarks_406.txt	37394	37411	fierce opposition	Repetition
+DT_remarks_406.txt	37555	37564	massively	Repetition
+DT_remarks_406.txt	37785	37791	fierce	Appeal_to_fear-prejudice
+DT_remarks_406.txt	37950	37959	massively	Repetition
+DT_remarks_406.txt	38191	38233	her record of giving our jobs away to many	Appeal_to_fear-prejudice
+DT_remarks_406.txt	38323	38332	massively	Repetition
+DT_remarks_406.txt	38519	38534	American energy	Appeal_to_fear-prejudice
+DT_remarks_406.txt	38564	38682	her record of giving our jobs away to many many other countries America must reject the bigot dream of Hillary Clinton	Appeal_to_fear-prejudice
+DT_remarks_406.txt	38903	39113	her record of giving our jobs away to many many other countries America must reject the bigot dream of Hillary Clinton who sees communities of color only as votes not as human beings worthy of a better future.n	Appeal_to_fear-prejudice
+DT_remarks_406.txt	39148	39274	the bigot dream of Hillary Clinton who sees communities of color only as votes not as human beings worthy of a better future.n	Appeal_to_fear-prejudice
+DT_remarks_406.txt	39492	39503	our country	Repetition
+DT_remarks_406.txt	39546	39561	"own country.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	39577	39588	our country	Repetition
+DT_remarks_406.txt	39852	39863	our country	Repetition
+DT_remarks_406.txt	40145	40156	our country	Repetition
+DT_remarks_406.txt	41184	41260	African American community has given so much to this country They fought and	Appeal_to_fear-prejudice
+DT_remarks_406.txt	41582	41672	African American community has given so much to this country They fought and died in every	Appeal_to_fear-prejudice
+DT_remarks_406.txt	41949	42068	"African American community has given so much to this country They fought and died in every war since the Revolution.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	42292	42411	"African American community has given so much to this country They fought and died in every war since the Revolution.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	42446	42456	our nation	Repetition
+DT_remarks_406.txt	42640	42732	"has given so much to this country They fought and died in every war since the Revolution.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	42767	42777	our nation	Repetition
+DT_remarks_406.txt	42951	42994	community has given so much to this country	Appeal_to_fear-prejudice
+DT_remarks_406.txt	43088	43098	our nation	Repetition
+DT_remarks_406.txt	43337	43358	"""We must do better as"	Appeal_to_fear-prejudice
+DT_remarks_406.txt	43377	43387	our nation	Repetition
+DT_remarks_406.txt	43626	43747	"""We must do better as a country I refuse to believe that the future must be like the past It wont be Our future will be a"	Appeal_to_fear-prejudice
+DT_remarks_406.txt	43883	43914	"""We must do better as a country"	Appeal_to_fear-prejudice
+DT_remarks_406.txt	43940	43958	the future must be	Appeal_to_fear-prejudice
+DT_remarks_406.txt	44223	44254	"""We must do better as a country"	Appeal_to_fear-prejudice
+DT_remarks_406.txt	44280	44295	the future must	Appeal_to_fear-prejudice
+DT_remarks_406.txt	44554	44622	"They cannot find a job.n ""We must do better as a country I refuse to"	Appeal_to_fear-prejudice
+DT_remarks_406.txt	44669	44741	"It wont be Our future will be a great future for everyone For everyone """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	44935	45097	"""We must do better as a country I refuse to believe that the future must be like the past It wont be Our future will be a great future for everyone For everyone """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	46492	46501	ugly past	Appeal_to_fear-prejudice
+DT_remarks_406.txt	46508	46541	politicians preyed on our poorest	Appeal_to_fear-prejudice
+DT_remarks_406.txt	46750	46759	ugly past	Appeal_to_fear-prejudice
+DT_remarks_406.txt	46766	46956	politicians preyed on our poorest citizens while selling them out for personal gain Promises promises all talk no action All talk no action politicians.n They talk talk talk You vote them in	Appeal_to_fear-prejudice
+DT_remarks_406.txt	47013	47362	"Hillary Clinton is a throwback to an ugly past where politicians preyed on our poorest citizens while selling them out for personal gain Promises promises all talk no action All talk no action politicians.n They talk talk talk You vote them in with great fan fare and then they just do nothing.n With Trump that is not going to happen Believe me.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	47385	47734	"Hillary Clinton is a throwback to an ugly past where politicians preyed on our poorest citizens while selling them out for personal gain Promises promises all talk no action All talk no action politicians.n They talk talk talk You vote them in with great fan fare and then they just do nothing.n With Trump that is not going to happen Believe me.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	47776	48053	"on our poorest citizens while selling them out for personal gain Promises promises all talk no action All talk no action politicians.n They talk talk talk You vote them in with great fan fare and then they just do nothing.n With Trump that is not going to happen Believe me.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	48172	48328	"politicians.n They talk talk talk You vote them in with great fan fare and then they just do nothing.n With Trump that is not going to happen Believe me.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	48429	48446	we cant take as a	Appeal_to_fear-prejudice
+DT_remarks_406.txt	48484	48545	"thats what you get with Hillary Clinton but probably worse.n"""	Appeal_to_fear-prejudice
+DT_remarks_406.txt	48567	48638	"just do nothing.n With Trump that is not going to happen Believe me.n """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	48834	48855	"but probably worse.n"""	Appeal_to_fear-prejudice
+DT_remarks_406.txt	48884	48957	American workers will always come first America first always come first.n	Appeal_to_fear-prejudice
+DT_remarks_406.txt	49157	49178	"but probably worse.n"""	Appeal_to_fear-prejudice
+DT_remarks_406.txt	49187	49280	new American future American workers will always come first America first always come first.n	Appeal_to_fear-prejudice
+DT_remarks_406.txt	49426	49526	"a country four more years of Obama And thats what you get with Hillary Clinton but probably worse.n"""	Appeal_to_fear-prejudice
+DT_remarks_406.txt	49555	49628	American workers will always come first America first always come first.n	Appeal_to_fear-prejudice
+DT_remarks_406.txt	49776	49802	"disaster Is a disaster.n """	Repetition
+DT_remarks_406.txt	49872	49901	"Clinton but probably worse.n"""	Appeal_to_fear-prejudice
+DT_remarks_406.txt	49902	50003	In this new American future American workers will always come first America first always come first.n	Appeal_to_fear-prejudice
+DT_remarks_406.txt	50151	50177	"disaster Is a disaster.n """	Repetition
+DT_remarks_406.txt	50325	50358	America first always come first.n	Black-and-White_Fallacy
+DT_remarks_406.txt	50506	50532	"disaster Is a disaster.n """	Repetition
+DT_remarks_406.txt	50864	50890	"disaster Is a disaster.n """	Repetition
+DT_remarks_406.txt	51239	51265	"disaster Is a disaster.n """	Repetition
+DT_remarks_406.txt	52346	52510	jobs to Michigan There will be a very big price to pay for those companies that wanna leave our land go someplace else manufacture their goods and sell back with no	Appeal_to_fear-prejudice
+DT_remarks_406.txt	52690	52729	one of the worst trade bills in history	Repetition
+DT_remarks_406.txt	52768	52853	very big price to pay for those companies that wanna leave our land go someplace else	Appeal_to_fear-prejudice
+DT_remarks_406.txt	53079	53118	one of the worst trade bills in history	Repetition
+DT_remarks_406.txt	53366	53473	one of the worst trade bills in history maybe maybe the worst trade bill signed in the history of the world	Appeal_to_fear-prejudice
+DT_remarks_406.txt	53502	53509	emptied	Repetition
+DT_remarks_406.txt	53555	53562	emptied	Repetition
+DT_remarks_406.txt	53633	53672	one of the worst trade bills in history	Repetition
+DT_remarks_406.txt	53685	53705	the worst trade bill	Appeal_to_fear-prejudice
+DT_remarks_406.txt	53769	53776	emptied	Repetition
+DT_remarks_406.txt	53822	53829	emptied	Repetition
+DT_remarks_406.txt	53853	53864	emptied out	Repetition
+DT_remarks_406.txt	53880	53885	great	Repetition
+DT_remarks_406.txt	53938	53952	devastation We	Repetition
+DT_remarks_406.txt	53990	54097	one of the worst trade bills in history maybe maybe the worst trade bill signed in the history of the world	Appeal_to_fear-prejudice
+DT_remarks_406.txt	54179	54186	emptied	Repetition
+DT_remarks_406.txt	54210	54217	emptied	Repetition
+DT_remarks_406.txt	54237	54242	great	Repetition
+DT_remarks_406.txt	54345	54380	of the worst trade bills in history	Appeal_to_fear-prejudice
+DT_remarks_406.txt	54393	54448	the worst trade bill signed in the history of the world	Appeal_to_fear-prejudice
+DT_remarks_406.txt	54477	54484	emptied	Repetition
+DT_remarks_406.txt	54502	54509	emptied	Repetition
+DT_remarks_406.txt	54530	54537	emptied	Repetition
+DT_remarks_406.txt	54561	54572	emptied out	Repetition
+DT_remarks_406.txt	54588	54605	great companies.n	Repetition
+DT_remarks_406.txt	54631	54710	We end up with devastation We end up with unemployment We end up with nothing.n	Appeal_to_fear-prejudice
+DT_remarks_406.txt	54734	54785	worst trade bill signed in the history of the world	Appeal_to_fear-prejudice
+DT_remarks_406.txt	54814	54825	emptied out	Repetition
+DT_remarks_406.txt	54839	54850	emptied out	Repetition
+DT_remarks_406.txt	54867	54878	emptied out	Repetition
+DT_remarks_406.txt	54898	54909	emptied out	Repetition
+DT_remarks_406.txt	54925	54942	great companies.n	Repetition
+DT_remarks_406.txt	54983	54994	devastation	Repetition
+DT_remarks_406.txt	55158	55165	emptied	Repetition
+DT_remarks_406.txt	55183	55194	emptied out	Repetition
+DT_remarks_406.txt	55211	55218	emptied	Repetition
+DT_remarks_406.txt	55242	55253	emptied out	Repetition
+DT_remarks_406.txt	55269	55274	great	Repetition
+DT_remarks_406.txt	55327	55338	devastation	Repetition
+DT_remarks_406.txt	55528	55539	emptied out	Repetition
+DT_remarks_406.txt	55553	55564	emptied out	Repetition
+DT_remarks_406.txt	55581	55592	emptied out	Repetition
+DT_remarks_406.txt	55612	55623	emptied out	Repetition
+DT_remarks_406.txt	55697	55708	devastation	Repetition
+DT_remarks_406.txt	55930	55941	emptied out	Repetition
+DT_remarks_406.txt	55961	55972	emptied out	Repetition
+DT_remarks_406.txt	55988	56005	great companies.n	Repetition
+DT_remarks_406.txt	56046	56057	devastation	Repetition
+DT_remarks_406.txt	56338	56343	great	Repetition
+DT_remarks_406.txt	56396	56407	devastation	Repetition
+DT_remarks_406.txt	56729	56793	devastation We end up with unemployment We end up with nothing.n	Appeal_to_fear-prejudice
+DT_remarks_406.txt	60343	60403	"""No industry has been hurt more by Hillary Clintons policies"	Appeal_to_fear-prejudice
+DT_remarks_406.txt	60581	60646	"""No industry has been hurt more by Hillary Clintons policies than"	Appeal_to_fear-prejudice
+DT_remarks_406.txt	60719	60736	"total disaster.n"""	Appeal_to_fear-prejudice
+DT_remarks_406.txt	60843	60932	"""No industry has been hurt more by Hillary Clintons policies than the automobile industry"	Appeal_to_fear-prejudice
+DT_remarks_406.txt	60981	60998	"total disaster.n"""	Appeal_to_fear-prejudice
+DT_remarks_406.txt	64269	64308	unless you elect Donald Trump president	Repetition
+DT_remarks_406.txt	64899	64938	unless you elect Donald Trump president	Repetition
+DT_remarks_406.txt	65240	65282	unless you elect Donald Trump president In	Repetition
+DT_remarks_406.txt	66672	66722	"our country will make one heck of a lot of money """	Appeal_to_fear-prejudice
+DT_remarks_406.txt	66834	66845	destruction	Repetition
+DT_remarks_406.txt	67097	67108	destruction	Repetition
+DT_remarks_406.txt	67358	67369	destruction	Repetition
+DT_remarks_406.txt	67703	67711	disaster	Repetition
+DT_remarks_406.txt	67959	67967	disaster	Repetition
+DT_remarks_406.txt	68272	68280	disaster	Repetition
+DT_remarks_406.txt	68613	68621	disaster	Repetition
+DT_remarks_406.txt	68942	68950	disaster	Repetition
+DT_remarks_406.txt	70155	70176	It will not be pretty	Repetition
+DT_remarks_406.txt	70443	70464	It will not be pretty	Repetition
+DT_remarks_406.txt	70681	70775	"""Just imagine how many more automobile jobs will be lost if Hillary gets her wish and approves"	Appeal_to_Authority
+DT_remarks_406.txt	70780	70801	It will not be pretty	Repetition
+DT_remarks_406.txt	71098	71119	It will not be pretty	Repetition
+DT_remarks_406.txt	72679	72690	our country	Repetition
+DT_remarks_406.txt	72739	72747	our jobs	Appeal_to_fear-prejudice
+DT_remarks_406.txt	72769	72808	if we cant make a much much better deal	Appeal_to_Authority
+DT_remarks_406.txt	72955	72966	our country	Repetition
+DT_remarks_406.txt	73251	73262	our country	Repetition
+DT_remarks_406.txt	73558	73569	our country	Repetition
+DT_remarks_406.txt	73899	73910	our country	Repetition
+DT_remarks_406.txt	74180	74191	our country	Repetition
+DT_remarks_406.txt	74241	74252	our country	Repetition
+DT_remarks_406.txt	74522	74533	our country	Repetition
+DT_remarks_406.txt	74548	74560	the American	Flag-Waving
+DT_remarks_406.txt	74810	74821	our country	Repetition
+DT_remarks_406.txt	75100	75111	our country	Repetition
+DT_remarks_406.txt	75411	75422	our country	Repetition
+DT_remarks_406.txt	75662	75694	why dont they do something about	Doubt
+DT_remarks_406.txt	75714	75779	jobs and wealth for our country that work for the American worker	Flag-Waving
+DT_remarks_406.txt	75985	76020	why dont they do something about it	Doubt
+DT_remarks_406.txt	76040	76085	"we have political hacks as our negotiators.n"""	Doubt
+DT_remarks_406.txt	76086	76114	work for the American worker	Flag-Waving
+DT_remarks_406.txt	76383	76398	political hacks	Repetition
+DT_remarks_406.txt	76657	76672	political hacks	Repetition
+DT_remarks_406.txt	76886	76901	political hacks	Repetition
+DT_remarks_406.txt	77120	77131	our workers	Flag-Waving
+DT_remarks_406.txt	77140	77154	"our country.n"""	Flag-Waving
+DT_remarks_406.txt	77302	77315	her lobbyists	Doubt
+DT_remarks_406.txt	77320	77391	"they wont let her do whats right for our workers and for our country.n"""	Flag-Waving
+DT_remarks_406.txt	77615	77669	has made one bad foreign policy decision after another	Repetition
+DT_remarks_406.txt	77722	77736	"our country.n"""	Flag-Waving
+DT_remarks_406.txt	77960	78014	has made one bad foreign policy decision after another	Repetition
+DT_remarks_406.txt	78316	78370	has made one bad foreign policy decision after another	Repetition
+DT_remarks_406.txt	78628	78682	has made one bad foreign policy decision after another	Repetition
+DT_remarks_406.txt	78836	78857	total destabilization	Appeal_to_fear-prejudice
+DT_remarks_406.txt	78955	79009	has made one bad foreign policy decision after another	Repetition
+DT_remarks_406.txt	79504	79525	total destabilization	Appeal_to_fear-prejudice
+DT_remarks_406.txt	79645	79689	the most disastrous in United States history	Repetition
+DT_remarks_406.txt	79823	79879	you will have a total destabilization of the Middle East	Appeal_to_fear-prejudice
+DT_remarks_406.txt	79980	80024	the most disastrous in United States history	Repetition
+DT_remarks_406.txt	80321	80365	the most disastrous in United States history	Repetition
+DT_remarks_406.txt	80522	80533	destruction	Repetition
+DT_remarks_406.txt	80682	80726	the most disastrous in United States history	Repetition
+DT_remarks_406.txt	80873	80909	death and destruction she has caused	Flag-Waving
+DT_remarks_406.txt	81048	81092	the most disastrous in United States history	Repetition
+DT_remarks_406.txt	81239	81260	death and destruction	Loaded_Language
+DT_remarks_406.txt	81372	81412	most disastrous in United States history	Repetition
+DT_remarks_406.txt	81831	81899	has she ever apologized for the death and destruction she has caused	Doubt
+DT_remarks_406.txt	81901	81905	No.n	Loaded_Language
+DT_remarks_406.txt	82237	82242	death	Loaded_Language
+DT_remarks_406.txt	82247	82258	destruction	Repetition
+DT_remarks_406.txt	82628	82664	death and destruction she has caused	Exaggeration,Minimisation
+DT_remarks_406.txt	83777	83788	total chaos	Repetition
+DT_remarks_406.txt	83816	83826	disastrous	Repetition
+DT_remarks_406.txt	84085	84096	total chaos	Repetition
+DT_remarks_406.txt	84124	84134	disastrous	Repetition
+DT_remarks_406.txt	84266	84278	extinguished	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	84436	84447	total chaos	Repetition
+DT_remarks_406.txt	84475	84485	disastrous	Repetition
+DT_remarks_406.txt	84659	84665	choked	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	84801	84812	total chaos	Repetition
+DT_remarks_406.txt	84840	84850	disastrous	Repetition
+DT_remarks_406.txt	84956	84979	thousands and thousands	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	85131	85142	total chaos	Repetition
+DT_remarks_406.txt	85170	85180	disastrous	Repetition
+DT_remarks_406.txt	85492	85529	thousands and thousands and thousands	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	85806	85820	total disaster	Repetition
+DT_remarks_406.txt	86044	86058	total disaster	Repetition
+DT_remarks_406.txt	86120	86245	a legacy of death destruction and terrorism America deserves a better legacy.n All of you deserve a much much better future.n	Repetition
+DT_remarks_406.txt	86251	86269	the change agent I	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	86419	86433	total disaster	Repetition
+DT_remarks_406.txt	86495	86664	a legacy of death destruction and terrorism America deserves a better legacy.n All of you deserve a much much better future.n I am the change agent I am the change agent	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	86775	86789	total disaster	Repetition
+DT_remarks_406.txt	86851	86976	a legacy of death destruction and terrorism America deserves a better legacy.n All of you deserve a much much better future.n	Repetition
+DT_remarks_406.txt	87090	87104	total disaster	Repetition
+DT_remarks_406.txt	87166	87291	a legacy of death destruction and terrorism America deserves a better legacy.n All of you deserve a much much better future.n	Repetition
+DT_remarks_406.txt	87437	87443	strong	Repetition
+DT_remarks_406.txt	87502	87627	a legacy of death destruction and terrorism America deserves a better legacy.n All of you deserve a much much better future.n	Repetition
+DT_remarks_406.txt	87852	87996	Hillary Clinton is a legacy of death destruction and terrorism America deserves a better legacy.n All of you deserve a much much better future.n	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	88142	88148	strong	Repetition
+DT_remarks_406.txt	88249	88344	and terrorism America deserves a better legacy.n All of you deserve a much much better future.n	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	88490	88496	strong	Repetition
+DT_remarks_406.txt	88767	88781	strong defense	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	89201	89217	tremendous siege	Repetition
+DT_remarks_406.txt	89302	89338	our country lost badly under Hillary	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	89347	89439	she cashed in big time Our country was losing Our people were losing but she is cashing in.n	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	89466	89493	"save our Second Amendment """	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	89511	89527	tremendous siege	Repetition
+DT_remarks_406.txt	89612	89751	"our country lost badly under Hillary Clinton she cashed in big time Our country was losing Our people were losing but she is cashing in.n """	Repetition
+DT_remarks_406.txt	89877	89893	tremendous siege	Repetition
+DT_remarks_406.txt	89978	90117	"our country lost badly under Hillary Clinton she cashed in big time Our country was losing Our people were losing but she is cashing in.n """	Repetition
+DT_remarks_406.txt	90269	90315	the defender of the status quo or what we have	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	90322	90461	"our country lost badly under Hillary Clinton she cashed in big time Our country was losing Our people were losing but she is cashing in.n """	Repetition
+DT_remarks_406.txt	90687	90697	Our people	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	90965	90985	blow everything away	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	94282	94300	this rigged system	Doubt
+DT_remarks_406.txt	94344	94394	vote big big big n And I will bring your jobs back	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	94507	94520	rigged system	Doubt
+DT_remarks_406.txt	94564	94614	vote big big big n And I will bring your jobs back	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_406.txt	94670	94714	"Is it going to be great good or terrible?n """	Repetition
+DT_remarks_406.txt	94783	94812	justice in this rigged system	Name_Calling,Labeling
+DT_remarks_406.txt	94861	94874	big big big n	Name_Calling,Labeling
+DT_remarks_406.txt	94892	94901	your jobs	Flag-Waving
+DT_remarks_406.txt	94962	95006	"Is it going to be great good or terrible?n """	Repetition
+DT_remarks_406.txt	95042	95102	honest government and the honest government that you deserve	Name_Calling,Labeling
+DT_remarks_406.txt	95240	95284	"Is it going to be great good or terrible?n """	Repetition
+DT_remarks_406.txt	95320	95380	honest government and the honest government that you deserve	Repetition
+DT_remarks_406.txt	95616	95714	deserve a Trump administration will end the corruption and restore integrity to government service	Flag-Waving
+DT_remarks_406.txt	96304	96325	"""No one will be above"	Slogans
+DT_remarks_406.txt	96559	96614	"""No one will be above the law in a Trump administration"	Slogans
+DT_remarks_406.txt	96619	96695	"State Department will work for the country not for Hillary Clintons donors """	Flag-Waving
+DT_remarks_406.txt	96829	96965	"""No one will be above the law in a Trump administration The State Department will work for the country not for Hillary Clintons donors """	Repetition
+DT_remarks_406.txt	97085	97105	"to do a great job.n"""	Flag-Waving
+DT_remarks_406.txt	97106	97242	"""No one will be above the law in a Trump administration The State Department will work for the country not for Hillary Clintons donors """	Repetition
+DT_remarks_406.txt	97249	97436	I will work for you and I will work for no one else I will work for you I will never lie to you I will never put any other interests before you and I will never ever stop fighting for you	Flag-Waving
+DT_remarks_406.txt	97630	97751	I will never lie to you I will never put any other interests before you and I will never ever stop fighting for you Never	Flag-Waving
+DT_remarks_406.txt	97754	97800	"""The government will work for the people again"	Flag-Waving
+DT_remarks_406.txt	97965	98032	I will never lie to you I will never put any other interests before	Flag-Waving
+DT_remarks_406.txt	98041	98080	I will never ever stop fighting for you	Repetition
+DT_remarks_406.txt	98252	98367	I will never lie to you I will never put any other interests before you and I will never ever stop fighting for you	Flag-Waving
+DT_remarks_406.txt	98526	98645	I will work for no one else I will work for you I will never lie to you I will never put any other interests before you	Flag-Waving
+DT_remarks_406.txt	98650	98689	I will never ever stop fighting for you	Repetition
+DT_remarks_406.txt	98908	99055	no one else I will work for you I will never lie to you I will never put any other interests before you and I will never ever stop fighting for you	Flag-Waving

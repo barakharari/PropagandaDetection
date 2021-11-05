@@ -1,0 +1,554 @@
+article_id	span_start	span_end	span	context	label
+DT_press_release_132.txt	72	93	no-show Senator Marco	Repetition
+DT_press_release_132.txt	363	466	"""Lightweight Senator Marco Rubio is a dishonest person He has cheated with credit cards and does favors"	Repetition
+DT_press_release_132.txt	539	560	no-show Senator Marco	Repetition
+DT_press_release_132.txt	830	933	"""Lightweight Senator Marco Rubio is a dishonest person He has cheated with credit cards and does favors"	Repetition
+DT_press_release_132.txt	1006	1027	no-show Senator Marco	Repetition
+DT_press_release_132.txt	1297	1400	"""Lightweight Senator Marco Rubio is a dishonest person He has cheated with credit cards and does favors"	Repetition
+DT_press_release_132.txt	1439	1460	no-show Senator Marco	Repetition
+DT_press_release_132.txt	1730	1847	"""Lightweight Senator Marco Rubio is a dishonest person He has cheated with credit cards and does favors for lobbyists"	Repetition
+DT_press_release_132.txt	2125	2302	"""Lightweight Senator Marco Rubio is a dishonest person He has cheated with credit cards and does favors for lobbyists In my opinion he is a total crook and I am doing the people"	Doubt
+DT_press_release_132.txt	2518	2731	"""Lightweight Senator Marco Rubio is a dishonest person He has cheated with credit cards and does favors for lobbyists In my opinion he is a total crook and I am doing the people of Florida a great favor by further"	Doubt
+DT_press_release_132.txt	2881	2998	"""Lightweight Senator Marco Rubio is a dishonest person He has cheated with credit cards and does favors for lobbyists"	Repetition
+DT_press_release_132.txt	3013	3107	he is a total crook and I am doing the people of Florida a great favor by further exposing him	Repetition
+DT_press_release_132.txt	3198	3315	"""Lightweight Senator Marco Rubio is a dishonest person He has cheated with credit cards and does favors for lobbyists"	Repetition
+DT_press_release_132.txt	3330	3424	he is a total crook and I am doing the people of Florida a great favor by further exposing him	Flag-Waving
+DT_press_release_132.txt	3456	3664	he is an absentee Senator with one of the worst voting records in the history of the United States Senate instead he is a total crook and I am doing the people of Florida a great favor by further exposing him	Doubt
+DT_press_release_132.txt	3702	3801	an absentee Senator with one of the worst voting records in the history of the United States Senate	Exaggeration,Minimisation
+DT_press_release_132.txt	3994	4006	worst voting	Exaggeration,Minimisation
+DT_press_release_132.txt	4250	4256	puppet	Name_Calling,Labeling
+DT_press_release_132.txt	4495	4501	puppet	Name_Calling,Labeling
+DT_press_release_132.txt	4676	4690	a choke artist	Repetition
+DT_press_release_132.txt	4924	4931	exposed	Loaded_Language
+DT_press_release_132.txt	4979	4993	a choke artist	Repetition
+DT_press_release_132.txt	5111	5130	every Florida voter	Exaggeration,Minimisation
+DT_press_release_132.txt	5168	5278	"nothing more than a ""yes-man"" for his corporate benefactors A vote for Rubio is a vote to put Rubios donors in"	Causal_Oversimplification
+DT_press_release_132.txt	5302	5316	a choke artist	Repetition
+DT_press_release_132.txt	5491	5623	"nothing more than a ""yes-man"" for his corporate benefactors A vote for Rubio is a vote to put Rubios donors in charge of the country"	Black-and-White_Fallacy
+DT_press_release_132.txt	5848	5907	"nothing more than a ""yes-man"" for his corporate benefactors"	Repetition
+DT_press_release_132.txt	5938	5980	put Rubios donors in charge of the country	Repetition
+DT_press_release_132.txt	6065	6100	one of the most corrupt politicians	Repetition
+DT_press_release_132.txt	6133	6148	"""Corrupt Marco"""	Repetition
+DT_press_release_132.txt	6281	6340	"nothing more than a ""yes-man"" for his corporate benefactors"	Repetition
+DT_press_release_132.txt	6371	6413	put Rubios donors in charge of the country	Repetition
+DT_press_release_132.txt	6498	6533	one of the most corrupt politicians	Repetition
+DT_press_release_132.txt	6566	6581	"""Corrupt Marco"""	Repetition
+DT_press_release_132.txt	6730	6789	"nothing more than a ""yes-man"" for his corporate benefactors"	Repetition
+DT_press_release_132.txt	6820	6862	put Rubios donors in charge of the country	Repetition
+DT_press_release_132.txt	6947	6982	one of the most corrupt politicians	Repetition
+DT_press_release_132.txt	7015	7030	"""Corrupt Marco"""	Repetition
+DT_press_release_319.txt	47	64	our rigged system	Repetition
+DT_press_release_319.txt	100	122	imbalanced trade deals	Repetition
+DT_press_release_319.txt	467	484	our rigged system	Repetition
+DT_press_release_319.txt	520	542	imbalanced trade deals	Repetition
+DT_press_release_319.txt	887	904	our rigged system	Repetition
+DT_press_release_319.txt	940	962	imbalanced trade deals	Repetition
+DT_press_release_319.txt	1299	1316	our rigged system	Repetition
+DT_press_release_319.txt	1352	1374	imbalanced trade deals	Repetition
+DT_press_release_319.txt	1600	1624	benefit American workers	Flag-Waving
+DT_press_release_319.txt	1668	1679	our country	Flag-Waving
+DT_press_release_319.txt	1726	1748	imbalanced trade deals	Repetition
+DT_press_release_319.txt	1974	1998	benefit American workers	Flag-Waving
+DT_press_release_319.txt	2042	2071	"our country and our workers """	Repetition
+DT_press_release_319.txt	2073	2107	America has lost nearly a third of	Flag-Waving
+DT_press_release_319.txt	2407	2436	"our country and our workers """	Repetition
+DT_press_release_319.txt	2438	2469	America has lost nearly a third	Flag-Waving
+DT_press_release_319.txt	2737	2766	"our country and our workers """	Repetition
+DT_press_release_319.txt	3074	3103	"our country and our workers """	Repetition
+DT_press_release_319.txt	3404	3415	our country	Flag-Waving
+DT_press_release_319.txt	3420	3433	"our workers """	Flag-Waving
+DT_press_release_319.txt	4493	4599	an extreme globalist who fights only for the D.C special interests America will suffer underher presidency	Repetition
+DT_press_release_319.txt	4641	4658	America First and	Repetition
+DT_press_release_319.txt	4801	4907	an extreme globalist who fights only for the D.C special interests America will suffer underher presidency	Repetition
+DT_press_release_319.txt	4949	4962	America First	Repetition
+DT_press_release_319.txt	5010	5043	the best interests of the country	Flag-Waving
+DT_press_release_319.txt	5217	5323	an extreme globalist who fights only for the D.C special interests America will suffer underher presidency	Repetition
+DT_press_release_319.txt	5365	5378	America First	Repetition
+DT_press_release_319.txt	5423	5500	in the best interests of the country and notestablished D.C special interests	Repetition
+DT_press_release_319.txt	5643	5749	an extreme globalist who fights only for the D.C special interests America will suffer underher presidency	Repetition
+DT_press_release_319.txt	5791	5804	America First	Repetition
+DT_press_release_319.txt	5849	5926	in the best interests of the country and notestablished D.C special interests	Repetition
+DT_press_release_319.txt	6069	6175	an extreme globalist who fights only for the D.C special interests America will suffer underher presidency	Repetition
+DT_press_release_319.txt	6217	6230	America First	Repetition
+DT_press_release_319.txt	6275	6352	in the best interests of the country and notestablished D.C special interests	Repetition
+DT_press_release_319.txt	6495	6601	an extreme globalist who fights only for the D.C special interests America will suffer underher presidency	Repetition
+DT_press_release_319.txt	6643	6656	America First	Repetition
+DT_press_release_325.txt	3697	3707	tremendous	Loaded_Language
+DT_press_release_325.txt	3721	3738	rapidly-expanding	Loaded_Language
+DT_press_release_325.txt	4093	4103	tremendous	Loaded_Language
+DT_press_release_325.txt	4117	4124	rapidly	Loaded_Language
+DT_press_release_325.txt	4188	4196	terrific	Loaded_Language
+DT_press_release_325.txt	4482	4498	tremendous asset	Repetition
+DT_press_release_325.txt	4506	4537	rapidly-expanding campaign team	Name_Calling,Labeling
+DT_press_release_325.txt	4819	4835	tremendous asset	Repetition
+DT_press_release_325.txt	4843	4860	rapidly-expanding	Loaded_Language
+DT_press_release_325.txt	5177	5193	tremendous asset	Repetition
+DT_press_release_325.txt	5201	5210	rapidly-e	Loaded_Language
+DT_press_release_325.txt	5469	5485	tremendous asset	Repetition
+DT_press_release_325.txt	5493	5519	rapidly-expanding campaign	Name_Calling,Labeling
+DT_press_release_325.txt	5532	5559	a data and messaging expert	Name_Calling,Labeling
+DT_press_release_325.txt	5564	5572	terrific	Loaded_Language
+DT_press_release_325.txt	7292	7317	valuable asset to my team	Exaggeration,Minimisation
+DT_press_release_325.txt	7322	7377	a consummate professional She has done a tremendous job	Name_Calling,Labeling
+DT_press_release_325.txt	7689	7703	valuable asset	Repetition
+DT_press_release_325.txt	7719	7744	a consummate professional	Repetition
+DT_press_release_325.txt	7758	7774	a tremendous job	Repetition
+DT_press_release_325.txt	7823	7834	a landslide	Repetition
+DT_press_release_325.txt	8091	8105	valuable asset	Repetition
+DT_press_release_325.txt	8121	8146	a consummate professional	Repetition
+DT_press_release_325.txt	8160	8176	a tremendous job	Repetition
+DT_press_release_325.txt	8225	8236	a landslide	Repetition
+DT_press_release_325.txt	8531	8545	valuable asset	Repetition
+DT_press_release_325.txt	8561	8586	a consummate professional	Repetition
+DT_press_release_325.txt	8600	8616	a tremendous job	Repetition
+DT_press_release_325.txt	8665	8676	a landslide	Repetition
+DT_press_release_330.txt	61	89	"""extremely careless"" actions"	Loaded_Language
+DT_press_release_330.txt	514	542	"""extremely careless"" actions"	Loaded_Language
+DT_press_release_330.txt	5892	5900	damaging	Loaded_Language
+DT_press_release_44.txt	2910	2918	dominate	Repetition
+DT_press_release_44.txt	3306	3314	dominate	Repetition
+DT_press_release_45.txt	115	139	make America great again	Repetition
+DT_press_release_45.txt	170	191	record-setting crowds	Repetition
+DT_press_release_45.txt	209	234	so invigorated So excited	Repetition
+DT_press_release_45.txt	508	532	make America great again	Repetition
+DT_press_release_45.txt	563	584	record-setting crowds	Repetition
+DT_press_release_45.txt	602	627	so invigorated So excited	Repetition
+DT_press_release_45.txt	897	921	make America great again	Repetition
+DT_press_release_45.txt	952	973	record-setting crowds	Repetition
+DT_press_release_45.txt	991	1016	so invigorated So excited	Repetition
+DT_press_release_45.txt	1271	1295	make America great again	Repetition
+DT_press_release_45.txt	1326	1347	record-setting crowds	Repetition
+DT_press_release_45.txt	1365	1390	so invigorated So excited	Repetition
+DT_press_release_45.txt	1606	1630	make America great again	Repetition
+DT_press_release_45.txt	1661	1682	record-setting crowds	Repetition
+DT_press_release_45.txt	1700	1725	so invigorated So excited	Repetition
+DT_press_release_45.txt	1968	1989	record-setting crowds	Repetition
+DT_press_release_45.txt	2007	2032	so invigorated So excited	Repetition
+DT_press_release_45.txt	2367	2388	record-setting crowds	Repetition
+DT_press_release_45.txt	2406	2431	so invigorated So excited	Repetition
+DT_press_release_45.txt	2766	2787	record-setting crowds	Repetition
+DT_press_release_45.txt	2805	2830	so invigorated So excited	Repetition
+DT_press_release_51.txt	247	320	high quality person with a wonderful family whom I have great respect for	Repetition
+DT_press_release_51.txt	651	724	high quality person with a wonderful family whom I have great respect for	Repetition
+DT_press_release_51.txt	1055	1128	high quality person with a wonderful family whom I have great respect for	Repetition
+DT_press_release_51.txt	1459	1532	high quality person with a wonderful family whom I have great respect for	Repetition
+DT_press_release_51.txt	1863	1936	high quality person with a wonderful family whom I have great respect for	Repetition
+DT_press_release_51.txt	2073	2092	high quality person	Name_Calling,Labeling
+DT_press_release_51.txt	2100	2116	wonderful family	Loaded_Language
+DT_press_release_51.txt	2379	2386	glowing	Repetition
+DT_press_release_51.txt	2587	2594	glowing	Repetition
+DT_press_release_51.txt	2954	2961	glowing	Repetition
+DT_press_release_51.txt	4042	4124	a successful executive and entrepreneur a wonderful father and a man who I believe	Name_Calling,Labeling
+DT_press_release_51.txt	4369	4493	"a successful executive and entrepreneur a wonderful father and a man who I believe can lead our country to greatness again."""	Name_Calling,Labeling
+DT_press_release_51.txt	4611	4695	"a wonderful father and a man who I believe can lead our country to greatness again."""	Name_Calling,Labeling
+DT_press_release_6.txt	1586	1622	tremendous crowds incredible support	Repetition
+DT_press_release_6.txt	1913	1949	tremendous crowds incredible support	Repetition
+DT_press_release_6.txt	2276	2312	tremendous crowds incredible support	Repetition
+DT_press_release_6.txt	2582	2618	tremendous crowds incredible support	Repetition
+DT_press_release_6.txt	2871	2907	tremendous crowds incredible support	Repetition
+DT_press_release_6.txt	3380	3422	"we are going to Make America Great Again."""	Exaggeration,Minimisation
+DT_press_release_6.txt	3553	3577	Make America Great Again	Repetition
+DT_press_release_6.txt	3622	3673	"if I win we are going to Make America Great Again."""	Slogans
+DT_press_release_6.txt	3804	3822	Make America Great	Repetition
+DT_press_release_6.txt	4000	4051	"if I win we are going to Make America Great Again."""	Slogans
+DT_press_release_6.txt	4182	4200	Make America Great	Repetition
+DT_press_release_6.txt	4508	4532	Make America Great Again	Repetition
+DT_press_release_78.txt	2188	2223	"we will Make American Great Again."""	Repetition
+DT_press_release_78.txt	2464	2499	"we will Make American Great Again."""	Repetition
+DT_press_release_78.txt	2805	2840	"we will Make American Great Again."""	Repetition
+DT_press_release_78.txt	3446	3470	Make America Great Again	Slogans
+DT_press_release_78.txt	3508	3567	Hes a world class business leader who I believe will make a	Appeal_to_Authority
+DT_press_release_78.txt	3735	3759	Make America Great Again	Slogans
+DT_press_release_78.txt	3797	3901	"Hes a world class business leader who I believe will make a world class President of the United States."""	Flag-Waving
+DT_press_release_78.txt	3987	4033	it will take to Make America Great Again Thats	Loaded_Language
+DT_press_release_78.txt	4038	4169	"Im supporting Donald Trump Hes a world class business leader who I believe will make a world class President of the United States."""	Flag-Waving
+DT_remarks_525.txt	327	366	Lock her up! Lock her up! Lock her up!n	Repetition
+DT_remarks_525.txt	735	774	Lock her up! Lock her up! Lock her up!n	Repetition
+DT_remarks_525.txt	1143	1182	Lock her up! Lock her up! Lock her up!n	Repetition
+DT_remarks_525.txt	1551	1590	Lock her up! Lock her up! Lock her up!n	Repetition
+DT_remarks_525.txt	1866	1905	Lock her up! Lock her up! Lock her up!n	Repetition
+DT_remarks_525.txt	1981	2035	threatens the security of the United States of America	Flag-Waving
+DT_remarks_525.txt	2075	2114	Lock her up! Lock her up! Lock her up!n	Repetition
+DT_remarks_525.txt	2265	2315	corruption is on a scale we have never seen before	Exaggeration,Minimisation
+DT_remarks_525.txt	2493	2581	criminal and illegal conduct that threatens the security of the United States of America	Flag-Waving
+DT_remarks_525.txt	2584	2718	"""Hillary Clintons corruption is on a scale we have never seen before We must not let her take her criminal scheme into the Oval Office"	Appeal_to_fear-prejudice
+DT_remarks_525.txt	2845	2853	horrible	Repetition
+DT_remarks_525.txt	2882	2918	on a scale we have never seen before	Exaggeration,Minimisation
+DT_remarks_525.txt	3111	3119	horrible	Repetition
+DT_remarks_525.txt	3159	3187	grave miscarriage of justice	Repetition
+DT_remarks_525.txt	3193	3212	the American people	Repetition
+DT_remarks_525.txt	3240	3260	everybodys hope that	Appeal_to_fear-prejudice
+DT_remarks_525.txt	3390	3406	horrible mistake	Flag-Waving
+DT_remarks_525.txt	3438	3466	grave miscarriage of justice	Repetition
+DT_remarks_525.txt	3472	3491	the American people	Repetition
+DT_remarks_525.txt	3709	3725	horrible mistake	Flag-Waving
+DT_remarks_525.txt	3757	3785	grave miscarriage of justice	Repetition
+DT_remarks_525.txt	3791	3810	the American people	Repetition
+DT_remarks_525.txt	4738	4747	so boring	Repetition
+DT_remarks_525.txt	5089	5098	so boring	Repetition
+DT_remarks_525.txt	5404	5413	so boring	Repetition
+DT_remarks_525.txt	5619	5634	a great general	Repetition
+DT_remarks_525.txt	5646	5655	so boring	Repetition
+DT_remarks_525.txt	5863	5876	great general	Repetition
+DT_remarks_525.txt	6468	6481	great general	Repetition
+DT_remarks_525.txt	7474	7523	American people think our country is on the wrong	Flag-Waving
+DT_remarks_525.txt	7733	7818	n Seventy-five percent of the American people think our country is on the wrong track	Flag-Waving
+DT_remarks_525.txt	7866	7889	our country back on the	Flag-Waving
+DT_remarks_525.txt	8062	8073	our country	Repetition
+DT_remarks_525.txt	8143	8154	our country	Repetition
+DT_remarks_525.txt	8359	8370	our country	Repetition
+DT_remarks_525.txt	8440	8451	our country	Repetition
+DT_remarks_525.txt	8634	8642	disaster	Exaggeration,Minimisation
+DT_remarks_525.txt	8921	8955	disaster just like everything else	Exaggeration,Minimisation
+DT_remarks_525.txt	9056	9063	massive	Exaggeration,Minimisation
+DT_remarks_525.txt	9159	9184	massive double-digit hike	Exaggeration,Minimisation
+DT_remarks_525.txt	9341	9372	the craziest thing in the world	Exaggeration,Minimisation
+DT_remarks_525.txt	9613	9623	Democratic	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_525.txt	9771	9831	it was passed because of the stupidity of the American voter	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_525.txt	9993	10118	"architect of Obamacare "" admitted it was all a fraud and he said it was passed because of the stupidity of the American voter"	Causal_Oversimplification
+DT_remarks_525.txt	10348	10439	it was all a fraud and he said it was passed because of the stupidity of the American voter	Doubt
+DT_remarks_525.txt	10757	10792	the stupidity of the American voter	Repetition
+DT_remarks_525.txt	11109	11144	the stupidity of the American voter	Loaded_Language
+DT_remarks_525.txt	11772	11794	architect of Obamacare	Repetition
+DT_remarks_525.txt	12013	12035	architect of Obamacare	Repetition
+DT_remarks_525.txt	12332	12354	architect of Obamacare	Repetition
+DT_remarks_525.txt	12534	12543	stupidity	Repetition
+DT_remarks_525.txt	12561	12576	our politicians	Repetition
+DT_remarks_525.txt	12676	12698	architect of Obamacare	Repetition
+DT_remarks_525.txt	12878	12887	stupidity	Repetition
+DT_remarks_525.txt	12905	12920	our politicians	Repetition
+DT_remarks_525.txt	12937	12948	monstrosity	Repetition
+DT_remarks_525.txt	13170	13179	stupidity	Repetition
+DT_remarks_525.txt	13197	13212	our politicians	Repetition
+DT_remarks_525.txt	13229	13240	monstrosity	Repetition
+DT_remarks_525.txt	13250	13267	furious objection	Repetition
+DT_remarks_525.txt	13295	13335	the American voter Job-killing Obamacare	Doubt
+DT_remarks_525.txt	13492	13501	stupidity	Repetition
+DT_remarks_525.txt	13519	13534	our politicians	Repetition
+DT_remarks_525.txt	13551	13562	monstrosity	Repetition
+DT_remarks_525.txt	13572	13589	furious objection	Repetition
+DT_remarks_525.txt	13617	13657	the American voter Job-killing Obamacare	Doubt
+DT_remarks_525.txt	13870	13885	our politicians	Repetition
+DT_remarks_525.txt	13902	13913	monstrosity	Repetition
+DT_remarks_525.txt	13923	13940	furious objection	Repetition
+DT_remarks_525.txt	13968	13998	the American voter Job-killing	Name_Calling,Labeling
+DT_remarks_525.txt	14266	14322	politicians and the American voter Job-killing Obamacare	Flag-Waving
+DT_remarks_525.txt	14344	14364	the system is rigged	Loaded_Language
+DT_remarks_525.txt	14652	14681	Obamacare destroying American	Flag-Waving
+DT_remarks_525.txt	14990	15039	Obamacare destroying American health care forever	Exaggeration,Minimisation
+DT_remarks_525.txt	15287	15301	to double down	Doubt
+DT_remarks_525.txt	15315	15354	destroying American health care forever	Flag-Waving
+DT_remarks_525.txt	15365	15416	to expand Obamacare and make it even more expensive	Doubt
+DT_remarks_525.txt	15637	15676	destroying American health care forever	Flag-Waving
+DT_remarks_525.txt	15965	15996	destroying American health care	Flag-Waving
+DT_remarks_525.txt	16250	16304	one of the greatest accomplishments of President Obama	Doubt
+DT_remarks_525.txt	16330	16341	our country	Repetition
+DT_remarks_525.txt	16545	16580	one of the greatest accomplishments	Repetition
+DT_remarks_525.txt	16625	16636	our country	Repetition
+DT_remarks_525.txt	16869	16904	one of the greatest accomplishments	Repetition
+DT_remarks_525.txt	16949	16960	our country	Repetition
+DT_remarks_525.txt	17004	17029	Do they do anything right	Repetition
+DT_remarks_525.txt	17229	17264	one of the greatest accomplishments	Repetition
+DT_remarks_525.txt	17309	17320	our country	Repetition
+DT_remarks_525.txt	17364	17389	Do they do anything right	Repetition
+DT_remarks_525.txt	17391	17398	We dont	Loaded_Language
+DT_remarks_525.txt	17647	17658	our country	Repetition
+DT_remarks_525.txt	17702	17748	Do they do anything right? We dont win anymore	Doubt
+DT_remarks_525.txt	18025	18050	Do they do anything right	Repetition
+DT_remarks_525.txt	18295	18327	a catastrophe beyond imagination	Repetition
+DT_remarks_525.txt	18396	18421	Do they do anything right	Repetition
+DT_remarks_525.txt	18666	18698	a catastrophe beyond imagination	Repetition
+DT_remarks_525.txt	19012	19042	catastrophe beyond imagination	Repetition
+DT_remarks_525.txt	19337	19367	catastrophe beyond imagination	Repetition
+DT_remarks_525.txt	19663	19693	catastrophe beyond imagination	Repetition
+DT_remarks_525.txt	20304	20321	we have no choice	Appeal_to_fear-prejudice
+DT_remarks_525.txt	20326	20423	"if we dont get rid of it our health care system is gone forever Well never have another chance.n"""	Appeal_to_fear-prejudice
+DT_remarks_525.txt	20494	20503	beautiful	Appeal_to_fear-prejudice
+DT_remarks_525.txt	20663	20760	"if we dont get rid of it our health care system is gone forever Well never have another chance.n"""	Appeal_to_fear-prejudice
+DT_remarks_525.txt	20766	20817	by the way if we dont win this election youre never	Appeal_to_fear-prejudice
+DT_remarks_525.txt	20992	21064	"our health care system is gone forever Well never have another chance.n"""	Appeal_to_fear-prejudice
+DT_remarks_525.txt	21070	21150	by the way if we dont win this election youre never going to have another chance	Appeal_to_fear-prejudice
+DT_remarks_525.txt	21190	21330	"get rid of Obamacare we have no choice But if we dont get rid of it our health care system is gone forever Well never have another chance.n"""	Appeal_to_fear-prejudice
+DT_remarks_525.txt	21331	21565	"""And by the way if we dont win this election youre never going to have another chance either that I can tell you Never going to happen again Repealing Obamacare is one of the single most important reasons we must win on November 8th """	Repetition
+DT_remarks_525.txt	21568	21640	"our health care system is gone forever Well never have another chance.n"""	Appeal_to_fear-prejudice
+DT_remarks_525.txt	21641	21875	"""And by the way if we dont win this election youre never going to have another chance either that I can tell you Never going to happen again Repealing Obamacare is one of the single most important reasons we must win on November 8th """	Repetition
+DT_remarks_525.txt	21991	22225	"""And by the way if we dont win this election youre never going to have another chance either that I can tell you Never going to happen again Repealing Obamacare is one of the single most important reasons we must win on November 8th """	Repetition
+DT_remarks_525.txt	22400	22521	"Never going to happen again Repealing Obamacare is one of the single most important reasons we must win on November 8th """	Appeal_to_fear-prejudice
+DT_remarks_525.txt	22756	22849	"Repealing Obamacare is one of the single most important reasons we must win on November 8th """	Appeal_to_fear-prejudice
+DT_remarks_525.txt	23125	23208	"Obamacare is one of the single most important reasons we must win on November 8th """	Appeal_to_fear-prejudice
+DT_remarks_525.txt	23446	23505	this is bigger than Watergate This is bigger than Watergate	Appeal_to_fear-prejudice
+DT_remarks_525.txt	23736	23843	"this is bigger than Watergate This is bigger than Watergate in my opinion This is bigger than Watergate n """	Appeal_to_fear-prejudice
+DT_remarks_525.txt	24022	24125	this is bigger than Watergate This is bigger than Watergate in my opinion This is bigger than Watergate	Appeal_to_fear-prejudice
+DT_remarks_525.txt	24373	24476	this is bigger than Watergate This is bigger than Watergate in my opinion This is bigger than Watergate	Appeal_to_fear-prejudice
+DT_remarks_525.txt	24621	24646	how does it get much more	Repetition
+DT_remarks_525.txt	24702	24798	"bleaches Watergate This is bigger than Watergate in my opinion This is bigger than Watergate n """	Exaggeration,Minimisation
+DT_remarks_525.txt	25256	25281	how does it get much more	Repetition
+DT_remarks_525.txt	25337	25345	bleaches	Loaded_Language
+DT_remarks_525.txt	25523	25544	does it get much more	Repetition
+DT_remarks_525.txt	27044	27095	government She lied to Congress she lied to the FBI	Doubt
+DT_remarks_525.txt	29083	29121	"seriously corrupt n ""Terribly conflict"	Doubt
+DT_remarks_525.txt	29460	29489	"seriously corrupt n ""Terribly"	Doubt
+DT_remarks_525.txt	29895	29933	"seriously corrupt n ""Terribly conflict"	Doubt
+DT_remarks_525.txt	30319	30336	seriously corrupt	Doubt
+DT_remarks_525.txt	30339	30357	"""Terribly conflict"	Doubt
+DT_remarks_525.txt	30625	30659	these people are seriously corrupt	Doubt
+DT_remarks_525.txt	30662	30671	"""Terribly"	Doubt
+DT_remarks_525.txt	32754	32764	tremendous	Repetition
+DT_remarks_525.txt	33083	33093	tremendous	Repetition
+DT_remarks_525.txt	33428	33438	tremendous	Repetition
+DT_remarks_525.txt	33745	33755	tremendous	Repetition
+DT_remarks_525.txt	35013	35049	"Believe me I dont have the courage """	Doubt
+DT_remarks_525.txt	35327	35363	"Believe me I dont have the courage """	Doubt
+DT_remarks_525.txt	42065	42090	spending money like crazy	Repetition
+DT_remarks_525.txt	42447	42472	spending money like crazy	Repetition
+DT_remarks_525.txt	42711	42721	tremendous	Repetition
+DT_remarks_525.txt	42786	42811	spending money like crazy	Repetition
+DT_remarks_525.txt	43118	43134	money like crazy	Loaded_Language
+DT_remarks_525.txt	43591	43617	"""What was that all about?"""	Doubt
+DT_remarks_525.txt	44388	44402	American voter	Flag-Waving
+DT_remarks_525.txt	44457	44473	our great people	Repetition
+DT_remarks_525.txt	44492	44524	corrupt Washington establishment	Flag-Waving
+DT_remarks_525.txt	44645	44659	American voter	Flag-Waving
+DT_remarks_525.txt	44714	44730	our great people	Repetition
+DT_remarks_525.txt	44749	44767	corrupt Washington	Flag-Waving
+DT_remarks_525.txt	44907	44929	the hottest expression	Repetition
+DT_remarks_525.txt	45163	45185	the hottest expression	Repetition
+DT_remarks_525.txt	45463	45485	the hottest expression	Repetition
+DT_remarks_525.txt	45753	45775	the hottest expression	Repetition
+DT_remarks_525.txt	46426	46440	disastrous 1.5	Flag-Waving
+DT_remarks_525.txt	46749	46759	disastrous	Repetition
+DT_remarks_525.txt	47049	47059	disastrous	Repetition
+DT_remarks_525.txt	47122	47153	its like a national catastrophe	Flag-Waving
+DT_remarks_525.txt	47223	47262	gone like candy being taken from a baby	Appeal_to_fear-prejudice
+DT_remarks_525.txt	47343	47353	disastrous	Repetition
+DT_remarks_525.txt	47425	47447	a national catastrophe	Repetition
+DT_remarks_525.txt	47513	47521	horrible	Repetition
+DT_remarks_525.txt	47532	47538	anemic	Repetition
+DT_remarks_525.txt	47579	47585	anemic	Repetition
+DT_remarks_525.txt	47675	47685	disastrous	Repetition
+DT_remarks_525.txt	47757	47779	a national catastrophe	Repetition
+DT_remarks_525.txt	47845	47853	horrible	Repetition
+DT_remarks_525.txt	47864	47870	anemic	Repetition
+DT_remarks_525.txt	47911	47917	anemic	Repetition
+DT_remarks_525.txt	48026	48038	a disastrous	Repetition
+DT_remarks_525.txt	48110	48132	a national catastrophe	Repetition
+DT_remarks_525.txt	48198	48206	horrible	Repetition
+DT_remarks_525.txt	48217	48223	anemic	Repetition
+DT_remarks_525.txt	48264	48270	anemic	Repetition
+DT_remarks_525.txt	48377	48387	disastrous	Repetition
+DT_remarks_525.txt	48459	48481	a national catastrophe	Repetition
+DT_remarks_525.txt	48547	48555	horrible	Repetition
+DT_remarks_525.txt	48566	48572	anemic	Repetition
+DT_remarks_525.txt	48613	48619	anemic	Repetition
+DT_remarks_525.txt	48802	48824	a national catastrophe	Repetition
+DT_remarks_525.txt	48890	48898	horrible	Repetition
+DT_remarks_525.txt	48909	48915	anemic	Repetition
+DT_remarks_525.txt	48956	48962	anemic	Repetition
+DT_remarks_525.txt	49177	49185	horrible	Repetition
+DT_remarks_525.txt	49196	49202	anemic	Repetition
+DT_remarks_525.txt	49243	49249	anemic	Repetition
+DT_remarks_525.txt	49841	49879	keep going along just keep going along	Repetition
+DT_remarks_525.txt	50163	50209	we just keep going along just keep going along	Repetition
+DT_remarks_525.txt	50528	50574	we just keep going along just keep going along	Repetition
+DT_remarks_525.txt	50842	50888	we just keep going along just keep going along	Repetition
+DT_remarks_525.txt	51028	51039	our country	Repetition
+DT_remarks_525.txt	51089	51135	we just keep going along just keep going along	Repetition
+DT_remarks_525.txt	51275	51286	our country	Repetition
+DT_remarks_525.txt	51559	51603	"this is our country are living in poverty.n"""	Flag-Waving
+DT_remarks_525.txt	51947	51991	"this is our country are living in poverty.n"""	Flag-Waving
+DT_remarks_525.txt	52670	52762	the greatest jobs theft in the history of the world Theyre stealing our jobs Greatest in the	Exaggeration,Minimisation
+DT_remarks_525.txt	52954	53071	"the greatest jobs theft in the history of the world Theyre stealing our jobs Greatest in the history of the world.n """	Exaggeration,Minimisation
+DT_remarks_525.txt	53332	53383	the greatest jobs theft in the history of the world	Exaggeration,Minimisation
+DT_remarks_525.txt	53400	53449	"our jobs Greatest in the history of the world.n """	Exaggeration,Minimisation
+DT_remarks_525.txt	53668	53719	the greatest jobs theft in the history of the world	Exaggeration,Minimisation
+DT_remarks_525.txt	53727	53785	"stealing our jobs Greatest in the history of the world.n """	Exaggeration,Minimisation
+DT_remarks_525.txt	53991	54027	"another Bill and Hillary disaster.n"""	Repetition
+DT_remarks_525.txt	54296	54332	"another Bill and Hillary disaster.n"""	Repetition
+DT_remarks_525.txt	54567	54603	"another Bill and Hillary disaster.n"""	Repetition
+DT_remarks_525.txt	55259	55286	massive at least 17 percent	Repetition
+DT_remarks_525.txt	55379	55393	defective deal	Flag-Waving
+DT_remarks_525.txt	55411	55438	massive at least 17 percent	Repetition
+DT_remarks_525.txt	55551	55565	defective deal	Flag-Waving
+DT_remarks_525.txt	56802	56814	great places	Flag-Waving
+DT_remarks_525.txt	56905	56911	eighth	Repetition
+DT_remarks_525.txt	57152	57158	eighth	Repetition
+DT_remarks_525.txt	57429	57435	eighth	Repetition
+DT_remarks_525.txt	57540	57546	eighth	Repetition
+DT_remarks_525.txt	57758	57769	the biggest	Exaggeration,Minimisation
+DT_remarks_525.txt	57778	57808	the eighth wonder of the world	Name_Calling,Labeling
+DT_remarks_525.txt	58060	58086	eighth wonder of the world	Name_Calling,Labeling
+DT_remarks_525.txt	58351	58373	our very strong border	Flag-Waving
+DT_remarks_525.txt	58566	58588	our very strong border	Flag-Waving
+DT_remarks_525.txt	63714	63725	We cant let	Repetition
+DT_remarks_525.txt	65679	65690	dirty polls	Repetition
+DT_remarks_525.txt	66566	66577	dirty polls	Repetition
+DT_remarks_525.txt	66872	66883	dirty polls	Repetition
+DT_remarks_525.txt	67187	67198	dirty polls	Repetition
+DT_remarks_525.txt	67455	67517	to keep radical Islamic terrorists the hell out of our country	Repetition
+DT_remarks_525.txt	67785	67847	to keep radical Islamic terrorists the hell out of our country	Repetition
+DT_remarks_525.txt	68132	68191	keep radical Islamic terrorists the hell out of our country	Repetition
+DT_remarks_525.txt	68457	68516	keep radical Islamic terrorists the hell out of our country	Repetition
+DT_remarks_525.txt	68604	68644	"Boy you people have energy youre great """	Repetition
+DT_remarks_525.txt	68763	68822	keep radical Islamic terrorists the hell out of our country	Repetition
+DT_remarks_525.txt	68910	68950	"Boy you people have energy youre great """	Repetition
+DT_remarks_525.txt	68972	68992	its been a long time	Doubt
+DT_remarks_525.txt	69000	69051	Its been a long time Youve been waiting a long time	Thought-terminating_Cliches
+DT_remarks_525.txt	69091	69150	keep radical Islamic terrorists the hell out of our country	Repetition
+DT_remarks_525.txt	69238	69278	"Boy you people have energy youre great """	Repetition
+DT_remarks_525.txt	69437	69475	terrorists the hell out of our country	Flag-Waving
+DT_remarks_525.txt	70130	70149	the dishonest media	Repetition
+DT_remarks_525.txt	70400	70419	the dishonest media	Repetition
+DT_remarks_525.txt	70445	70525	great people oh theyre the worst theyre so dishonest They are so dishonest folks	Doubt
+DT_remarks_525.txt	70729	70748	the dishonest media	Repetition
+DT_remarks_525.txt	70797	70854	the worst theyre so dishonest They are so dishonest folks	Doubt
+DT_remarks_525.txt	70963	70988	These are great Americans	Repetition
+DT_remarks_525.txt	71073	71097	"the dishonest media n ""B"	Appeal_to_fear-prejudice
+DT_remarks_525.txt	71118	71198	great people oh theyre the worst theyre so dishonest They are so dishonest folks	Doubt
+DT_remarks_525.txt	71307	71332	These are great Americans	Repetition
+DT_remarks_525.txt	71343	71355	great people	Repetition
+DT_remarks_525.txt	71409	71432	"the dishonest media n """	Appeal_to_fear-prejudice
+DT_remarks_525.txt	71454	71466	great people	Repetition
+DT_remarks_525.txt	71470	71534	theyre the worst theyre so dishonest They are so dishonest folks	Doubt
+DT_remarks_525.txt	71653	71668	great Americans	Repetition
+DT_remarks_525.txt	71679	71691	great people	Repetition
+DT_remarks_525.txt	71904	71952	These are great Americans these are great people	Flag-Waving
+DT_remarks_525.txt	72853	72871	how stupid is this	Repetition
+DT_remarks_525.txt	72873	72886	"How stupid?n"""	Repetition
+DT_remarks_525.txt	72896	72907	free-trader	Name_Calling,Labeling
+DT_remarks_525.txt	72913	72924	fair trader	Name_Calling,Labeling
+DT_remarks_525.txt	73169	73187	how stupid is this	Repetition
+DT_remarks_525.txt	73189	73202	"How stupid?n"""	Repetition
+DT_remarks_525.txt	73212	73223	free-trader	Name_Calling,Labeling
+DT_remarks_525.txt	73229	73240	fair trader	Name_Calling,Labeling
+DT_remarks_525.txt	73494	73512	how stupid is this	Repetition
+DT_remarks_525.txt	73514	73527	"How stupid?n"""	Repetition
+DT_remarks_525.txt	73532	73565	Im a free-trader Im a fair trader	Repetition
+DT_remarks_525.txt	73804	73821	no tax no nothing	Exaggeration,Minimisation
+DT_remarks_525.txt	73829	73862	"how stupid is this? How stupid?n"""	Doubt
+DT_remarks_525.txt	73867	73900	Im a free-trader Im a fair trader	Repetition
+DT_remarks_525.txt	74172	74195	mean how stupid is this	Loaded_Language
+DT_remarks_525.txt	74197	74210	"How stupid?n"""	Repetition
+DT_remarks_525.txt	74215	74248	Im a free-trader Im a fair trader	Repetition
+DT_remarks_525.txt	74569	74578	"stupid?n"""	Repetition
+DT_remarks_525.txt	74586	74616	a free-trader Im a fair trader	Name_Calling,Labeling
+DT_remarks_525.txt	75427	75480	"""Ive never seen we have never seen anything like it."""	Exaggeration,Minimisation
+DT_remarks_525.txt	75765	75799	"have never seen anything like it."""	Exaggeration,Minimisation
+DT_remarks_525.txt	76495	76510	great Americans	Repetition
+DT_remarks_525.txt	76861	76876	great Americans	Repetition
+DT_remarks_525.txt	77209	77224	great Americans	Repetition
+DT_remarks_525.txt	77541	77556	great Americans	Repetition
+DT_remarks_525.txt	77839	77854	great Americans	Repetition
+DT_remarks_525.txt	78636	78641	Trump	Name_Calling,Labeling
+DT_remarks_525.txt	79252	79275	crooked Hillary Clinton	Name_Calling,Labeling
+DT_remarks_525.txt	79964	79995	incredible law enforcement your	Repetition
+DT_remarks_525.txt	80311	80354	your incredible law enforcement your police	Flag-Waving
+DT_remarks_525.txt	80634	80665	your incredible law enforcement	Repetition
+DT_remarks_525.txt	80942	80973	your incredible law enforcement	Repetition
+DT_remarks_525.txt	81270	81296	incredible law enforcement	Repetition
+DT_remarks_525.txt	82044	82055	our country	Repetition
+DT_remarks_525.txt	82446	82457	our country	Repetition
+DT_remarks_525.txt	82821	82832	our country	Repetition
+DT_remarks_525.txt	82897	82906	Americans	Flag-Waving
+DT_remarks_525.txt	83169	83180	our country	Repetition
+DT_remarks_525.txt	83234	83344	"""Countless Americans who have died in recent years would be alive today if not for the open border policies of"	Flag-Waving
+DT_remarks_525.txt	83510	83521	our country	Repetition
+DT_remarks_525.txt	83575	83705	"""Countless Americans who have died in recent years would be alive today if not for the open border policies of this administration"	Flag-Waving
+DT_remarks_525.txt	83720	83740	incredible Americans	Repetition
+DT_remarks_525.txt	83842	83853	our country	Repetition
+DT_remarks_525.txt	84052	84072	incredible Americans	Repetition
+DT_remarks_525.txt	84241	84371	"""Countless Americans who have died in recent years would be alive today if not for the open border policies of this administration"	Flag-Waving
+DT_remarks_525.txt	84386	84406	incredible Americans	Repetition
+DT_remarks_525.txt	84699	84719	incredible Americans	Repetition
+DT_remarks_525.txt	85426	85435	violently	Repetition
+DT_remarks_525.txt	85759	85778	violently violently	Doubt
+DT_remarks_525.txt	86139	86158	violently violently	Doubt
+DT_remarks_525.txt	86217	86230	"incredible.n"""	Repetition
+DT_remarks_525.txt	86570	86596	violently violently killed	Flag-Waving
+DT_remarks_525.txt	86949	86975	violently violently killed	Flag-Waving
+DT_remarks_525.txt	87027	87040	"incredible.n"""	Repetition
+DT_remarks_525.txt	87354	87367	"incredible.n"""	Repetition
+DT_remarks_525.txt	88191	88200	sanctuary	Doubt
+DT_remarks_525.txt	88229	88236	illegal	Doubt
+DT_remarks_525.txt	88351	88358	violent	Doubt
+DT_remarks_525.txt	88807	88814	illegal	Doubt
+DT_remarks_525.txt	89103	89122	"illegal immigrant """	Repetition
+DT_remarks_525.txt	89380	89399	"illegal immigrant """	Repetition
+DT_remarks_525.txt	90053	90095	brutally beaten and left to bleed to death	Repetition
+DT_remarks_525.txt	90375	90417	brutally beaten and left to bleed to death	Repetition
+DT_remarks_525.txt	90684	90699	brutally beaten	Flag-Waving
+DT_remarks_525.txt	90704	90726	left to bleed to death	Flag-Waving
+DT_remarks_525.txt	90785	90813	criminal records a mile long	Flag-Waving
+DT_remarks_525.txt	90989	91031	brutally beaten and left to bleed to death	Repetition
+DT_remarks_525.txt	91090	91118	criminal records a mile long	Flag-Waving
+DT_remarks_525.txt	91264	91276	our geniuses	Repetition
+DT_remarks_525.txt	91391	91397	a mile	Doubt
+DT_remarks_525.txt	91548	91560	our geniuses	Repetition
+DT_remarks_525.txt	91645	91663	sexually assaulted	Repetition
+DT_remarks_525.txt	91668	91683	beaten to death	Repetition
+DT_remarks_525.txt	91854	91862	geniuses	Repetition
+DT_remarks_525.txt	91947	91965	sexually assaulted	Repetition
+DT_remarks_525.txt	91970	91985	beaten to death	Repetition
+DT_remarks_525.txt	92134	92221	"This is a crime wave that never ends I can tell you its thousands of cases like this.n"""	Repetition
+DT_remarks_525.txt	92334	92352	sexually assaulted	Repetition
+DT_remarks_525.txt	92357	92372	beaten to death	Repetition
+DT_remarks_525.txt	92521	92608	"This is a crime wave that never ends I can tell you its thousands of cases like this.n"""	Repetition
+DT_remarks_525.txt	92609	92652	"""When Im president believe me it will end """	Repetition
+DT_remarks_525.txt	92715	92733	sexually assaulted	Repetition
+DT_remarks_525.txt	92738	92753	beaten to death	Repetition
+DT_remarks_525.txt	92910	92989	"a crime wave that never ends I can tell you its thousands of cases like this.n"""	Repetition
+DT_remarks_525.txt	92990	93033	"""When Im president believe me it will end """	Repetition
+DT_remarks_525.txt	93077	93095	sexually assaulted	Repetition
+DT_remarks_525.txt	93100	93115	beaten to death	Repetition
+DT_remarks_525.txt	93272	93300	a crime wave that never ends	Flag-Waving
+DT_remarks_525.txt	93352	93395	"""When Im president believe me it will end """	Repetition
+DT_remarks_525.txt	93599	93665	a crime wave that never ends I can tell you its thousands of cases	Doubt
+DT_remarks_525.txt	93679	93722	"""When Im president believe me it will end """	Repetition
+DT_remarks_525.txt	93872	93892	wave that never ends	Doubt
+DT_remarks_525.txt	93912	93921	thousands	Doubt
+DT_remarks_525.txt	93944	93987	"""When Im president believe me it will end """	Repetition
+DT_remarks_525.txt	94137	94199	our youth Our youth is being poisoned before they get a chance	Flag-Waving
+DT_remarks_525.txt	94265	94274	poisoning	Doubt
+DT_remarks_525.txt	94304	94312	poisoned	Doubt
+DT_remarks_525.txt	94433	94443	tremendous	Repetition
+DT_remarks_525.txt	94921	94986	so proud of your president you will be so proud of your community	Flag-Waving
+DT_remarks_525.txt	95155	95259	"You will be so proud of your president you will be so proud of your community n You will be so proud.n """	Doubt
+DT_remarks_525.txt	95335	95342	amazing	Doubt
+DT_remarks_525.txt	95578	95588	an amazing	Doubt
+DT_remarks_525.txt	95753	95777	"You will be so proud.n """	Flag-Waving
+DT_remarks_525.txt	95853	95869	amazing movement	Doubt
+DT_remarks_525.txt	95890	95919	like theyve never seen before	Flag-Waving
+DT_remarks_525.txt	95986	96042	the biggest people in the world of the media the biggest	Doubt
+DT_remarks_525.txt	96164	96180	amazing movement	Doubt
+DT_remarks_525.txt	96297	96341	the biggest people in the world of the media	Doubt
+DT_remarks_525.txt	96608	96664	the biggest people in the world of the media the biggest	Doubt
+DT_remarks_525.txt	97581	97592	"stampede.n"""	Repetition
+DT_remarks_525.txt	97604	97620	stampede of love	Repetition
+DT_remarks_525.txt	97640	97648	stampede	Repetition
+DT_remarks_525.txt	97655	97673	"stampede of love """	Repetition
+DT_remarks_525.txt	97915	97926	"stampede.n"""	Repetition
+DT_remarks_525.txt	97938	97954	stampede of love	Repetition
+DT_remarks_525.txt	97974	97982	stampede	Repetition
+DT_remarks_525.txt	97989	98007	"stampede of love """	Repetition
+DT_remarks_525.txt	98235	98246	"stampede.n"""	Repetition
+DT_remarks_525.txt	98258	98274	stampede of love	Repetition
+DT_remarks_525.txt	98294	98302	stampede	Repetition
+DT_remarks_525.txt	98309	98327	"stampede of love """	Repetition
+DT_remarks_525.txt	98571	98582	"stampede.n"""	Repetition
+DT_remarks_525.txt	98594	98610	stampede of love	Repetition
+DT_remarks_525.txt	98630	98638	stampede	Repetition
+DT_remarks_525.txt	98645	98663	"stampede of love """	Repetition
+DT_remarks_525.txt	98882	98890	stampede	Repetition
+DT_remarks_525.txt	98921	98932	"stampede.n"""	Repetition
+DT_remarks_525.txt	98944	98960	stampede of love	Repetition
+DT_remarks_525.txt	98980	98988	stampede	Repetition
+DT_remarks_525.txt	98995	99013	"stampede of love """	Repetition
+DT_remarks_525.txt	99234	99242	stampede	Repetition
+DT_remarks_525.txt	99273	99284	"stampede.n"""	Repetition
+DT_remarks_525.txt	99296	99312	stampede of love	Repetition
+DT_remarks_525.txt	99332	99340	stampede	Repetition
+DT_remarks_525.txt	99347	99365	"stampede of love """	Repetition
+DT_remarks_525.txt	99616	99627	"stampede.n"""	Repetition
+DT_remarks_525.txt	99639	99655	stampede of love	Repetition
+DT_remarks_525.txt	99675	99683	stampede	Repetition
+DT_remarks_525.txt	99690	99708	"stampede of love """	Repetition
+DT_remarks_525.txt	99976	99992	stampede of love	Repetition

@@ -1,0 +1,7 @@
+article_id	span_start	span_end	span	context	label
+DT_tweets_131_2.txt	0	18	Thank you Kentucky	Slogans
+DT_tweets_1_4.txt	17	67	total embarrassment to both himself and his family	Loaded_Language
+DT_tweets_309_3.txt	0	23	ISIS threatens us today	Appeal_to_fear-prejudice
+DT_tweets_437_9.txt	110	159	She is totally confused. Unfit to serve as #POTUS	Doubt
+DT_tweets_461_3.txt	62	68	tragic	Loaded_Language
+DT_tweets_461_3.txt	70	118	We must come together to make America safe again	Flag-Waving

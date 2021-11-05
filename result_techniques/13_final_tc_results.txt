@@ -1,0 +1,368 @@
+article_id	span_start	span_end	span	context	label
+DT_press_release_12.txt	400	410	tremendous	Repetition
+DT_press_release_12.txt	864	874	tremendous	Repetition
+DT_press_release_12.txt	1328	1338	tremendous	Repetition
+DT_press_release_12.txt	2258	2276	top-tier operation	Repetition
+DT_press_release_12.txt	2606	2624	top-tier operation	Repetition
+DT_press_release_12.txt	2682	2706	Make America Great Again	Repetition
+DT_press_release_12.txt	2775	2793	top-tier operation	Repetition
+DT_press_release_12.txt	2851	2875	Make America Great Again	Slogans
+DT_press_release_12.txt	3702	3717	our great state	Repetition
+DT_press_release_12.txt	4070	4085	our great state	Repetition
+DT_press_release_12.txt	4511	4526	our great state	Repetition
+DT_press_release_12.txt	4616	4646	"an operation rivaled by none."""	Exaggeration,Minimisation
+DT_press_release_12.txt	4980	4995	our great state	Repetition
+DT_press_release_12.txt	5085	5115	"an operation rivaled by none."""	Exaggeration,Minimisation
+DT_remarks_215.txt	319	324	chaos	Repetition
+DT_remarks_215.txt	736	741	chaos	Repetition
+DT_remarks_215.txt	1111	1116	chaos	Repetition
+DT_remarks_215.txt	1367	1377	randomness	Flag-Waving
+DT_remarks_215.txt	1418	1423	chaos	Repetition
+DT_remarks_215.txt	1769	1774	chaos	Repetition
+DT_remarks_215.txt	2058	2077	the American people	Flag-Waving
+DT_remarks_215.txt	2082	2099	American security	Repetition
+DT_remarks_215.txt	2389	2408	the American people	Flag-Waving
+DT_remarks_215.txt	2685	2743	the interests of the American people and American security	Flag-Waving
+DT_remarks_215.txt	2884	2902	America first will	Flag-Waving
+DT_remarks_215.txt	3022	3058	the interests of the American people	Flag-Waving
+DT_remarks_215.txt	3063	3080	American security	Repetition
+DT_remarks_215.txt	3202	3234	thank you Applause America first	Flag-Waving
+DT_remarks_215.txt	3722	3733	will always	Flag-Waving
+DT_remarks_215.txt	3738	3774	the interests of the American people	Flag-Waving
+DT_remarks_215.txt	3779	3796	American security	Repetition
+DT_remarks_215.txt	4109	4137	people and American security	Flag-Waving
+DT_remarks_215.txt	4575	4601	thank you Applause America	Flag-Waving
+DT_remarks_215.txt	4897	4944	make America – thank you Applause America first	Flag-Waving
+DT_remarks_215.txt	5296	5309	America first	Flag-Waving
+DT_remarks_215.txt	6899	6914	great president	Repetition
+DT_remarks_215.txt	7266	7281	great president	Repetition
+DT_remarks_215.txt	7634	7649	great president	Repetition
+DT_remarks_215.txt	7974	7989	great president	Repetition
+DT_remarks_215.txt	8319	8334	great president	Repetition
+DT_remarks_215.txt	8674	8689	great president	Repetition
+DT_remarks_215.txt	9377	9402	foolishness and arrogance	Repetition
+DT_remarks_215.txt	9416	9443	one foreign policy disaster	Flag-Waving
+DT_remarks_215.txt	9723	9748	foolishness and arrogance	Repetition
+DT_remarks_215.txt	9762	9789	one foreign policy disaster	Flag-Waving
+DT_remarks_215.txt	10031	10056	foolishness and arrogance	Repetition
+DT_remarks_215.txt	10089	10097	disaster	Repetition
+DT_remarks_215.txt	10214	10230	line in the sand	Flag-Waving
+DT_remarks_215.txt	10372	10397	foolishness and arrogance	Repetition
+DT_remarks_215.txt	10430	10438	disaster	Repetition
+DT_remarks_215.txt	10712	10737	foolishness and arrogance	Repetition
+DT_remarks_215.txt	10770	10778	disaster	Repetition
+DT_remarks_215.txt	11171	11187	line in the sand	Flag-Waving
+DT_remarks_215.txt	11501	11505	line	Flag-Waving
+DT_remarks_215.txt	11674	11683	dangerous	Repetition
+DT_remarks_215.txt	11913	11918	chaos	Repetition
+DT_remarks_215.txt	12001	12010	dangerous	Repetition
+DT_remarks_215.txt	12222	12252	Civil war religious fanaticism	Flag-Waving
+DT_remarks_215.txt	12266	12275	Americans	Repetition
+DT_remarks_215.txt	12322	12331	dangerous	Repetition
+DT_remarks_215.txt	12587	12596	Americans	Repetition
+DT_remarks_215.txt	12638	12653	Horribly wasted	Repetition
+DT_remarks_215.txt	13004	13019	Horribly wasted	Repetition
+DT_remarks_215.txt	13309	13319	fanaticism	Repetition
+DT_remarks_215.txt	13384	13399	Horribly wasted	Repetition
+DT_remarks_215.txt	13717	13727	fanaticism	Repetition
+DT_remarks_215.txt	13792	13807	Horribly wasted	Repetition
+DT_remarks_215.txt	14094	14104	fanaticism	Repetition
+DT_remarks_215.txt	14169	14184	Horribly wasted	Repetition
+DT_remarks_215.txt	14426	14464	complete and total disaster fanaticism	Flag-Waving
+DT_remarks_215.txt	14478	14487	Americans	Repetition
+DT_remarks_215.txt	14529	14544	Horribly wasted	Repetition
+DT_remarks_215.txt	14786	14813	complete and total disaster	Repetition
+DT_remarks_215.txt	15124	15151	complete and total disaster	Repetition
+DT_remarks_215.txt	15490	15517	complete and total disaster	Repetition
+DT_remarks_215.txt	15885	15912	complete and total disaster	Repetition
+DT_remarks_215.txt	16299	16326	complete and total disaster	Repetition
+DT_remarks_215.txt	16559	16570	crippled us	Flag-Waving
+DT_remarks_215.txt	16715	16742	complete and total disaster	Repetition
+DT_remarks_215.txt	16975	16983	crippled	Flag-Waving
+DT_remarks_215.txt	17135	17162	complete and total disaster	Repetition
+DT_remarks_215.txt	17301	17308	totally	Flag-Waving
+DT_remarks_215.txt	17395	17403	crippled	Flag-Waving
+DT_remarks_215.txt	17412	17429	wasteful spending	Flag-Waving
+DT_remarks_215.txt	17540	17567	complete and total disaster	Repetition
+DT_remarks_215.txt	17795	17834	He’s crippled us with wasteful spending	Repetition
+DT_remarks_215.txt	17925	17952	complete and total disaster	Repetition
+DT_remarks_215.txt	18185	18219	crippled us with wasteful spending	Flag-Waving
+DT_remarks_215.txt	18331	18358	complete and total disaster	Repetition
+DT_remarks_215.txt	18591	18625	crippled us with wasteful spending	Flag-Waving
+DT_remarks_215.txt	18871	18878	totally	Flag-Waving
+DT_remarks_215.txt	18960	18999	He’s crippled us with wasteful spending	Repetition
+DT_remarks_215.txt	19215	19242	theft of American jobs will	Flag-Waving
+DT_remarks_215.txt	19251	19264	over extended	Flag-Waving
+DT_remarks_215.txt	19332	19371	He’s crippled us with wasteful spending	Repetition
+DT_remarks_215.txt	19708	19747	He’s crippled us with wasteful spending	Repetition
+DT_remarks_215.txt	21840	21850	our allies	Repetition
+DT_remarks_215.txt	21931	21941	Our allies	Repetition
+DT_remarks_215.txt	22270	22280	Our allies	Repetition
+DT_remarks_215.txt	22704	22714	tremendous	Flag-Waving
+DT_remarks_215.txt	24164	24259	We have no choice Applause The whole world will be safer if our allies do their part to support	Flag-Waving
+DT_remarks_215.txt	24495	24673	We have no choice Applause The whole world will be safer if our allies do their part to support our common defense and security A Trump administration will lead a free world that	Flag-Waving
+DT_remarks_215.txt	24892	24992	The whole world will be safer if our allies do their part to support our common defense and security	Flag-Waving
+DT_remarks_215.txt	25229	25329	The whole world will be safer if our allies do their part to support our common defense and security	Flag-Waving
+DT_remarks_215.txt	25532	25659	We have no choice Applause The whole world will be safer if our allies do their part to support our common defense and security	Flag-Waving
+DT_remarks_215.txt	25840	25900	a president who dislikes our friends and bows to our enemies	Flag-Waving
+DT_remarks_215.txt	26185	26314	a president who dislikes our friends and bows to our enemies something that we’ve never seen before in the history of our country	Repetition
+DT_remarks_215.txt	26329	26344	disastrous deal	Repetition
+DT_remarks_215.txt	26507	26636	a president who dislikes our friends and bows to our enemies something that we’ve never seen before in the history of our country	Repetition
+DT_remarks_215.txt	26651	26666	disastrous deal	Repetition
+DT_remarks_215.txt	26789	26918	a president who dislikes our friends and bows to our enemies something that we’ve never seen before in the history of our country	Repetition
+DT_remarks_215.txt	26933	26948	disastrous deal	Repetition
+DT_remarks_215.txt	27179	27237	that we’ve never seen before in the history of our country	Flag-Waving
+DT_remarks_215.txt	27252	27267	disastrous deal	Repetition
+DT_remarks_215.txt	27611	27626	disastrous deal	Repetition
+DT_remarks_215.txt	27972	28008	the humiliation of the United States	Repetition
+DT_remarks_215.txt	28334	28366	humiliation of the United States	Repetition
+DT_remarks_215.txt	28635	28667	humiliation of the United States	Repetition
+DT_remarks_215.txt	28939	28975	the humiliation of the United States	Repetition
+DT_remarks_215.txt	29450	29455	worst	Flag-Waving
+DT_remarks_215.txt	29583	29611	absolutely impossible to win	Flag-Waving
+DT_remarks_215.txt	29614	29662	you just can’t win At the same time your friends	Flag-Waving
+DT_remarks_215.txt	29725	29730	worst	Flag-Waving
+DT_remarks_215.txt	29858	29879	absolutely impossible	Flag-Waving
+DT_remarks_215.txt	30136	30172	becomes absolutely impossible to win	Flag-Waving
+DT_remarks_215.txt	30175	30193	you just can’t win	Flag-Waving
+DT_remarks_215.txt	31617	31639	the one true democracy	Flag-Waving
+DT_remarks_215.txt	31965	32007	an administration that lacks moral clarity	Repetition
+DT_remarks_215.txt	32148	32160	great friend	Flag-Waving
+DT_remarks_215.txt	32165	32206	the one true democracy in the Middle East	Flag-Waving
+DT_remarks_215.txt	32242	32284	an administration that lacks moral clarity	Repetition
+DT_remarks_215.txt	32552	32594	an administration that lacks moral clarity	Repetition
+DT_remarks_215.txt	35913	35921	Not good	Flag-Waving
+DT_remarks_215.txt	36233	36241	Not good	Flag-Waving
+DT_remarks_215.txt	36655	36665	our allies	Repetition
+DT_remarks_215.txt	36676	36687	even bigger	Flag-Waving
+DT_remarks_215.txt	37351	37383	no respect Absolutely no respect	Repetition
+DT_remarks_215.txt	37715	37747	no respect Absolutely no respect	Repetition
+DT_remarks_215.txt	37860	37871	our country	Repetition
+DT_remarks_215.txt	38113	38145	no respect Absolutely no respect	Repetition
+DT_remarks_215.txt	38258	38269	our country	Repetition
+DT_remarks_215.txt	38285	38305	unprecedented effort	Repetition
+DT_remarks_215.txt	38530	38562	no respect Absolutely no respect	Repetition
+DT_remarks_215.txt	38675	38686	our country	Repetition
+DT_remarks_215.txt	38702	38722	unprecedented effort	Repetition
+DT_remarks_215.txt	38796	38828	no respect Absolutely no respect	Repetition
+DT_remarks_215.txt	38941	38952	our country	Repetition
+DT_remarks_215.txt	38968	38988	unprecedented effort	Repetition
+DT_remarks_215.txt	39046	39058	fourth place	Flag-Waving
+DT_remarks_215.txt	39060	39094	The president of the United States	Name_Calling,Labeling
+DT_remarks_215.txt	39114	39127	unprecedented	Repetition
+DT_remarks_215.txt	39203	39223	unprecedented effort	Repetition
+DT_remarks_215.txt	39349	39362	unprecedented	Repetition
+DT_remarks_215.txt	39387	39464	He should have known the result before making such an embarrassing commitment	Doubt
+DT_remarks_215.txt	39547	39559	humiliations	Repetition
+DT_remarks_215.txt	39692	39705	unprecedented	Repetition
+DT_remarks_215.txt	39730	39807	He should have known the result before making such an embarrassing commitment	Appeal_to_Authority
+DT_remarks_215.txt	39890	39902	humiliations	Repetition
+DT_remarks_215.txt	40135	40158	embarrassing commitment	Appeal_to_fear-prejudice
+DT_remarks_215.txt	40241	40253	humiliations	Repetition
+DT_remarks_215.txt	40489	40512	embarrassing commitment	Appeal_to_fear-prejudice
+DT_remarks_215.txt	40595	40607	humiliations	Repetition
+DT_remarks_215.txt	40806	40850	economic assault on American jobs and wealth	Appeal_to_fear-prejudice
+DT_remarks_215.txt	41117	41133	economic assault	Appeal_to_fear-prejudice
+DT_remarks_215.txt	41403	41495	Our president has allowed China to continue its economic assault on American jobs and wealth	Flag-Waving
+DT_remarks_215.txt	41803	41819	economic assault	Appeal_to_fear-prejudice
+DT_remarks_215.txt	41823	41836	American jobs	Flag-Waving
+DT_remarks_215.txt	42416	42438	totally out of control	Repetition
+DT_remarks_215.txt	42446	42577	even allowed China to steal government secrets with cyber attacks and engaged in industrial espionage against the United States and	Appeal_to_Authority
+DT_remarks_215.txt	42666	42688	totally out of control	Repetition
+DT_remarks_215.txt	42777	42797	industrial espionage	Repetition
+DT_remarks_215.txt	42885	42916	they can get away with anything	Repetition
+DT_remarks_215.txt	42979	43001	totally out of control	Repetition
+DT_remarks_215.txt	43090	43110	industrial espionage	Repetition
+DT_remarks_215.txt	43198	43229	they can get away with anything	Repetition
+DT_remarks_215.txt	43276	43394	If President Obama’s goal had been to weaken America he could not have done a better job Finally America no longer has	Appeal_to_Authority
+DT_remarks_215.txt	43457	43477	industrial espionage	Repetition
+DT_remarks_215.txt	43559	43596	think they can get away with anything	Appeal_to_fear-prejudice
+DT_remarks_215.txt	43643	43731	If President Obama’s goal had been to weaken America he could not have done a better job	Appeal_to_Authority
+DT_remarks_215.txt	43864	43884	industrial espionage	Repetition
+DT_remarks_215.txt	43972	44003	they can get away with anything	Repetition
+DT_remarks_215.txt	44088	44138	weaken America he could not have done a better job	Appeal_to_fear-prejudice
+DT_remarks_215.txt	44324	44355	they can get away with anything	Repetition
+DT_remarks_215.txt	44455	44486	he could not have done a better	Appeal_to_fear-prejudice
+DT_remarks_215.txt	44719	44807	If President Obama’s goal had been to weaken America he could not have done a better job	Appeal_to_Authority
+DT_remarks_215.txt	45042	45050	dictator	Repetition
+DT_remarks_215.txt	45068	45134	weaken America he could not have done a better job Finally America	Appeal_to_fear-prejudice
+DT_remarks_215.txt	45353	45361	dictator	Repetition
+DT_remarks_215.txt	45443	45449	suffer	Repetition
+DT_remarks_215.txt	45669	45677	dictator	Repetition
+DT_remarks_215.txt	45759	45771	suffer while	Repetition
+DT_remarks_215.txt	45777	45817	country falls and absolutely falls apart	Appeal_to_fear-prejudice
+DT_remarks_215.txt	45829	45843	massive moneys	Appeal_to_fear-prejudice
+DT_remarks_215.txt	46010	46018	dictator	Repetition
+DT_remarks_215.txt	46126	46152	falls and absolutely falls	Appeal_to_fear-prejudice
+DT_remarks_215.txt	46307	46338	weakness confusion and disarray	Repetition
+DT_remarks_215.txt	46405	46413	dictator	Repetition
+DT_remarks_215.txt	46495	46501	suffer	Repetition
+DT_remarks_215.txt	46521	46553	falls and absolutely falls apart	Repetition
+DT_remarks_215.txt	46702	46733	weakness confusion and disarray	Repetition
+DT_remarks_215.txt	46942	46974	falls and absolutely falls apart	Repetition
+DT_remarks_215.txt	47123	47131	weakness	Appeal_to_fear-prejudice
+DT_remarks_215.txt	47189	47231	more unstable and chaotic than ever before	Appeal_to_fear-prejudice
+DT_remarks_215.txt	47298	47304	suffer	Repetition
+DT_remarks_215.txt	47324	47356	falls and absolutely falls apart	Repetition
+DT_remarks_215.txt	47505	47690	weakness confusion and disarray a mess We’ve made the Middle East more unstable and chaotic than ever before We left Christians subject to intense persecution and even genocide Applause	Appeal_to_fear-prejudice
+DT_remarks_215.txt	47869	47900	weakness confusion and disarray	Repetition
+DT_remarks_215.txt	47903	48106	mess We’ve made the Middle East more unstable and chaotic than ever before We left Christians subject to intense persecution and even genocide Applause We have done nothing to help the Christians nothing	Appeal_to_fear-prejudice
+DT_remarks_215.txt	48263	48285	confusion and disarray	Appeal_to_fear-prejudice
+DT_remarks_215.txt	48288	48292	mess	Appeal_to_Authority
+DT_remarks_215.txt	48320	48355	more unstable and chaotic than ever	Appeal_to_fear-prejudice
+DT_remarks_215.txt	48393	48430	intense persecution and even genocide	Appeal_to_fear-prejudice
+DT_remarks_215.txt	48609	48823	disarray a mess We’ve made the Middle East more unstable and chaotic than ever before We left Christians subject to intense persecution and even genocide Applause We have done nothing to help the Christians nothing	Appeal_to_fear-prejudice
+DT_remarks_215.txt	48954	49058	we’re in a war against radical Islam but President Obama won’t even name the help the Christians nothing	Appeal_to_Authority
+DT_remarks_215.txt	49189	49225	we’re in a war against radical Islam	Appeal_to_fear-prejudice
+DT_remarks_215.txt	49230	49271	President Obama won’t even name the enemy	Appeal_to_fear-prejudice
+DT_remarks_215.txt	49276	49348	unless you name the enemy you will never ever solve the problem Applause	Appeal_to_fear-prejudice
+DT_remarks_215.txt	49365	49408	also refuses to say the words radical Islam	Appeal_to_fear-prejudice
+DT_remarks_215.txt	49434	49459	war against radical Islam	Appeal_to_fear-prejudice
+DT_remarks_215.txt	49464	49573	President Obama won’t even name the enemy and unless you name the enemy you will never ever solve the problem	Appeal_to_fear-prejudice
+DT_remarks_215.txt	49599	49611	also refuses	Appeal_to_fear-prejudice
+DT_remarks_215.txt	49842	49856	our ambassador	Repetition
+DT_remarks_215.txt	49861	49882	three brave Americans	Appeal_to_fear-prejudice
+DT_remarks_215.txt	50197	50212	brave Americans	Repetition
+DT_remarks_215.txt	50524	50538	our ambassador	Repetition
+DT_remarks_215.txt	50549	50564	brave Americans	Repetition
+DT_remarks_215.txt	50716	50725	total lie	Repetition
+DT_remarks_215.txt	50739	50761	absolutely a total lie	Repetition
+DT_remarks_215.txt	50926	50940	our ambassador	Repetition
+DT_remarks_215.txt	50951	50966	brave Americans	Repetition
+DT_remarks_215.txt	51118	51127	total lie	Repetition
+DT_remarks_215.txt	51141	51163	absolutely a total lie	Repetition
+DT_remarks_215.txt	51282	51296	our ambassador	Repetition
+DT_remarks_215.txt	51307	51322	brave Americans	Repetition
+DT_remarks_215.txt	51474	51483	total lie	Repetition
+DT_remarks_215.txt	51497	51519	absolutely a total lie	Repetition
+DT_remarks_215.txt	51773	51782	total lie	Repetition
+DT_remarks_215.txt	51796	51818	absolutely a total lie	Repetition
+DT_remarks_215.txt	52071	52080	total lie	Repetition
+DT_remarks_215.txt	52094	52116	absolutely a total lie	Repetition
+DT_remarks_215.txt	52683	52723	we don’t bomb we don’t do anything about	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_215.txt	52745	52779	our country doesn’t even know what	Flag-Waving
+DT_remarks_215.txt	53051	53062	our country	Repetition
+DT_remarks_215.txt	53350	53396	our country doesn’t even know what’s happening	Repetition
+DT_remarks_215.txt	53485	53496	our friends	Flag-Waving
+DT_remarks_215.txt	53514	53572	America is going to be strong again America is going to be	Slogans
+DT_remarks_215.txt	53659	53705	our country doesn’t even know what’s happening	Repetition
+DT_remarks_215.txt	53794	53816	our friends and allies	Flag-Waving
+DT_remarks_215.txt	53823	53899	America is going to be strong again America is going to be reliable again It	Black-and-White_Fallacy
+DT_remarks_215.txt	53902	53945	going to be a great and reliable ally again	Black-and-White_Fallacy
+DT_remarks_215.txt	53984	54030	our country doesn’t even know what’s happening	Repetition
+DT_remarks_215.txt	57247	57328	This is how we won the Cold War and it’s how we will win our new future struggles	Black-and-White_Fallacy
+DT_remarks_215.txt	59212	59270	a dangerous world more dangerous now than it has ever been	Repetition
+DT_remarks_215.txt	59493	59551	a dangerous world more dangerous now than it has ever been	Repetition
+DT_remarks_215.txt	59834	59892	a dangerous world more dangerous now than it has ever been	Repetition
+DT_remarks_215.txt	60114	60130	violence attacks	Black-and-White_Fallacy
+DT_remarks_215.txt	60157	60215	a dangerous world more dangerous now than it has ever been	Repetition
+DT_remarks_215.txt	60474	60483	dangerous	Repetition
+DT_remarks_215.txt	63494	63544	We must stop importing extremism through senseless	Black-and-White_Fallacy
+DT_remarks_215.txt	63867	63938	We must stop importing extremism through senseless immigration policies	Repetition
+DT_remarks_215.txt	64243	64314	We must stop importing extremism through senseless immigration policies	Repetition
+DT_remarks_215.txt	64635	64706	We must stop importing extremism through senseless immigration policies	Repetition
+DT_remarks_215.txt	65029	65100	We must stop importing extremism through senseless immigration policies	Repetition
+DT_remarks_215.txt	65432	65464	We must stop importing extremism	Black-and-White_Fallacy
+DT_remarks_215.txt	65473	65503	senseless immigration policies	Repetition
+DT_remarks_215.txt	65826	65843	dozens and dozens	Black-and-White_Fallacy
+DT_remarks_215.txt	65872	65881	extremism	Repetition
+DT_remarks_215.txt	65890	65920	senseless immigration policies	Repetition
+DT_remarks_215.txt	66280	66289	extremism	Repetition
+DT_remarks_215.txt	66298	66328	senseless immigration policies	Repetition
+DT_remarks_215.txt	66681	66690	extremism	Repetition
+DT_remarks_215.txt	66699	66729	senseless immigration policies	Repetition
+DT_remarks_215.txt	67077	67086	extremism	Repetition
+DT_remarks_215.txt	67095	67125	senseless immigration policies	Repetition
+DT_remarks_215.txt	67809	67821	catastrophes	Repetition
+DT_remarks_215.txt	68239	68242	one	Repetition
+DT_remarks_215.txt	68313	68324	our country	Repetition
+DT_remarks_215.txt	68464	68470	one of	Repetition
+DT_remarks_215.txt	68486	68498	catastrophes	Repetition
+DT_remarks_215.txt	68829	68863	one of the true great catastrophes	Black-and-White_Fallacy
+DT_remarks_215.txt	69193	69196	one	Repetition
+DT_remarks_215.txt	69215	69227	catastrophes	Repetition
+DT_remarks_215.txt	69557	69560	one	Repetition
+DT_remarks_215.txt	69568	69591	true great catastrophes	Black-and-White_Fallacy
+DT_remarks_215.txt	75714	75725	desperately	Black-and-White_Fallacy
+DT_remarks_215.txt	80234	80271	the cheapest single investment we can	Exaggeration,Minimisation
+DT_remarks_215.txt	80312	80415	the best equipment known to mankind Our military dominance must be unquestioned and I mean unquestioned	Exaggeration,Minimisation
+DT_remarks_215.txt	80690	80769	the best equipment known to mankind Our military dominance must be unquestioned	Exaggeration,Minimisation
+DT_remarks_215.txt	80986	81016	the cheapest single investment	Exaggeration,Minimisation
+DT_remarks_215.txt	81064	81099	the best equipment known to mankind	Repetition
+DT_remarks_215.txt	81411	81446	the best equipment known to mankind	Repetition
+DT_remarks_215.txt	81644	81686	so much debt that nobody even knows how to	Exaggeration,Minimisation
+DT_remarks_215.txt	81761	81796	the best equipment known to mankind	Repetition
+DT_remarks_215.txt	82303	82310	so much	Repetition
+DT_remarks_215.txt	82403	82437	Not one single dollar can we waste	Appeal_to_fear-prejudice
+DT_remarks_215.txt	82875	82888	put Americans	Flag-Waving
+DT_remarks_215.txt	82986	83025	so much debt that nobody even knows how	Exaggeration,Minimisation
+DT_remarks_215.txt	83058	83064	No one	Repetition
+DT_remarks_215.txt	83086	83114	Not one single dollar can we	Flag-Waving
+DT_remarks_215.txt	83240	83253	put Americans	Flag-Waving
+DT_remarks_215.txt	83341	83348	so much	Repetition
+DT_remarks_215.txt	83441	83462	Not one single dollar	Exaggeration,Minimisation
+DT_remarks_215.txt	83670	83720	so much debt that nobody even knows how to address	Exaggeration,Minimisation
+DT_remarks_215.txt	83742	83804	No one dollar can be wasted Not one single dollar can we waste	Appeal_to_fear-prejudice
+DT_remarks_215.txt	83928	83943	Americans first	Flag-Waving
+DT_remarks_215.txt	84053	84128	our tax I do No one dollar can be wasted Not one single dollar can we waste	Flag-Waving
+DT_remarks_215.txt	84523	84534	our economy	Flag-Waving
+DT_remarks_215.txt	84559	84574	Americans first	Flag-Waving
+DT_remarks_215.txt	85153	85170	our technological	Flag-Waving
+DT_remarks_215.txt	86168	86182	our servicemen	Flag-Waving
+DT_remarks_215.txt	86575	86643	our servicemen and women the best equipment and support in the world	Repetition
+DT_remarks_215.txt	86693	86722	our technological superiority	Flag-Waving
+DT_remarks_215.txt	86833	86846	great country	Flag-Waving
+DT_remarks_215.txt	86967	87035	our servicemen and women the best equipment and support in the world	Repetition
+DT_remarks_215.txt	87162	87175	great country	Flag-Waving
+DT_remarks_215.txt	87296	87310	our servicemen	Flag-Waving
+DT_remarks_215.txt	87321	87364	the best equipment and support in the world	Exaggeration,Minimisation
+DT_remarks_215.txt	87406	87432	the best care in the world	Exaggeration,Minimisation
+DT_remarks_215.txt	87503	87515	Our veterans	Repetition
+DT_remarks_215.txt	87545	87567	A Trump administration	Flag-Waving
+DT_remarks_215.txt	87578	87646	our servicemen and women the best equipment and support in the world	Repetition
+DT_remarks_215.txt	87688	87714	the best care in the world	Exaggeration,Minimisation
+DT_remarks_215.txt	87785	87797	Our veterans	Repetition
+DT_remarks_215.txt	87811	87823	our veterans	Repetition
+DT_remarks_215.txt	87863	87927	These are our great people and we must treat them fairly We must	Flag-Waving
+DT_remarks_215.txt	88157	88256	These are our great people and we must treat them fairly We must even treat them really really well	Flag-Waving
+DT_remarks_215.txt	88329	88345	best care in the	Exaggeration,Minimisation
+DT_remarks_215.txt	88500	88526	These are our great people	Flag-Waving
+DT_remarks_215.txt	88557	88599	We must even treat them really really well	Flag-Waving
+DT_remarks_215.txt	88856	88955	These are our great people and we must treat them fairly We must even treat them really really well	Flag-Waving
+DT_remarks_215.txt	89222	89238	our great people	Flag-Waving
+DT_remarks_215.txt	89646	89659	really really	Appeal_to_fear-prejudice
+DT_remarks_215.txt	89979	89987	horrible	Repetition
+DT_remarks_215.txt	90135	90179	American interests Businesses do not succeed	Flag-Waving
+DT_remarks_215.txt	90338	90346	horrible	Repetition
+DT_remarks_215.txt	90392	90405	brave sailors	Repetition
+DT_remarks_215.txt	90623	90631	horrible	Repetition
+DT_remarks_215.txt	90677	90690	brave sailors	Repetition
+DT_remarks_215.txt	90850	90858	horrible	Repetition
+DT_remarks_215.txt	90904	90917	brave sailors	Repetition
+DT_remarks_215.txt	91064	91078	total disaster	Repetition
+DT_remarks_215.txt	91337	91351	total disaster	Repetition
+DT_remarks_215.txt	91637	91651	total disaster	Repetition
+DT_remarks_215.txt	91886	91932	the worst attack on our country in its history	Flag-Waving
+DT_remarks_215.txt	92205	92216	our country	Repetition
+DT_remarks_215.txt	92542	92553	our country	Repetition
+DT_remarks_215.txt	92852	92868	the worst attack	Flag-Waving
+DT_remarks_215.txt	92872	92898	our country in its history	Flag-Waving
+DT_remarks_215.txt	93214	93260	the worst attack on our country in its history	Flag-Waving
+DT_remarks_215.txt	93568	93597	on our country in its history	Flag-Waving
+DT_remarks_215.txt	94827	94834	enemies	Flag-Waving
+DT_remarks_215.txt	96337	96346	horror of	Repetition
+DT_remarks_215.txt	96675	96681	horror	Repetition
+DT_remarks_215.txt	97060	97066	horror	Repetition
+DT_remarks_215.txt	97253	97280	horrible cycle of hostility	Repetition
+DT_remarks_215.txt	97414	97423	horror of	Repetition
+DT_remarks_215.txt	97607	97634	horrible cycle of hostility	Repetition
+DT_remarks_215.txt	97743	97749	horror	Repetition
+DT_remarks_215.txt	97936	97963	horrible cycle of hostility	Repetition
+DT_remarks_215.txt	98306	98333	horrible cycle of hostility	Repetition
+DT_remarks_215.txt	98518	98554	great — not good great — for America	Flag-Waving
+DT_remarks_215.txt	98690	98717	horrible cycle of hostility	Repetition
+DT_remarks_215.txt	98902	98924	great — not good great	Repetition
+DT_remarks_215.txt	99068	99095	horrible cycle of hostility	Repetition
+DT_remarks_215.txt	99280	99302	great — not good great	Repetition
+DT_remarks_215.txt	99574	99588	not good great	Flag-Waving
+DT_remarks_215.txt	99851	99873	great — not good great	Repetition

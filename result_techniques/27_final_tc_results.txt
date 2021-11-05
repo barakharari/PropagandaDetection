@@ -1,0 +1,1085 @@
+article_id	span_start	span_end	span	context	label
+DT_press_release_245.txt	3397	3465	"""Our party and its leadership have failed the country miserably over"	Flag-Waving
+DT_press_release_245.txt	3705	3897	"""Our party and its leadership have failed the country miserably over the past eight years It seems that those in Washington D.C have thumbed their noses at the American people It has to stop."""	Flag-Waving
+DT_press_release_245.txt	4028	4038	"""Our party"	Flag-Waving
+DT_press_release_245.txt	4058	4117	have failed the country miserably over the past eight years	Flag-Waving
+DT_press_release_245.txt	4161	4203	thumbed their noses at the American people	Flag-Waving
+DT_press_release_245.txt	4221	4342	"""Donald Trump is the one person that can make it happen He understands the feelings of millions of Americans that are fed"	Appeal_to_Authority
+DT_press_release_245.txt	4415	4504	"""Our party and its leadership have failed the country miserably over the past eight years"	Flag-Waving
+DT_press_release_245.txt	4548	4590	thumbed their noses at the American people	Flag-Waving
+DT_press_release_245.txt	4608	4955	"""Donald Trump is the one person that can make it happen He understands the feelings of millions of Americans that are fed up with business as usual in D.C ""Our party and its leadership have failed the country miserably over the past eight years It seems that those in Washington D.C have thumbed their noses at the American people It has to stop."""	Flag-Waving
+DT_press_release_245.txt	5043	5064	millions of Americans	Flag-Waving
+DT_press_release_245.txt	5132	5158	bloat and runaway spending	Repetition
+DT_press_release_245.txt	5205	5264	"thumbed their noses at the American people It has to stop."""	Flag-Waving
+DT_press_release_245.txt	5265	5419	"""Donald Trump is the one person that can make it happen He understands the feelings of millions of Americans that are fed up with business as usual in D.C"	Flag-Waving
+DT_press_release_245.txt	5441	5584	"bloat and runaway spending He wants to stop the flow of illegals into our country He wants to bring this country back together It has to stop."""	Flag-Waving
+DT_press_release_245.txt	5585	5944	"""Donald Trump is the one person that can make it happen He understands the feelings of millions of Americans that are fed up with business as usual in D.C He wants to stop the bloat and runaway spending He wants to stop the flow of illegals into our country He wants to bring this country back together and build us back to the greatest country on the globe."""	Flag-Waving
+DT_press_release_245.txt	6034	6043	Americans	Flag-Waving
+DT_press_release_245.txt	6111	6137	bloat and runaway spending	Repetition
+DT_press_release_245.txt	6181	6192	our country	Flag-Waving
+DT_press_release_245.txt	6202	6294	"to bring this country back together and build us back to the greatest country on the globe."""	Flag-Waving
+DT_press_release_245.txt	6384	6410	bloat and runaway spending	Repetition
+DT_press_release_245.txt	6423	6567	"stop the flow of illegals into our country He wants to bring this country back together and build us back to the greatest country on the globe."""	Flag-Waving
+DT_press_release_245.txt	6667	6751	Voting is a privilege and right that millions have given their lives to defend It is	Exaggeration,Minimisation
+DT_press_release_245.txt	6786	6838	"build us back to the greatest country on the globe."""	Flag-Waving
+DT_press_release_245.txt	6938	7471	"Voting is a privilege and right that millions have given their lives to defend It is a direct insult to all who have fought for this country especially coming from the mouths of those that have been living on the government payroll for years."" will not vote for any candidate for President Voting is a privilege and right that millions have given their lives to defend It is a direct insult to all who have fought for this country especially coming from the mouths of those that have been living on the government payroll for years."""	Flag-Waving
+DT_press_release_245.txt	7621	7657	all who have fought for this country	Flag-Waving
+DT_press_release_245.txt	7884	7973	"Without him this country will continue its downward spiral into bankruptcy and disarray."""	Repetition
+DT_press_release_245.txt	8247	8336	"Without him this country will continue its downward spiral into bankruptcy and disarray."""	Repetition
+DT_press_release_245.txt	8636	8725	"Without him this country will continue its downward spiral into bankruptcy and disarray."""	Repetition
+DT_press_release_245.txt	9062	9151	"Without him this country will continue its downward spiral into bankruptcy and disarray."""	Repetition
+DT_press_release_286.txt	12	28	horrific tragedy	Repetition
+DT_press_release_286.txt	381	394	all Americans	Repetition
+DT_press_release_286.txt	454	470	horrific tragedy	Repetition
+DT_press_release_286.txt	823	836	all Americans	Repetition
+DT_press_release_286.txt	896	912	horrific tragedy	Repetition
+DT_press_release_286.txt	1265	1278	all Americans	Repetition
+DT_press_release_286.txt	1338	1354	horrific tragedy	Repetition
+DT_press_release_286.txt	1707	1720	all Americans	Repetition
+DT_press_release_286.txt	1775	1791	horrific tragedy	Repetition
+DT_press_release_286.txt	2144	2157	all Americans	Repetition
+DT_press_release_286.txt	2180	2212	"making this country safe again."""	Repetition
+DT_press_release_286.txt	2220	2236	horrific tragedy	Repetition
+DT_press_release_286.txt	2589	2602	all Americans	Repetition
+DT_press_release_286.txt	2625	2657	"making this country safe again."""	Repetition
+DT_press_release_286.txt	2665	2681	horrific tragedy	Repetition
+DT_press_release_286.txt	3034	3047	all Americans	Repetition
+DT_press_release_286.txt	3070	3102	"making this country safe again."""	Repetition
+DT_press_release_335.txt	2894	2915	enthusiastic movement	Whataboutism,Straw_Men,Red_Herring
+DT_press_release_335.txt	3324	3336	enthusiastic	Whataboutism,Straw_Men,Red_Herring
+DT_press_release_335.txt	3805	3861	a better future for America and Make America Great Again	Exaggeration,Minimisation
+DT_press_release_335.txt	4103	4115	enthusiastic	Loaded_Language
+DT_press_release_335.txt	4175	4231	a better future for America and Make America Great Again	Slogans
+DT_press_release_335.txt	4426	4453	a better future for America	Flag-Waving
+DT_press_release_335.txt	4458	4482	Make America Great Again	Slogans
+DT_press_release_335.txt	5116	5124	top-tier	Appeal_to_Authority
+DT_press_release_335.txt	5358	5366	top-tier	Appeal_to_Authority
+DT_press_release_335.txt	6350	6359	extremely	Repetition
+DT_press_release_335.txt	6817	6826	extremely	Repetition
+DT_press_release_335.txt	7284	7293	extremely	Repetition
+DT_press_release_7.txt	2327	2334	biggest	Exaggeration,Minimisation
+DT_press_release_7.txt	2408	2478	"with his help we will win New Hampshire and Make America Great Again!"""	Slogans
+DT_press_release_7.txt	2650	2722	"with his help we will win New Hampshire and Make America Great Again!"" """	Slogans
+DT_press_release_7.txt	3292	3332	built the most robust grassroots network	Exaggeration,Minimisation
+DT_press_release_7.txt	3395	3410	Granite Staters	Repetition
+DT_press_release_7.txt	4429	4444	Granite Staters	Repetition
+DT_press_release_7.txt	4731	4757	another Washington insider	Name_Calling,Labeling
+DT_press_release_7.txt	4819	4834	Granite Staters	Repetition
+DT_press_release_7.txt	5095	5188	We cannot afford to elect another Washington insider that promises one thing and does another	Repetition
+DT_press_release_7.txt	5479	5572	We cannot afford to elect another Washington insider that promises one thing and does another	Repetition
+DT_press_release_7.txt	5826	5919	We cannot afford to elect another Washington insider that promises one thing and does another	Repetition
+DT_press_release_7.txt	6237	6330	We cannot afford to elect another Washington insider that promises one thing and does another	Repetition
+DT_press_release_7.txt	6693	6786	We cannot afford to elect another Washington insider that promises one thing and does another	Repetition
+DT_press_release_7.txt	7149	7242	We cannot afford to elect another Washington insider that promises one thing and does another	Repetition
+DT_remarks_445.txt	0	114	"This is our chance – our one chance – to fix our rigged system and create prosperity for each and every American """	Flag-Waving
+DT_remarks_445.txt	186	192	"hate."""	Loaded_Language
+DT_remarks_445.txt	193	308	"Hillary Clinton has been running a hate-filled and negative campaign with no policy no solutions and no new ideas """	Repetition
+DT_remarks_445.txt	434	540	"our chance – our one chance – to fix our rigged system and create prosperity for each and every American """	Flag-Waving
+DT_remarks_445.txt	612	618	"hate."""	Loaded_Language
+DT_remarks_445.txt	619	734	"Hillary Clinton has been running a hate-filled and negative campaign with no policy no solutions and no new ideas """	Repetition
+DT_remarks_445.txt	885	903	"campaign of hate."""	Loaded_Language
+DT_remarks_445.txt	904	1019	"Hillary Clinton has been running a hate-filled and negative campaign with no policy no solutions and no new ideas """	Repetition
+DT_remarks_445.txt	1191	1218	deplorable and irredeemable	Repetition
+DT_remarks_445.txt	1230	1316	"hardworking American patriots who love your country and want a better future for all """	Name_Calling,Labeling
+DT_remarks_445.txt	1488	1515	deplorable and irredeemable	Repetition
+DT_remarks_445.txt	1527	1625	hardworking American patriots who love your country and want a better future for all of our people	Repetition
+DT_remarks_445.txt	1768	1777	Americans	Repetition
+DT_remarks_445.txt	1827	1854	deplorable and irredeemable	Repetition
+DT_remarks_445.txt	1866	1964	hardworking American patriots who love your country and want a better future for all of our people	Repetition
+DT_remarks_445.txt	2107	2116	Americans	Repetition
+DT_remarks_445.txt	2230	2257	deplorable and irredeemable	Repetition
+DT_remarks_445.txt	2269	2367	hardworking American patriots who love your country and want a better future for all of our people	Repetition
+DT_remarks_445.txt	2510	2519	Americans	Repetition
+DT_remarks_445.txt	2603	2617	Every American	Flag-Waving
+DT_remarks_445.txt	2865	2874	Americans	Repetition
+DT_remarks_445.txt	2958	3101	Every American is entitled to be treated with dignity and respect in our country Whether you vote for me or whether you vote for someone else I	Flag-Waving
+DT_remarks_445.txt	3195	3204	Americans	Repetition
+DT_remarks_445.txt	3288	3472	Every American is entitled to be treated with dignity and respect in our country Whether you vote for me or whether you vote for someone else I will be your champion in the White House	Flag-Waving
+DT_remarks_445.txt	3610	3751	Every American is entitled to be treated with dignity and respect in our country Whether you vote for me or whether you vote for someone else	Flag-Waving
+DT_remarks_445.txt	3925	3946	disqualifying remarks	Flag-Waving
+DT_remarks_445.txt	3969	4085	to be treated with dignity and respect in our country Whether you vote for me or whether you vote for someone else I	Flag-Waving
+DT_remarks_445.txt	4257	4278	disqualifying remarks	Flag-Waving
+DT_remarks_445.txt	5641	5664	job-killing regulations	Repetition
+DT_remarks_445.txt	5973	5996	job-killing regulations	Repetition
+DT_remarks_445.txt	6346	6369	job-killing regulations	Repetition
+DT_remarks_445.txt	6745	6768	job-killing regulations	Repetition
+DT_remarks_445.txt	7079	7102	job-killing regulations	Repetition
+DT_remarks_445.txt	7644	7654	disastrous	Appeal_to_Authority
+DT_remarks_445.txt	7894	7904	disastrous	Appeal_to_Authority
+DT_remarks_445.txt	9987	10016	"another Hillary-backed deal."""	Name_Calling,Labeling
+DT_remarks_445.txt	10960	10989	"another Hillary-backed deal."""	Name_Calling,Labeling
+DT_remarks_445.txt	11722	11755	obviously had a whole lot to hide	Doubt
+DT_remarks_445.txt	11770	11791	pay-for-play scandals	Repetition
+DT_remarks_445.txt	12141	12153	pay-for-play	Repetition
+DT_remarks_445.txt	12185	12197	Pay-for-play	Repetition
+DT_remarks_445.txt	12492	12504	pay-for-play	Repetition
+DT_remarks_445.txt	12536	12548	Pay-for-play	Repetition
+DT_remarks_445.txt	12630	12712	Nothing is so dangerous to American Democracy as when a public official puts their	Flag-Waving
+DT_remarks_445.txt	12765	12774	destroyed	Doubt
+DT_remarks_445.txt	12853	12874	pay-for-play scandals	Repetition
+DT_remarks_445.txt	12897	12909	Pay-for-play	Repetition
+DT_remarks_445.txt	13018	13036	American Democracy	Flag-Waving
+DT_remarks_445.txt	13047	13088	public official puts their federal office	Flag-Waving
+DT_remarks_445.txt	13199	13220	pay-for-play scandals	Repetition
+DT_remarks_445.txt	13243	13255	Pay-for-play	Repetition
+DT_remarks_445.txt	13680	13725	Nothing is so dangerous to American Democracy	Flag-Waving
+DT_remarks_445.txt	13736	13751	public official	Doubt
+DT_remarks_445.txt	14035	14080	Nothing is so dangerous to American Democracy	Flag-Waving
+DT_remarks_445.txt	14404	14413	patriotic	Flag-Waving
+DT_remarks_445.txt	14691	14730	tens of millions of patriotic Americans	Flag-Waving
+DT_remarks_445.txt	14741	14767	"a ""basket of deplorables."""	Doubt
+DT_remarks_445.txt	14768	14829	"She talks about people like theyre objects not human beings """	Exaggeration,Minimisation
+DT_remarks_445.txt	14979	14986	tens of	Loaded_Language
+DT_remarks_445.txt	14999	15018	patriotic Americans	Flag-Waving
+DT_remarks_445.txt	15029	15055	"a ""basket of deplorables."""	Name_Calling,Labeling
+DT_remarks_445.txt	15079	15117	"like theyre objects not human beings """	Exaggeration,Minimisation
+DT_remarks_445.txt	15149	15176	are not even real Americans	Doubt
+DT_remarks_445.txt	15246	15262	"of deplorables."""	Name_Calling,Labeling
+DT_remarks_445.txt	15263	15324	"She talks about people like theyre objects not human beings """	Repetition
+DT_remarks_445.txt	15549	15568	lies and deceptions	Loaded_Language
+DT_remarks_445.txt	15572	15604	a failed political establishment	Name_Calling,Labeling
+DT_remarks_445.txt	16102	16193	"its Hillary Clintons Wall Street agenda that has crushed the middle class of this country."""	Flag-Waving
+DT_remarks_445.txt	16221	16240	hatred in her heart	Loaded_Language
+DT_remarks_445.txt	16251	16274	working class Americans	Flag-Waving
+DT_remarks_445.txt	16333	16359	who make her life possible	Exaggeration,Minimisation
+DT_remarks_445.txt	16582	16601	hatred in her heart	Flag-Waving
+DT_remarks_445.txt	16612	16720	working class Americans She looks down on them – she looks down on all the people who make her life possible	Flag-Waving
+DT_remarks_445.txt	16906	16950	the people who cook her meals drive her cars	Flag-Waving
+DT_remarks_445.txt	16980	16995	class Americans	Flag-Waving
+DT_remarks_445.txt	17373	17405	Americans every name in the book	Repetition
+DT_remarks_445.txt	17718	17750	Americans every name in the book	Repetition
+DT_remarks_445.txt	17802	17852	they were not even American Never in history has a	Flag-Waving
+DT_remarks_445.txt	18019	18051	Americans every name in the book	Repetition
+DT_remarks_445.txt	18131	18230	Never in history has a major-party presidential candidate so viciously demonized the American voter	Exaggeration,Minimisation
+DT_remarks_445.txt	18361	18393	Americans every name in the book	Repetition
+DT_remarks_445.txt	18396	18433	racist sexist xenophobic Islamophobic	Flag-Waving
+DT_remarks_445.txt	18531	18572	so viciously demonized the American voter	Flag-Waving
+DT_remarks_445.txt	18621	18685	"love their children and want a better future for all Americans """	Flag-Waving
+DT_remarks_445.txt	18833	18932	Never in history has a major-party presidential candidate so viciously demonized the American voter	Exaggeration,Minimisation
+DT_remarks_445.txt	18951	19045	"millions of moms and dads who love their children and want a better future for all Americans """	Flag-Waving
+DT_remarks_445.txt	19213	19248	"a better future for all Americans """	Flag-Waving
+DT_remarks_445.txt	19441	19468	to make your country better	Flag-Waving
+DT_remarks_445.txt	19872	20015	to bully the American voter out of voting for change The people who rigged the system want to keep things exactly as they are They want to keep	Flag-Waving
+DT_remarks_445.txt	20202	20448	to bully the American voter out of voting for change The people who rigged the system want to keep things exactly as they are They want to keep our terrible trade deals They want to trap children in failing government a better future for everyone	Flag-Waving
+DT_remarks_445.txt	20537	20843	to bully the American voter out of voting for change The people who rigged the system want to keep things exactly as they are They want to keep our terrible trade deals They want to trap children in failing government schools They want massive regulation to keep small businesses from being able to compete	Flag-Waving
+DT_remarks_445.txt	20902	20987	to bully the American voter out of voting for change The people who rigged the system	Flag-Waving
+DT_remarks_445.txt	21046	21070	our terrible trade deals	Flag-Waving
+DT_remarks_445.txt	21101	21108	failing	Flag-Waving
+DT_remarks_445.txt	21209	21270	Hillary Clinton can never be President of this country No one	Black-and-White_Fallacy
+DT_remarks_445.txt	21279	21417	to bully the American voter out of voting for change The people who rigged the system want to keep things exactly as they are They want to	Flag-Waving
+DT_remarks_445.txt	21423	21723	our terrible trade deals They want to trap children in failing government schools They want massive regulation to keep small businesses from being able to compete Hillary Clinton can never be President of this country No one who has such a low opinion of the American The people who rigged the system	Flag-Waving
+DT_remarks_445.txt	21782	21806	our terrible trade deals	Flag-Waving
+DT_remarks_445.txt	21820	21917	trap children in failing government schools They want massive regulation to keep small businesses	Flag-Waving
+DT_remarks_445.txt	21945	22095	Hillary Clinton can never be President of this country No one who has such a low opinion of the American people can ever be elected as their President	Causal_Oversimplification
+DT_remarks_445.txt	22142	22455	our terrible trade deals They want to trap children in failing government schools They want massive regulation to keep small businesses from being able to compete Hillary Clinton can never be President of this country No one who has such a low opinion of the American people can ever be elected as their President	Flag-Waving
+DT_remarks_445.txt	22522	22797	trap children in failing government schools They want massive regulation to keep small businesses from being able to compete Hillary Clinton can never be President of this country No one who has such a low opinion of the American people can ever be elected as their President	Flag-Waving
+DT_remarks_445.txt	22868	22890	most amazing Americans	Repetition
+DT_remarks_445.txt	22952	23102	Hillary Clinton can never be President of this country No one who has such a low opinion of the American people can ever be elected as their President	Causal_Oversimplification
+DT_remarks_445.txt	23173	23195	most amazing Americans	Repetition
+DT_remarks_445.txt	23289	23295	heroes	Flag-Waving
+DT_remarks_445.txt	23300	23330	rescue our people in disasters	Flag-Waving
+DT_remarks_445.txt	23494	23520	our most amazing Americans	Repetition
+DT_remarks_445.txt	23632	23642	our people	Repetition
+DT_remarks_445.txt	23750	23760	our nation	Repetition
+DT_remarks_445.txt	23827	23853	our most amazing Americans	Repetition
+DT_remarks_445.txt	23965	23975	our people	Repetition
+DT_remarks_445.txt	24083	24093	our nation	Repetition
+DT_remarks_445.txt	24181	24198	amazing Americans	Repetition
+DT_remarks_445.txt	24292	24298	heroes	Flag-Waving
+DT_remarks_445.txt	24310	24320	our people	Repetition
+DT_remarks_445.txt	24428	24438	our nation	Repetition
+DT_remarks_445.txt	24536	24595	There is no greater love than the love shown by the men and	Flag-Waving
+DT_remarks_445.txt	24721	24756	courage and character of our nation	Flag-Waving
+DT_remarks_445.txt	24854	24994	There is no greater love than the love shown by the men and women who have laid down their lives for this country and its people Our debt to	Causal_Oversimplification
+DT_remarks_445.txt	25132	25260	There is no greater love than the love shown by the men and women who have laid down their lives for this country and its people	Causal_Oversimplification
+DT_remarks_445.txt	25423	25551	There is no greater love than the love shown by the men and women who have laid down their lives for this country and its people	Causal_Oversimplification
+DT_remarks_445.txt	26526	26541	permanent stain	Flag-Waving
+DT_remarks_445.txt	26871	26915	"Hillary Clinton only looks out for herself."""	Flag-Waving
+DT_remarks_445.txt	26916	26949	We must take care of our Veterans	Flag-Waving
+DT_remarks_445.txt	27120	27135	permanent stain	Loaded_Language
+DT_remarks_445.txt	27177	27221	"Hillary Clinton only looks out for herself."""	Doubt
+DT_remarks_445.txt	27814	27838	"""The scandals never seem"	Loaded_Language
+DT_remarks_445.txt	28116	28147	"""The scandals never seem to end"	Thought-terminating_Cliches
+DT_remarks_445.txt	28192	28224	Nothing makes me more proud than	Repetition
+DT_remarks_445.txt	28450	28477	Nothing makes me more proud	Repetition
+DT_remarks_445.txt	28604	28664	"these are the people who know how to keep our country safe."""	Repetition
+DT_remarks_445.txt	28671	28703	Nothing makes me more proud than	Repetition
+DT_remarks_445.txt	28825	28885	"these are the people who know how to keep our country safe."""	Repetition
+DT_remarks_445.txt	28904	28922	profoundly humbled	Loaded_Language
+DT_remarks_445.txt	29066	29096	"how to keep our country safe."""	Flag-Waving
+DT_remarks_445.txt	29115	29133	profoundly humbled	Loaded_Language
+DT_remarks_445.txt	29268	29285	"intrepid heroes."""	Repetition
+DT_remarks_445.txt	29527	29544	"intrepid heroes."""	Repetition
+DT_remarks_445.txt	29868	29885	"intrepid heroes."""	Repetition
+DT_remarks_445.txt	30246	30254	"heroes."""	Name_Calling,Labeling
+DT_remarks_445.txt	32198	32205	amazing	Repetition
+DT_remarks_445.txt	32543	32550	amazing	Repetition
+DT_remarks_445.txt	32900	32907	amazing	Repetition
+DT_remarks_445.txt	33204	33211	amazing	Repetition
+DT_remarks_445.txt	33600	33612	One American	Flag-Waving
+DT_remarks_445.txt	33713	33747	One God saluting One American Flag	Flag-Waving
+DT_remarks_445.txt	33876	33888	One American	Flag-Waving
+DT_remarks_445.txt	34053	34068	bitter failures	Repetition
+DT_remarks_445.txt	34213	34224	our country	Flag-Waving
+DT_remarks_445.txt	34357	34372	bitter failures	Repetition
+DT_remarks_445.txt	34472	34481	Americans	Repetition
+DT_remarks_445.txt	34649	34664	bitter failures	Repetition
+DT_remarks_445.txt	34764	34773	Americans	Repetition
+DT_remarks_445.txt	35093	35102	Americans	Repetition
+DT_remarks_445.txt	35450	35466	of all Americans	Repetition
+DT_remarks_445.txt	35603	35611	American	Repetition
+DT_remarks_445.txt	35993	36005	American law	Flag-Waving
+DT_remarks_445.txt	36350	36362	our children	Flag-Waving
+DT_remarks_445.txt	36407	36415	American	Repetition
+DT_remarks_445.txt	36685	36773	of by and for the people We will make America prosperous again We will make America safe	Flag-Waving
+DT_remarks_445.txt	37066	37184	for the people We will make America prosperous again We will make America safe again And will Make America great again	Repetition
+DT_remarks_445.txt	37502	37620	for the people We will make America prosperous again We will make America safe again And will Make America great again	Repetition
+DT_remarks_445.txt	37938	38056	for the people We will make America prosperous again We will make America safe again And will Make America great again	Repetition
+DT_remarks_445.txt	38374	38492	for the people We will make America prosperous again We will make America safe again And will Make America great again	Repetition
+DT_remarks_445.txt	38810	38928	for the people We will make America prosperous again We will make America safe again And will Make America great again	Repetition
+DT_remarks_451.txt	221	248	"the people of our country."""	Flag-Waving
+DT_remarks_451.txt	653	680	"the people of our country."""	Flag-Waving
+DT_remarks_451.txt	932	940	flourish	Loaded_Language
+DT_remarks_451.txt	1000	1031	incredible unrealized potential	Loaded_Language
+DT_remarks_451.txt	1171	1209	"a silent nation of jobless Americans."""	Repetition
+DT_remarks_451.txt	1411	1420	Americans	Repetition
+DT_remarks_451.txt	1496	1534	"a silent nation of jobless Americans."""	Repetition
+DT_remarks_451.txt	1823	1861	"a silent nation of jobless Americans."""	Repetition
+DT_remarks_451.txt	2158	2180	"of jobless Americans."""	Flag-Waving
+DT_remarks_451.txt	3674	3695	our economy can never	Flag-Waving
+DT_remarks_451.txt	4754	4773	flourishing schools	Repetition
+DT_remarks_451.txt	4813	4821	gleaming	Repetition
+DT_remarks_451.txt	4871	4876	flood	Loaded_Language
+DT_remarks_451.txt	5160	5171	flourishing	Black-and-White_Fallacy
+DT_remarks_451.txt	5219	5227	gleaming	Repetition
+DT_remarks_451.txt	5557	5576	flourishing schools	Repetition
+DT_remarks_451.txt	5616	5624	gleaming	Repetition
+DT_remarks_451.txt	5792	5808	and so much more	Repetition
+DT_remarks_451.txt	5943	5962	flourishing schools	Repetition
+DT_remarks_451.txt	6002	6010	gleaming	Repetition
+DT_remarks_451.txt	6182	6194	so much more	Repetition
+DT_remarks_451.txt	6329	6348	flourishing schools	Repetition
+DT_remarks_451.txt	6388	6396	gleaming	Repetition
+DT_remarks_451.txt	6564	6580	and so much more	Repetition
+DT_remarks_451.txt	6755	6782	gleaming new infrastructure	Appeal_to_fear-prejudice
+DT_remarks_451.txt	6931	6947	and so much more	Repetition
+DT_remarks_451.txt	7000	7100	the present policy of globalism – which has moved so many jobs and so much wealth out of our country	Flag-Waving
+DT_remarks_451.txt	7201	7213	so much more	Repetition
+DT_remarks_451.txt	7316	7347	so many jobs and so much wealth	Appeal_to_fear-prejudice
+DT_remarks_451.txt	7355	7366	our country	Repetition
+DT_remarks_451.txt	7524	7545	policy of Americanism	Black-and-White_Fallacy
+DT_remarks_451.txt	7552	7572	this American System	Flag-Waving
+DT_remarks_451.txt	7674	7683	Americans	Repetition
+DT_remarks_451.txt	7714	7737	destructive regulations	Loaded_Language
+DT_remarks_451.txt	7746	7782	the vast treasure of American energy	Exaggeration,Minimisation
+DT_remarks_451.txt	8232	8244	driving jobs	Black-and-White_Fallacy
+DT_remarks_451.txt	8281	8338	"the worlds great magnet for innovation and job creation."""	Exaggeration,Minimisation
+DT_remarks_451.txt	8380	8414	America will truly be the greatest	Flag-Waving
+DT_remarks_451.txt	8532	8638	"driving jobs and wealth away America will become the worlds great magnet for innovation and job creation."""	Flag-Waving
+DT_remarks_451.txt	8947	9049	"""The only people who get rich under Hillary Clintons scheme are the donors and the special interests."""	Black-and-White_Fallacy
+DT_remarks_451.txt	9050	9214	"""In Hillary Clintons America we have surrendered our status as the worlds great economy and we have surrendered our middle class to the whims of foreign countries."""	Flag-Waving
+DT_remarks_451.txt	9291	9343	"our middle class to the whims of foreign countries."""	Flag-Waving
+DT_remarks_451.txt	9707	9732	dollar of American wealth	Flag-Waving
+DT_remarks_451.txt	9998	10021	the most amazing people	Exaggeration,Minimisation
+DT_remarks_451.txt	10041	10053	the goodness	Loaded_Language
+DT_remarks_451.txt	10071	10101	our country and brave citizens	Flag-Waving
+DT_remarks_451.txt	10217	10240	the most amazing people	Exaggeration,Minimisation
+DT_remarks_451.txt	10260	10286	the goodness and character	Loaded_Language
+DT_remarks_451.txt	10290	10301	our country	Repetition
+DT_remarks_451.txt	10306	10320	brave citizens	Name_Calling,Labeling
+DT_remarks_451.txt	10840	10851	our country	Repetition
+DT_remarks_451.txt	10911	10935	heaped scorn and disdain	Loaded_Language
+DT_remarks_451.txt	10945	10964	wonderful Americans	Repetition
+DT_remarks_451.txt	11152	11163	our country	Repetition
+DT_remarks_451.txt	11223	11247	heaped scorn and disdain	Loaded_Language
+DT_remarks_451.txt	11257	11276	wonderful Americans	Repetition
+DT_remarks_451.txt	11316	11336	of American citizens	Flag-Waving
+DT_remarks_451.txt	11340	11367	deplorable and irredeemable	Name_Calling,Labeling
+DT_remarks_451.txt	11370	11469	how can Hillary Clinton seek to lead this country when she considers its citizens beyond redemption	Doubt
+DT_remarks_451.txt	11475	11494	wonderful Americans	Repetition
+DT_remarks_451.txt	11537	11554	American citizens	Flag-Waving
+DT_remarks_451.txt	11558	11585	deplorable and irredeemable	Loaded_Language
+DT_remarks_451.txt	11588	11687	how can Hillary Clinton seek to lead this country when she considers its citizens beyond redemption	Doubt
+DT_remarks_451.txt	11722	11732	deplorable	Name_Calling,Labeling
+DT_remarks_451.txt	11737	11762	the most admirable people	Exaggeration,Minimisation
+DT_remarks_451.txt	11906	11937	they are all American They love	Flag-Waving
+DT_remarks_451.txt	12097	12109	all American	Repetition
+DT_remarks_451.txt	12204	12245	forgotten men and women of America People	Name_Calling,Labeling
+DT_remarks_451.txt	12428	12489	all American They love their families they love their country	Flag-Waving
+DT_remarks_451.txt	12531	12576	the forgotten men and women of America People	Name_Calling,Labeling
+DT_remarks_451.txt	12824	12862	the forgotten men and women of America	Name_Calling,Labeling
+DT_remarks_451.txt	13015	13026	our leaders	Flag-Waving
+DT_remarks_451.txt	13051	13133	their duty to protect the jobs wages and well-being of American workers before any	Flag-Waving
+DT_remarks_451.txt	13223	13237	"this country """	Flag-Waving
+DT_remarks_451.txt	13249	13260	our leaders	Flag-Waving
+DT_remarks_451.txt	13281	13389	"its their duty to protect the jobs wages and well-being of American workers before any other consideration."""	Flag-Waving
+DT_remarks_451.txt	13695	13735	"will fight for every last American job."""	Flag-Waving
+DT_remarks_451.txt	16453	16483	the weakest so-called recovery	Exaggeration,Minimisation
+DT_remarks_451.txt	17805	17822	weakest so-called	Exaggeration,Minimisation
+DT_remarks_451.txt	19751	19761	our nation	Flag-Waving
+DT_remarks_451.txt	20123	20149	dilapidated infrastructure	Loaded_Language
+DT_remarks_451.txt	20168	20182	badly depleted	Repetition
+DT_remarks_451.txt	20476	20487	dilapidated	Loaded_Language
+DT_remarks_451.txt	20521	20535	badly depleted	Repetition
+DT_remarks_451.txt	20603	20650	"Never has so much money been spent so poorly ""B"	Repetition
+DT_remarks_451.txt	20815	20841	dilapidated infrastructure	Loaded_Language
+DT_remarks_451.txt	20860	20874	badly depleted	Repetition
+DT_remarks_451.txt	20942	20989	"Never has so much money been spent so poorly ""B"	Repetition
+DT_remarks_451.txt	21190	21232	dilapidated infrastructure failing schools	Loaded_Language
+DT_remarks_451.txt	21235	21258	badly depleted military	Loaded_Language
+DT_remarks_451.txt	21317	21364	"Never has so much money been spent so poorly ""B"	Repetition
+DT_remarks_451.txt	21586	21600	badly depleted	Repetition
+DT_remarks_451.txt	21668	21715	"Never has so much money been spent so poorly ""B"	Repetition
+DT_remarks_451.txt	21957	22004	"Never has so much money been spent so poorly ""B"	Repetition
+DT_remarks_451.txt	22455	22460	low-i	Flag-Waving
+DT_remarks_451.txt	22728	22748	low-income Americans	Flag-Waving
+DT_remarks_451.txt	24119	24142	"it wont even be close."""	Exaggeration,Minimisation
+DT_remarks_451.txt	26354	26372	disproportionately	Black-and-White_Fallacy
+DT_remarks_451.txt	28618	28626	greatest	Black-and-White_Fallacy
+DT_remarks_451.txt	28762	28774	explosion of	Repetition
+DT_remarks_451.txt	29037	29046	explosion	Repetition
+DT_remarks_451.txt	29719	29728	explosion	Repetition
+DT_remarks_451.txt	30792	30813	a magnet for new jobs	Name_Calling,Labeling
+DT_remarks_451.txt	30989	31002	"our country."""	Repetition
+DT_remarks_451.txt	31029	31050	a magnet for new jobs	Name_Calling,Labeling
+DT_remarks_451.txt	31184	31194	disastrous	Loaded_Language
+DT_remarks_451.txt	31301	31314	"our country."""	Repetition
+DT_remarks_451.txt	31323	31362	turn America into a magnet for new jobs	Flag-Waving
+DT_remarks_451.txt	31496	31518	disastrous regulations	Repetition
+DT_remarks_451.txt	31543	31573	our out-of-control bureaucracy	Repetition
+DT_remarks_451.txt	31602	31632	a massive job-killing industry	Repetition
+DT_remarks_451.txt	31701	31714	"our country."""	Repetition
+DT_remarks_451.txt	31715	31762	We will turn America into a magnet for new jobs	Flag-Waving
+DT_remarks_451.txt	31896	31918	disastrous regulations	Repetition
+DT_remarks_451.txt	31943	31973	our out-of-control bureaucracy	Repetition
+DT_remarks_451.txt	32002	32032	a massive job-killing industry	Repetition
+DT_remarks_451.txt	32249	32271	disastrous regulations	Repetition
+DT_remarks_451.txt	32296	32326	our out-of-control bureaucracy	Repetition
+DT_remarks_451.txt	32355	32385	a massive job-killing industry	Repetition
+DT_remarks_451.txt	32568	32612	overregulation costs our economy $2 trillion	Flag-Waving
+DT_remarks_451.txt	32637	32667	our out-of-control bureaucracy	Repetition
+DT_remarks_451.txt	32696	32726	a massive job-killing industry	Repetition
+DT_remarks_451.txt	32930	32941	our economy	Flag-Waving
+DT_remarks_451.txt	33264	33275	our economy	Flag-Waving
+DT_remarks_451.txt	33501	33524	job-killing regulations	Black-and-White_Fallacy
+DT_remarks_451.txt	33769	33780	job-killing	Appeal_to_fear-prejudice
+DT_remarks_451.txt	34088	34099	job-killing	Loaded_Language
+DT_remarks_451.txt	34500	34523	job-killing regulations	Loaded_Language
+DT_remarks_451.txt	34582	34608	most intrusive regulations	Exaggeration,Minimisation
+DT_remarks_451.txt	37113	37144	"the foundation for everything """	Exaggeration,Minimisation
+DT_remarks_451.txt	37442	37455	enormous drag	Loaded_Language
+DT_remarks_451.txt	37680	37693	enormous drag	Loaded_Language
+DT_remarks_451.txt	38003	38017	taken millions	Flag-Waving
+DT_remarks_451.txt	38055	38068	"our country """	Doubt
+DT_remarks_451.txt	38243	38258	Predatory trade	Doubt
+DT_remarks_451.txt	38344	38409	"taken millions of jobs and trillions in wealth from our country """	Flag-Waving
+DT_remarks_451.txt	38537	38557	terrible trade deals	Repetition
+DT_remarks_451.txt	38564	38739	"percent Predatory trade practices product dumping currency manipulation and intellectual property theft have taken millions of jobs and trillions in wealth from our country ""I"	Flag-Waving
+DT_remarks_451.txt	38866	38886	terrible trade deals	Repetition
+DT_remarks_451.txt	38896	38913	so-called experts	Doubt
+DT_remarks_451.txt	38963	39045	gave us NAFTA Chinas entry into the World Trade Organization the job-killing trade	Doubt
+DT_remarks_451.txt	39142	39162	terrible trade deals	Repetition
+DT_remarks_451.txt	39172	39189	so-called experts	Doubt
+DT_remarks_451.txt	39304	39321	job-killing trade	Doubt
+DT_remarks_451.txt	39550	39752	"in All of the special interests that the media race to for comment have been proven wrong about every single deal theyve promoted – every lie and every prediction has crashed upon the rocks of reality."""	Doubt
+DT_remarks_451.txt	40016	40024	hollowed	Loaded_Language
+DT_remarks_451.txt	40866	40877	our workers	Flag-Waving
+DT_remarks_451.txt	40972	41024	our greatest business leaders and finest negotiators	Flag-Waving
+DT_remarks_451.txt	41130	41137	so much	Repetition
+DT_remarks_451.txt	41148	41159	our country	Repetition
+DT_remarks_451.txt	41297	41326	so much damage to our country	Flag-Waving
+DT_remarks_451.txt	41911	41933	a currency manipulator	Repetition
+DT_remarks_451.txt	42207	42227	currency manipulator	Repetition
+DT_remarks_451.txt	42526	42546	currency manipulator	Repetition
+DT_remarks_451.txt	42907	42927	currency manipulator	Repetition
+DT_remarks_451.txt	43280	43287	illegal	Repetition
+DT_remarks_451.txt	43545	43552	illegal	Repetition
+DT_remarks_451.txt	43818	43825	illegal	Repetition
+DT_remarks_451.txt	45029	45040	our country	Repetition
+DT_remarks_451.txt	45082	45093	our country	Repetition
+DT_remarks_451.txt	45195	45206	our country	Repetition
+DT_remarks_451.txt	48536	48628	the most pro-growth pro-jobs pro-family plan put forth perhaps in the history of our country	Appeal_to_Authority
+DT_remarks_451.txt	48859	48951	the most pro-growth pro-jobs pro-family plan put forth perhaps in the history of our country	Appeal_to_Authority
+DT_remarks_451.txt	49282	49290	depleted	Appeal_to_Authority
+DT_remarks_451.txt	49423	49434	our country	Repetition
+DT_remarks_451.txt	49579	49610	"put the American worker first."""	Appeal_to_Authority
+DT_remarks_451.txt	51186	51198	new American	Flag-Waving
+DT_remarks_451.txt	51210	51219	the spine	Flag-Waving
+DT_remarks_451.txt	51682	51710	We Will Make America Wealthy	Flag-Waving
+DT_remarks_451.txt	52053	52135	We Will Make America Wealthy Again We Will Make America Strong Again And Will Make	Flag-Waving
+DT_remarks_451.txt	52430	52532	We Will Make America Wealthy Again We Will Make America Strong Again And Will Make America Great Again	Repetition
+DT_remarks_451.txt	52852	52954	We Will Make America Wealthy Again We Will Make America Strong Again And Will Make America Great Again	Repetition
+DT_remarks_451.txt	53274	53376	We Will Make America Wealthy Again We Will Make America Strong Again And Will Make America Great Again	Repetition
+DT_remarks_451.txt	53696	53798	We Will Make America Wealthy Again We Will Make America Strong Again And Will Make America Great Again	Repetition
+DT_remarks_451.txt	54118	54220	We Will Make America Wealthy Again We Will Make America Strong Again And Will Make America Great Again	Repetition
+DT_remarks_486.txt	192	218	to make America rich again	Repetition
+DT_remarks_486.txt	323	334	our country	Repetition
+DT_remarks_486.txt	351	373	disastrous trade deals	Repetition
+DT_remarks_486.txt	566	592	to make America rich again	Repetition
+DT_remarks_486.txt	697	708	our country	Repetition
+DT_remarks_486.txt	725	747	disastrous trade deals	Repetition
+DT_remarks_486.txt	907	933	to make America rich again	Repetition
+DT_remarks_486.txt	1038	1049	our country	Repetition
+DT_remarks_486.txt	1062	1088	our disastrous trade deals	Repetition
+DT_remarks_486.txt	1172	1180	our jobs	Repetition
+DT_remarks_486.txt	1197	1220	make America rich again	Repetition
+DT_remarks_486.txt	1325	1336	our country	Repetition
+DT_remarks_486.txt	1349	1375	our disastrous trade deals	Repetition
+DT_remarks_486.txt	1620	1631	our country	Repetition
+DT_remarks_486.txt	1644	1670	our disastrous trade deals	Repetition
+DT_remarks_486.txt	1771	1785	has been there	Flag-Waving
+DT_remarks_486.txt	1799	1859	and hasnt fixed anything In fact shes just made things worse	Doubt
+DT_remarks_486.txt	2378	2405	shes just made things worse	Loaded_Language
+DT_remarks_486.txt	2417	2438	"30 years of failure."""	Loaded_Language
+DT_remarks_486.txt	2651	2670	third-world country	Repetition
+DT_remarks_486.txt	2803	2824	"30 years of failure."""	Loaded_Language
+DT_remarks_486.txt	3004	3056	infrastructure is like that of a third-world country	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	3252	3259	immense	Flag-Waving
+DT_remarks_486.txt	3426	3445	third-world country	Repetition
+DT_remarks_486.txt	3809	3828	third-world country	Repetition
+DT_remarks_486.txt	4152	4204	infrastructure is like that of a third-world country	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	4954	4962	disaster	Repetition
+DT_remarks_486.txt	5227	5235	disaster	Repetition
+DT_remarks_486.txt	5354	5366	the worst so	Flag-Waving
+DT_remarks_486.txt	5599	5607	disaster	Repetition
+DT_remarks_486.txt	5703	5711	taxpayer	Flag-Waving
+DT_remarks_486.txt	5726	5783	"the worst so-called recovery since the Great Depression """	Repetition
+DT_remarks_486.txt	5950	5958	disaster	Repetition
+DT_remarks_486.txt	6077	6134	"the worst so-called recovery since the Great Depression """	Repetition
+DT_remarks_486.txt	6151	6173	our taxpaying citizens	Repetition
+DT_remarks_486.txt	6290	6298	disaster	Repetition
+DT_remarks_486.txt	6417	6474	"the worst so-called recovery since the Great Depression """	Repetition
+DT_remarks_486.txt	6491	6560	our taxpaying citizens send troops and foreign aid all over the world	Flag-Waving
+DT_remarks_486.txt	6625	6651	America needs a turnaround	Flag-Waving
+DT_remarks_486.txt	6703	6717	taxpayer funds	Flag-Waving
+DT_remarks_486.txt	6726	6783	"the worst so-called recovery since the Great Depression """	Repetition
+DT_remarks_486.txt	6800	6822	our taxpaying citizens	Repetition
+DT_remarks_486.txt	6934	7008	America needs a turnaround America needs a comeback America needs a change	Repetition
+DT_remarks_486.txt	7111	7133	our taxpaying citizens	Repetition
+DT_remarks_486.txt	7245	7319	America needs a turnaround America needs a comeback America needs a change	Repetition
+DT_remarks_486.txt	7404	7469	America is back – bigger and better and stronger than ever before	Repetition
+DT_remarks_486.txt	7493	7515	our taxpaying citizens	Repetition
+DT_remarks_486.txt	7627	7701	America needs a turnaround America needs a comeback America needs a change	Repetition
+DT_remarks_486.txt	7786	7851	America is back – bigger and better and stronger than ever before	Repetition
+DT_remarks_486.txt	8001	8075	America needs a turnaround America needs a comeback America needs a change	Repetition
+DT_remarks_486.txt	8131	8225	to show the whole world that America is back – bigger and better and stronger than ever before	Flag-Waving
+DT_remarks_486.txt	8346	8420	America needs a turnaround America needs a comeback America needs a change	Repetition
+DT_remarks_486.txt	8479	8499	show the whole world	Flag-Waving
+DT_remarks_486.txt	8505	8570	America is back – bigger and better and stronger than ever before	Repetition
+DT_remarks_486.txt	8727	8749	America needs a change	Flag-Waving
+DT_remarks_486.txt	8808	8828	show the whole world	Flag-Waving
+DT_remarks_486.txt	8834	8849	America is back	Flag-Waving
+DT_remarks_486.txt	8852	8899	bigger and better and stronger than ever before	Exaggeration,Minimisation
+DT_remarks_486.txt	9048	9055	torched	Repetition
+DT_remarks_486.txt	9137	9176	"""one of the greatest accomplishments of"	Exaggeration,Minimisation
+DT_remarks_486.txt	9194	9288	to show the whole world that America is back – bigger and better and stronger than ever before	Flag-Waving
+DT_remarks_486.txt	9437	9444	torched	Repetition
+DT_remarks_486.txt	9526	9626	"""one of the greatest accomplishments of President Obama of the Democratic Party and of our country."""	Repetition
+DT_remarks_486.txt	9637	9684	bigger and better and stronger than ever before	Exaggeration,Minimisation
+DT_remarks_486.txt	9833	9840	torched	Repetition
+DT_remarks_486.txt	9922	10022	"""one of the greatest accomplishments of President Obama of the Democratic Party and of our country."""	Repetition
+DT_remarks_486.txt	10191	10198	torched	Repetition
+DT_remarks_486.txt	10280	10380	"""one of the greatest accomplishments of President Obama of the Democratic Party and of our country."""	Repetition
+DT_remarks_486.txt	10448	10464	"a ""crazy system"""	Name_Calling,Labeling
+DT_remarks_486.txt	10479	10512	"the craziest thing in the world."""	Exaggeration,Minimisation
+DT_remarks_486.txt	10532	10570	"""its the craziest thing in the world."""	Exaggeration,Minimisation
+DT_remarks_486.txt	10604	10614	busting it	Loaded_Language
+DT_remarks_486.txt	10716	10737	people getting killed	Loaded_Language
+DT_remarks_486.txt	11707	11734	every law-abiding gun-owner	Repetition
+DT_remarks_486.txt	11774	11781	abolish	Repetition
+DT_remarks_486.txt	12074	12101	every law-abiding gun-owner	Repetition
+DT_remarks_486.txt	12129	12165	effectively abolish the 2ndamendment	Appeal_to_fear-prejudice
+DT_remarks_486.txt	12440	12467	every law-abiding gun-owner	Repetition
+DT_remarks_486.txt	12495	12514	effectively abolish	Repetition
+DT_remarks_486.txt	12800	12821	law-abiding gun-owner	Black-and-White_Fallacy
+DT_remarks_486.txt	12861	12868	abolish	Repetition
+DT_remarks_486.txt	13202	13229	every law-abiding gun-owner	Repetition
+DT_remarks_486.txt	13269	13276	abolish	Repetition
+DT_remarks_486.txt	13606	13633	every law-abiding gun-owner	Repetition
+DT_remarks_486.txt	13661	13680	effectively abolish	Repetition
+DT_remarks_486.txt	13961	13988	every law-abiding gun-owner	Repetition
+DT_remarks_486.txt	14016	14035	effectively abolish	Repetition
+DT_remarks_486.txt	15076	15094	huge sums of money	Black-and-White_Fallacy
+DT_remarks_486.txt	15097	15112	the devaluation	Black-and-White_Fallacy
+DT_remarks_486.txt	15170	15196	our country our businesses	Flag-Waving
+DT_remarks_486.txt	15337	15355	huge sums of money	Black-and-White_Fallacy
+DT_remarks_486.txt	15391	15442	staggering as to what it represents for our country	Flag-Waving
+DT_remarks_486.txt	15462	15476	"our citizens """	Flag-Waving
+DT_remarks_486.txt	15514	15529	our politicians	Black-and-White_Fallacy
+DT_remarks_486.txt	15600	15751	"the devaluation of currencies is staggering as to what it represents for our country our businesses and our citizens ""Were not on a level playing field"	Flag-Waving
+DT_remarks_486.txt	15756	15787	our politicians dont understand	Doubt
+DT_remarks_486.txt	15807	15815	Our jobs	Repetition
+DT_remarks_486.txt	15940	15959	When I am President	Black-and-White_Fallacy
+DT_remarks_486.txt	16005	16099	"""Our ""Were not on a level playing field and our politicians dont understand what is going on."""	Flag-Waving
+DT_remarks_486.txt	16100	16108	Our jobs	Repetition
+DT_remarks_486.txt	16127	16142	massive numbers	Loaded_Language
+DT_remarks_486.txt	16298	16309	"""Our nation"	Flag-Waving
+DT_remarks_486.txt	16463	16471	Our jobs	Repetition
+DT_remarks_486.txt	16490	16505	massive numbers	Exaggeration,Minimisation
+DT_remarks_486.txt	17224	17236	another Bill	Name_Calling,Labeling
+DT_remarks_486.txt	17295	17306	"""Our nation"	Flag-Waving
+DT_remarks_486.txt	17522	17534	another Bill	Name_Calling,Labeling
+DT_remarks_486.txt	18123	18134	our country	Repetition
+DT_remarks_486.txt	18190	18203	"our country."""	Flag-Waving
+DT_remarks_486.txt	18289	18300	our country	Repetition
+DT_remarks_486.txt	18356	18369	"our country."""	Flag-Waving
+DT_remarks_486.txt	18387	18409	"a new day in America."""	Slogans
+DT_remarks_486.txt	19396	19445	the largest regulatory reform in American history	Repetition
+DT_remarks_486.txt	19463	19476	"our workers."""	Flag-Waving
+DT_remarks_486.txt	19556	19605	the largest regulatory reform in American history	Repetition
+DT_remarks_486.txt	19744	19757	a rich nation	Repetition
+DT_remarks_486.txt	19879	19928	the largest regulatory reform in American history	Repetition
+DT_remarks_486.txt	20069	20080	rich nation	Repetition
+DT_remarks_486.txt	20143	20220	"Hillary Clinton is unfit to be President because she supports open borders ""I"	Black-and-White_Fallacy
+DT_remarks_486.txt	20227	20289	as Secretary of State she allowed thousands of criminal aliens	Flag-Waving
+DT_remarks_486.txt	20436	20447	rich nation	Repetition
+DT_remarks_486.txt	20510	20721	"Hillary Clinton is unfit to be President because she supports open borders ""In fact as Secretary of State she allowed thousands of criminal aliens to be freed into our country because their own countries wouldnt"	Doubt
+DT_remarks_486.txt	20884	21128	"Hillary Clinton is unfit to be President because she supports open borders ""In fact as Secretary of State she allowed thousands of criminal aliens to be freed into our country because their own countries wouldnt take them back -- it was her job"	Doubt
+DT_remarks_486.txt	21181	21196	criminal aliens	Repetition
+DT_remarks_486.txt	21356	21367	"criminals."""	Flag-Waving
+DT_remarks_486.txt	21373	21390	"she didnt do it."""	Doubt
+DT_remarks_486.txt	21763	21779	"""Hillary Clinton"	Repetition
+DT_remarks_486.txt	21793	21847	"the most radical immigration proposal in U.S history."""	Exaggeration,Minimisation
+DT_remarks_486.txt	21848	22006	"""Her radical plan would result in the loss of thousands of innocent American lives mass victimization and death for many attempting to immigrate to the United"	Appeal_to_fear-prejudice
+DT_remarks_486.txt	22051	22105	"the most radical immigration proposal in U.S history."""	Exaggeration,Minimisation
+DT_remarks_486.txt	22106	22416	"""Her radical plan would result in the loss of thousands of innocent American lives mass victimization and death for many attempting to immigrate to the United States the total gutting of interior enforcement the handcuffing of ICE officers and an uncontrollable flood of illegal immigrants across U.S borders."""	Appeal_to_fear-prejudice
+DT_remarks_486.txt	22493	22501	American	Repetition
+DT_remarks_486.txt	22508	22536	mass victimization and death	Loaded_Language
+DT_remarks_486.txt	22595	22632	total gutting of interior enforcement	Loaded_Language
+DT_remarks_486.txt	22637	22664	handcuffing of ICE officers	Loaded_Language
+DT_remarks_486.txt	22669	22714	an uncontrollable flood of illegal immigrants	Exaggeration,Minimisation
+DT_remarks_486.txt	23450	23483	"total amnesty plus open borders."""	Black-and-White_Fallacy
+DT_remarks_486.txt	23650	23665	"disqualifying."""	Name_Calling,Labeling
+DT_remarks_486.txt	23867	23882	criminal aliens	Repetition
+DT_remarks_486.txt	24039	24054	criminal aliens	Repetition
+DT_remarks_486.txt	24302	24313	our country	Repetition
+DT_remarks_486.txt	24371	24379	criminal	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	24418	24433	severe offenses	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	24562	24608	our country is being infiltrated by terrorists	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	24836	24859	we are getting them out	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	24864	24959	we are getting them out quickly At the same time our country is being infiltrated by terrorists	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	26023	26040	Taliban supporter	Repetition
+DT_remarks_486.txt	26062	26109	Hillary Clinton wants a 550% increase in Syrian	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	26399	26416	Taliban supporter	Repetition
+DT_remarks_486.txt	26740	26757	Taliban supporter	Repetition
+DT_remarks_486.txt	27081	27098	Taliban supporter	Repetition
+DT_remarks_486.txt	27416	27433	Taliban supporter	Repetition
+DT_remarks_486.txt	27724	27743	The Orlando shooter	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	27761	27856	Taliban supporter from Afghanistan Yet Hillary Clinton wants a 550% increase in Syrian Refugees	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	28072	28083	our country	Repetition
+DT_remarks_486.txt	28113	28132	a Taliban supporter	Repetition
+DT_remarks_486.txt	28426	28437	our country	Repetition
+DT_remarks_486.txt	28754	28765	our country	Repetition
+DT_remarks_486.txt	28934	28945	for America	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	29014	29040	Radical Islamic Terrorists	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	29048	29059	our country	Repetition
+DT_remarks_486.txt	29350	29400	keep Radical Islamic Terrorists out of our country	Whataboutism,Straw_Men,Red_Herring
+DT_remarks_486.txt	29710	29737	"""Its worse than Watergate."""	Repetition
+DT_remarks_486.txt	29793	29807	the government	Name_Calling,Labeling
+DT_remarks_486.txt	30077	30104	"""Its worse than Watergate."""	Repetition
+DT_remarks_486.txt	30245	30272	"""Its worse than Watergate."""	Repetition
+DT_remarks_486.txt	30500	30558	Hillary Clinton is the ringleader of a criminal enterprise	Name_Calling,Labeling
+DT_remarks_486.txt	30563	30624	the only way to deliver justice is to show up and vote We are	Black-and-White_Fallacy
+DT_remarks_486.txt	30649	30707	Hillary Clinton is the ringleader of a criminal enterprise	Name_Calling,Labeling
+DT_remarks_486.txt	30712	30746	the only way to deliver justice is	Black-and-White_Fallacy
+DT_remarks_486.txt	31031	31045	"""The Democrats"	Name_Calling,Labeling
+DT_remarks_486.txt	31320	31324	"""The"	Name_Calling,Labeling
+DT_remarks_486.txt	31636	31650	"""The Democrats"	Name_Calling,Labeling
+DT_remarks_486.txt	31827	31869	African-Americans suffering in our country	Repetition
+DT_remarks_486.txt	31877	31918	What do you have to lose? Vote For Donald	Thought-terminating_Cliches
+DT_remarks_486.txt	31941	32006	"""The Democrats like Hillary Clinton have run the inner cities for"	Appeal_to_Authority
+DT_remarks_486.txt	32050	32122	"Theyve produced only more joblessness failing schools and rising crime."""	Doubt
+DT_remarks_486.txt	32132	32174	African-Americans suffering in our country	Repetition
+DT_remarks_486.txt	32182	32344	What do you have to lose? Vote For Donald Trump I will fix it I will be your greatest champion and I will deliver real change and justice in your communities I am	Repetition
+DT_remarks_486.txt	32379	32451	"Theyve produced only more joblessness failing schools and rising crime."""	Loaded_Language
+DT_remarks_486.txt	32461	32503	African-Americans suffering in our country	Repetition
+DT_remarks_486.txt	32511	32668	What do you have to lose? Vote For Donald Trump I will fix it I will be your greatest champion and I will deliver real change and justice in your communities	Repetition
+DT_remarks_486.txt	32812	32860	those African-Americans suffering in our country	Repetition
+DT_remarks_486.txt	32868	33025	What do you have to lose? Vote For Donald Trump I will fix it I will be your greatest champion and I will deliver real change and justice in your communities	Repetition
+DT_remarks_486.txt	33230	33247	greatest champion	Flag-Waving
+DT_remarks_486.txt	33506	33520	amazing things	Black-and-White_Fallacy
+DT_remarks_486.txt	33544	33555	our country	Repetition
+DT_remarks_486.txt	33599	33610	our country	Repetition
+DT_remarks_486.txt	33650	33689	the biggest tax cut since Ronald Reagan	Flag-Waving
+DT_remarks_486.txt	33869	33880	job-killing	Black-and-White_Fallacy
+DT_remarks_486.txt	33969	33981	our depleted	Flag-Waving
+DT_remarks_486.txt	34289	34324	every forgotten man woman and child	Flag-Waving
+DT_remarks_486.txt	34417	34507	the righteous verdict of the American voter The failed and corrupt political establishment	Flag-Waving
+DT_remarks_486.txt	34606	34628	one magnificent chance	Flag-Waving
+DT_remarks_486.txt	34658	34687	forgotten man woman and child	Flag-Waving
+DT_remarks_486.txt	34780	34817	the righteous verdict of the American	Flag-Waving
+DT_remarks_486.txt	34828	34870	failed and corrupt political establishment	Repetition
+DT_remarks_486.txt	34978	35000	one magnificent chance	Flag-Waving
+DT_remarks_486.txt	35030	35059	forgotten man woman and child	Flag-Waving
+DT_remarks_486.txt	35152	35176	the righteous verdict of	Flag-Waving
+DT_remarks_486.txt	35200	35242	failed and corrupt political establishment	Repetition
+DT_remarks_486.txt	35482	35525	the righteous verdict of the American voter	Flag-Waving
+DT_remarks_486.txt	35530	35572	failed and corrupt political establishment	Repetition
+DT_remarks_486.txt	35661	35728	every citizen of every background from every stretch of this nation	Flag-Waving
+DT_remarks_486.txt	35771	35789	the American voter	Flag-Waving
+DT_remarks_486.txt	35794	35836	failed and corrupt political establishment	Repetition
+DT_remarks_486.txt	36047	36056	Americans	Repetition
+DT_remarks_486.txt	36150	36186	"One God saluting One American Flag """	Flag-Waving
+DT_remarks_486.txt	36324	36333	Americans	Repetition
+DT_remarks_486.txt	36427	36463	"One God saluting One American Flag """	Flag-Waving
+DT_remarks_486.txt	36634	36643	Americans	Repetition
+DT_remarks_486.txt	36879	36918	a movement like youve never seen before	Flag-Waving
+DT_remarks_486.txt	36930	36956	"to make history together."""	Flag-Waving
+DT_remarks_486.txt	37009	37020	our country	Repetition
+DT_remarks_486.txt	37072	37125	"One People under One God saluting One American Flag """	Slogans
+DT_remarks_486.txt	37231	37270	a movement like youve never seen before	Exaggeration,Minimisation
+DT_remarks_486.txt	37282	37308	"to make history together."""	Repetition
+DT_remarks_486.txt	37734	37796	"the most important vote Ive ever cast for anyone at any time."""	Exaggeration,Minimisation
+DT_remarks_486.txt	37960	38022	"the most important vote Ive ever cast for anyone at any time."""	Exaggeration,Minimisation
+DT_remarks_486.txt	38023	38057	A vote for me is a vote for change	Slogans
+DT_remarks_486.txt	38062	38228	"a vote for me is really a vote for you You are voting to believe in yourselves You are voting to by far the most important vote Ive ever cast for anyone at any time."""	Exaggeration,Minimisation
+DT_remarks_486.txt	38229	38523	A vote for me is a vote for change and a vote for me is really a vote for you You are voting to believe in yourselves You are voting to believe in your future You are voting to believe in your country All together we are going to – Make America wealthy again We are going to make America strong	Slogans
+DT_remarks_486.txt	38554	38754	A vote for me is a vote for change and a vote for me is really a vote for you You are voting to believe in yourselves You are voting to believe in your future You are voting to believe in your country	Slogans
+DT_remarks_486.txt	38786	38812	Make America wealthy again	Slogans
+DT_remarks_486.txt	38829	38854	make America strong again	Flag-Waving
+DT_remarks_486.txt	38871	38883	make America	Flag-Waving
+DT_remarks_486.txt	38894	38911	a vote for change	Slogans
+DT_remarks_486.txt	38916	39077	a vote for me is really a vote for you You are voting to believe in yourselves You are voting to believe in your future You are voting to believe in your country	Repetition
+DT_remarks_486.txt	39268	39429	a vote for me is really a vote for you You are voting to believe in yourselves You are voting to believe in your future You are voting to believe in your country	Repetition
+DT_remarks_486.txt	39640	39801	a vote for me is really a vote for you You are voting to believe in yourselves You are voting to believe in your future You are voting to believe in your country	Repetition
+DT_remarks_486.txt	40012	40173	a vote for me is really a vote for you You are voting to believe in yourselves You are voting to believe in your future You are voting to believe in your country	Repetition
+DT_remarks_486.txt	40384	40545	a vote for me is really a vote for you You are voting to believe in yourselves You are voting to believe in your future You are voting to believe in your country	Repetition
+DT_retweets_116_6.txt	46	55	bombshell	Loaded_Language
+DT_retweets_116_6.txt	63	90	You are an enemy of America	Flag-Waving
+DT_retweets_188_5.txt	70	93	U will get the job done	Slogans
+DT_retweets_188_5.txt	96	117	MakeAmericaGreatAgain	Slogans
+DT_retweets_231_1.txt	98	119	MakeAmericaGreatAgain	Slogans
+DT_retweets_250_4.txt	21	86	you are fearless! This interview shows you are the Leader we need	Appeal_to_Authority
+DT_retweets_269_4.txt	84	137	a beautiful intelligent young genuine successful lady	Name_Calling,Labeling
+DT_retweets_396_3.txt	68	105	stop believing media lies about Trump	Appeal_to_Authority
+DT_statement_322.txt	176	184	severely	Repetition
+DT_statement_322.txt	221	227	brutal	Repetition
+DT_statement_322.txt	259	267	strongly	Repetition
+DT_statement_322.txt	352	369	barbaric behavior	Repetition
+DT_statement_322.txt	551	559	severely	Repetition
+DT_statement_322.txt	596	602	brutal	Repetition
+DT_statement_322.txt	634	642	strongly	Repetition
+DT_statement_322.txt	727	744	barbaric behavior	Repetition
+DT_statement_322.txt	803	834	each and every terrorist attack	Appeal_to_Authority
+DT_statement_322.txt	860	882	This cannot become the	Flag-Waving
+DT_statement_322.txt	967	975	severely	Repetition
+DT_statement_322.txt	1012	1018	brutal	Repetition
+DT_statement_322.txt	1143	1160	barbaric behavior	Repetition
+DT_statement_322.txt	1276	1326	"This cannot become the ""new normal."" It has to end"	Whataboutism,Straw_Men,Red_Herring
+DT_statement_322.txt	1411	1419	severely	Repetition
+DT_statement_322.txt	1456	1462	brutal	Repetition
+DT_statement_322.txt	1587	1604	barbaric behavior	Repetition
+DT_statement_332.txt	97	116	the American people	Doubt
+DT_statement_332.txt	262	276	hostile actors	Doubt
+DT_statement_332.txt	511	540	safety of the American people	Doubt
+DT_statement_332.txt	2161	2170	wiped the	Doubt
+DT_statement_332.txt	2791	2800	wiped the	Doubt
+DT_statement_332.txt	3061	3078	botched decisions	Doubt
+DT_statement_332.txt	3259	3276	botched decisions	Loaded_Language
+DT_statement_332.txt	3312	3324	destabilized	Loaded_Language
+DT_statement_332.txt	3358	3465	our rigged system that holds the American people to one standard and people like Hillary Clinton to another	Doubt
+DT_statement_332.txt	3592	3676	holds the American people to one standard and people like Hillary Clinton to another	Doubt
+DT_statement_332.txt	3924	3968	one of the countrys biggest holiday weekends	Exaggeration,Minimisation
+DT_statement_332.txt	4227	4271	one of the countrys biggest holiday weekends	Exaggeration,Minimisation
+DT_statement_332.txt	4406	4429	It was no accident that	Repetition
+DT_statement_332.txt	4475	4512	the exact same day as President Obama	Doubt
+DT_statement_332.txt	4647	4670	It was no accident that	Repetition
+DT_statement_332.txt	4708	4737	Hillary the exact same day as	Doubt
+DT_statement_332.txt	4802	4822	the system is rigged	Loaded_Language
+DT_statement_332.txt	4975	4983	accident	Repetition
+DT_statement_332.txt	5112	5140	Folks – the system is rigged	Doubt
+DT_statement_332.txt	5303	5345	The final jury will be the American people	Flag-Waving
+DT_statement_332.txt	5442	5450	accident	Repetition
+DT_statement_332.txt	5579	5607	Folks – the system is rigged	Doubt
+DT_statement_332.txt	5770	5812	The final jury will be the American people	Flag-Waving
+DT_tweets_13_12.txt	71	85	total freefall	Loaded_Language
+DT_tweets_13_12.txt	106	114	terrible	Loaded_Language
+DT_tweets_150_1.txt	11	22	Crazy Megyn	Name_Calling,Labeling
+DT_tweets_150_5.txt	0	24	Thank you North Carolina	Slogans
+DT_tweets_152_15.txt	47	67	Never worth watching	Thought-terminating_Cliches
+DT_tweets_152_15.txt	92	137	She is sick & the most overrated person on tv	Exaggeration,Minimisation
+DT_tweets_152_7.txt	102	113	Disgraceful	Loaded_Language
+DT_tweets_15_9.txt	24	43	tells it like it is	Thought-terminating_Cliches
+DT_tweets_15_9.txt	47	60	the real deal	Name_Calling,Labeling
+DT_tweets_165_8.txt	35	41	no fan	Name_Calling,Labeling
+DT_tweets_169_5.txt	7	20	millions more	Exaggeration,Minimisation
+DT_tweets_174_4.txt	0	17	THANK YOU AMERICA	Slogans
+DT_tweets_176_2.txt	118	135	What a dumb group	Doubt
+DT_tweets_194_1.txt	47	56	wonderful	Loaded_Language
+DT_tweets_1_2.txt	26	56	we will #MakeAmericaGreatAgain	Slogans
+DT_tweets_1_2.txt	58	84	THANK YOU for your support	Loaded_Language
+DT_tweets_1_6.txt	117	136	We must be vigilant	Repetition
+DT_tweets_216_3.txt	0	21	Thank you Connecticut	Slogans
+DT_tweets_218_8.txt	0	17	Thank you Indiana	Slogans
+DT_tweets_221_8.txt	0	20	Thank you Fort Wayne	Slogans
+DT_tweets_232_2.txt	0	15	Crooked Hillary	Name_Calling,Labeling
+DT_tweets_232_6.txt	64	88	crumbling infrastructure	Loaded_Language
+DT_tweets_232_6.txt	90	117	Crooked Hillary has no clue	Doubt
+DT_tweets_253_3.txt	30	42	a total mess	Loaded_Language
+DT_tweets_253_3.txt	61	80	running around wild	Loaded_Language
+DT_tweets_253_3.txt	100	121	Hillary has no chance	Exaggeration,Minimisation
+DT_tweets_268_1.txt	0	117	Same failing @nytimes reporter who wrote discredited women\s story last week wrote another terrible story on me today	Doubt
+DT_tweets_277_2.txt	49	137	doesnt believe that Crooked Hillary has the temperament or integrity to be the president	Doubt
+DT_tweets_279_9.txt	0	38	MAKE AMERICA GREAT AGAIN!#AmericaFirst	Slogans
+DT_tweets_297_3.txt	7	38	Trumps Speech Is a Game Changer	Loaded_Language
+DT_tweets_309_1.txt	100	113	disqualifying	Loaded_Language
+DT_tweets_309_5.txt	79	113	He was the best I\ve ever seen him	Exaggeration,Minimisation
+DT_tweets_377_3.txt	47	75	millions of wonderful people	Exaggeration,Minimisation
+DT_tweets_377_3.txt	86	106	poverty violence and	Loaded_Language
+DT_tweets_379_8.txt	80	93	I want change	Slogans
+DT_tweets_379_8.txt	96	128	Crooked Hillary Clinton does not	Whataboutism,Straw_Men,Red_Herring
+DT_tweets_381_18.txt	16	90	raked in money from regimes that horribly oppress women and gays & refuses	Whataboutism,Straw_Men,Red_Herring
+DT_tweets_386_11.txt	59	73	CrookedHillary	Name_Calling,Labeling
+DT_tweets_388_1.txt	30	53	Crooked Hillary Clinton	Name_Calling,Labeling
+DT_tweets_388_1.txt	75	118	the very dishonest and totally biased media	Name_Calling,Labeling
+DT_tweets_388_1.txt	121	135	but I will win	Thought-terminating_Cliches
+DT_tweets_396_10.txt	59	73	CrookedHillary	Name_Calling,Labeling
+DT_tweets_397_2.txt	0	120	The failing @nytimes has become a newspaper of fiction. Their stories about me always quote non-existent unnamed sources	Doubt
+DT_tweets_39_5.txt	21	42	Such wonderful people	Name_Calling,Labeling
+DT_tweets_411_8.txt	33	61	amazing Border Patrol Agents	Name_Calling,Labeling
+DT_tweets_415_8.txt	25	37	race-baiting	Loaded_Language
+DT_tweets_415_8.txt	91	120	she is all talk and NO ACTION	Doubt
+DT_tweets_41_1.txt	0	5	Wacko	Loaded_Language
+DT_tweets_41_1.txt	100	135	Glenn is a failing crying lost soul	Name_Calling,Labeling
+DT_tweets_41_5.txt	0	20	Low energy candidate	Name_Calling,Labeling
+DT_tweets_41_5.txt	112	139	He should go home and relax	Thought-terminating_Cliches
+DT_tweets_424_1.txt	90	154	She doesnt have the drive or stamina to MAKE AMERICA GREAT AGAIN	Doubt
+DT_tweets_424_5.txt	109	140	Put America and Americans First	Flag-Waving
+DT_tweets_455_12.txt	47	72	failing @nytimes so badly	Name_Calling,Labeling
+DT_tweets_458_5.txt	20	29	Great job	Exaggeration,Minimisation
+DT_tweets_458_5.txt	108	143	without them we dont have a country	Black-and-White_Fallacy
+DT_tweets_465_1.txt	50	66	it is a movement	Flag-Waving
+DT_tweets_465_1.txt	69	94	MakeAmericaGreatAgainSIGN	Slogans
+DT_tweets_46_13.txt	0	30	The dying @NRO National Review	Name_Calling,Labeling
+DT_tweets_46_13.txt	118	137	I will beat Hillary	Thought-terminating_Cliches
+DT_tweets_470_9.txt	76	94	typical politician	Name_Calling,Labeling
+DT_tweets_470_9.txt	97	115	all talk no action	Doubt
+DT_tweets_47_3.txt	0	88	The only reason irrelevant @GlennBeck doesnt like me is I refused to do his failing show	Causal_Oversimplification
+DT_tweets_47_3.txt	130	133	sad	Loaded_Language
+DT_tweets_492_11.txt	0	72	Basically nothing Hillary has said about her secret server has been true	Exaggeration,Minimisation
+DT_tweets_492_15.txt	0	7	We must	Flag-Waving
+DT_tweets_492_29.txt	39	60	to a disastrous level	Loaded_Language
+DT_tweets_492_29.txt	110	120	BIG LEAGUE	Loaded_Language
+DT_tweets_492_39.txt	0	51	In my administration EVERY American will be treated	Flag-Waving
+DT_tweets_500_1.txt	13	26	our U.S. Navy	Flag-Waving
+DT_tweets_500_1.txt	42	53	our country	Flag-Waving
+DT_tweets_500_1.txt	84	113	Together WE WILL MAKE AMERICA	Slogans
+DT_tweets_50_9.txt	1	22	MakeAmericaGreatAgain	Slogans
+DT_tweets_524_4.txt	0	23	Obamacare is a disaster	Exaggeration,Minimisation
+DT_tweets_524_4.txt	25	49	We must REPEAL & REPLACE	Black-and-White_Fallacy
+DT_tweets_524_4.txt	51	95	Tired of the lies and want to #DrainTheSwamp	Loaded_Language
+DT_tweets_526_2.txt	68	94	RADICAL ISLAMIC TERRORISTS	Name_Calling,Labeling
+DT_tweets_526_6.txt	48	60	the disaster	Loaded_Language
+DT_tweets_541_5.txt	43	84	Together we will MAKE AMERICA GREAT AGAIN	Slogans
+DT_tweets_65_4.txt	27	47	wonderful experience	Loaded_Language
+DT_tweets_83_11.txt	83	90	hostile	Loaded_Language
+DT_tweets_83_11.txt	106	134	incorrect & ill-informed ads	Loaded_Language
+DT_tweets_83_15.txt	0	67	Millions of $s of false ads paid for by lobbyists-special interests	Exaggeration,Minimisation
+DT_tweets_83_15.txt	71	110	cheater @SenTedCruz and sleepy @JebBush	Name_Calling,Labeling
+DT_tweets_89_8.txt	55	60	Dopey	Name_Calling,Labeling
+DT_tweets_89_8.txt	87	92	nasty	Loaded_Language
+DT_tweets_89_8.txt	94	129	He has zero cred- totally dishonest	Doubt
+DT_tweets_98_4.txt	0	24	Thank you South Carolina	Slogans
+DT_tweets_98_4.txt	62	92	We will #MakeAmericaGreatAgain	Slogans
+HC_endorse_157.txt	171	175	time	Repetition
+HC_endorse_157.txt	490	494	time	Repetition
+HC_endorse_396.txt	156	234	"a leader with ""… wisdom sound judgement spiritual strength and moral courage."""	Repetition
+HC_endorse_396.txt	613	691	"a leader with ""… wisdom sound judgement spiritual strength and moral courage."""	Repetition
+HC_endorse_396.txt	1070	1148	"a leader with ""… wisdom sound judgement spiritual strength and moral courage."""	Repetition
+HC_endorse_396.txt	1527	1605	"a leader with ""… wisdom sound judgement spiritual strength and moral courage."""	Repetition
+HC_endorse_396.txt	1974	2052	"a leader with ""… wisdom sound judgement spiritual strength and moral courage."""	Repetition
+HC_endorse_396.txt	2366	2444	"a leader with ""… wisdom sound judgement spiritual strength and moral courage."""	Repetition
+HC_endorse_396.txt	3473	3486	our best hope	Whataboutism,Straw_Men,Red_Herring
+HC_endorse_396.txt	3540	3587	right wing anti-civil rights anti-voting rights	Whataboutism,Straw_Men,Red_Herring
+HC_endorse_396.txt	3948	4013	right wing anti-civil rights anti-voting rights anti-human rights	Whataboutism,Straw_Men,Red_Herring
+HC_endorse_396.txt	4362	4434	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	4789	4861	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	5217	5289	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	5650	5722	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	6079	6151	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	6476	6548	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	6822	6894	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	7184	7256	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	7548	7620	right wing anti-civil rights anti-voting rights anti-human rights judges	Repetition
+HC_endorse_396.txt	8724	8732	our next	Repetition
+HC_endorse_396.txt	9101	9109	our next	Repetition
+HC_endorse_396.txt	10544	10552	our next	Repetition
+HC_endorse_396.txt	10857	10871	the epitome of	Appeal_to_Authority
+HC_endorse_396.txt	11154	11179	the epitome of excellence	Repetition
+HC_endorse_396.txt	11247	11297	political arsonists obstructionists and destroyers	Appeal_to_Authority
+HC_endorse_396.txt	11527	11552	the epitome of excellence	Repetition
+HC_endorse_396.txt	11620	11721	political arsonists obstructionists and destroyers of the civil rights human rights and voting rights	Repetition
+HC_endorse_396.txt	11923	11948	the epitome of excellence	Repetition
+HC_endorse_396.txt	12016	12117	political arsonists obstructionists and destroyers of the civil rights human rights and voting rights	Repetition
+HC_endorse_396.txt	12122	12147	the right wing extremists	Repetition
+HC_endorse_396.txt	12320	12345	the epitome of excellence	Repetition
+HC_endorse_396.txt	12413	12514	political arsonists obstructionists and destroyers of the civil rights human rights and voting rights	Repetition
+HC_endorse_396.txt	12523	12544	right wing extremists	Repetition
+HC_endorse_396.txt	12708	12733	the epitome of excellence	Repetition
+HC_endorse_396.txt	12801	12902	political arsonists obstructionists and destroyers of the civil rights human rights and voting rights	Repetition
+HC_endorse_396.txt	12911	12932	right wing extremists	Repetition
+HC_endorse_396.txt	13083	13108	the epitome of excellence	Repetition
+HC_endorse_396.txt	13176	13277	political arsonists obstructionists and destroyers of the civil rights human rights and voting rights	Repetition
+HC_endorse_396.txt	13286	13307	right wing extremists	Repetition
+HC_endorse_396.txt	13558	13659	political arsonists obstructionists and destroyers of the civil rights human rights and voting rights	Repetition
+HC_endorse_396.txt	13668	13689	right wing extremists	Repetition
+HC_endorse_396.txt	13993	14084	arsonists obstructionists and destroyers of the civil rights human rights and voting rights	Appeal_to_Authority
+HC_endorse_396.txt	14093	14114	right wing extremists	Repetition
+HC_endorse_396.txt	14362	14459	extraordinary national and global leadership Leadership anchored in reason wisdom sound judgement	Appeal_to_Authority
+HC_endorse_396.txt	14509	14530	right wing extremists	Repetition
+HC_endorse_396.txt	14778	14791	extraordinary	Appeal_to_Authority
+HC_endorse_396.txt	14834	14845	anchored in	Repetition
+HC_endorse_396.txt	15230	15238	anchored	Repetition
+HC_endorse_396.txt	15544	15553	crippling	Appeal_to_Authority
+HC_endorse_396.txt	15586	15599	extraordinary	Appeal_to_Authority
+HC_endorse_396.txt	15642	15650	anchored	Repetition
+HC_endorse_396.txt	15970	16025	extraordinary national and global leadership Leadership	Appeal_to_Authority
+HC_endorse_396.txt	17173	17178	bully	Repetition
+HC_endorse_396.txt	17450	17455	bully	Repetition
+HC_endorse_396.txt	17489	17508	courage of kindness	Loaded_Language
+HC_endorse_396.txt	17745	17750	bully	Repetition
+HC_endorse_396.txt	17784	17803	courage of kindness	Appeal_to_fear-prejudice
+HC_endorse_396.txt	18048	18069	bully her way through	Appeal_to_fear-prejudice
+HC_endorse_396.txt	18822	18913	Mrs Clinton deserves and needs our support and votes If her opponent should win we all lose	Appeal_to_fear-prejudice
+HC_endorse_396.txt	18981	18988	healthy	Repetition
+HC_endorse_396.txt	19270	19308	If her opponent should win we all lose	Repetition
+HC_endorse_396.txt	19336	19371	We can all win with Hillary Clinton	Repetition
+HC_endorse_396.txt	19423	19430	healthy	Repetition
+HC_endorse_396.txt	19712	19750	If her opponent should win we all lose	Repetition
+HC_endorse_396.txt	19778	19813	We can all win with Hillary Clinton	Repetition
+HC_endorse_396.txt	19865	19872	healthy	Repetition
+HC_endorse_396.txt	20154	20192	If her opponent should win we all lose	Repetition
+HC_endorse_396.txt	20220	20255	We can all win with Hillary Clinton	Repetition
+HC_endorse_396.txt	20307	20314	healthy	Repetition
+HC_endorse_396.txt	20596	20634	If her opponent should win we all lose	Repetition
+HC_endorse_396.txt	20662	20697	We can all win with Hillary Clinton	Repetition
+HC_endorse_396.txt	20749	20756	healthy	Repetition
+HC_endorse_396.txt	21038	21076	If her opponent should win we all lose	Repetition
+HC_interview_103.txt	142	159	razor-thin margin	Repetition
+HC_interview_103.txt	585	602	razor-thin margin	Repetition
+HC_interview_103.txt	1028	1045	razor-thin margin	Repetition
+HC_interview_103.txt	1471	1488	razor-thin margin	Repetition
+HC_interview_103.txt	1889	1906	razor-thin margin	Repetition
+HC_interview_103.txt	2255	2272	razor-thin margin	Repetition
+HC_interview_103.txt	3061	3072	so thrilled	Loaded_Language
+HC_interview_103.txt	4016	4027	so thrilled	Loaded_Language
+HC_interview_103.txt	5304	5333	it could not have been better	Repetition
+HC_interview_103.txt	5550	5579	it could not have been better	Repetition
+HC_interview_103.txt	5642	5660	big sigh of relief	Repetition
+HC_interview_103.txt	5833	5862	it could not have been better	Repetition
+HC_interview_103.txt	5925	5943	big sigh of relief	Repetition
+HC_interview_103.txt	6182	6200	big sigh of relief	Repetition
+HC_interview_103.txt	6216	6234	big sigh of relief	Repetition
+HC_interview_103.txt	7208	7223	other Americans	Repetition
+HC_interview_103.txt	7448	7457	Americans	Repetition
+HC_interview_103.txt	7727	7736	Americans	Repetition
+HC_interview_103.txt	19593	19718	"a progressive that gets things done Are you suggesting Bernie Sanders — he may be a progressive but he cant get things done?"""	Repetition
+HC_interview_103.txt	19815	19845	You described yourself in your	Doubt
+HC_interview_103.txt	19867	19992	"a progressive that gets things done Are you suggesting Bernie Sanders — he may be a progressive but he cant get things done?"""	Repetition
+HC_interview_103.txt	20192	20320	"as a progressive that gets things done Are you suggesting Bernie Sanders — he may be a progressive but he cant get things done?"""	Repetition
+HC_interview_103.txt	20620	20673	"he may be a progressive but he cant get things done?"""	Doubt
+HC_interview_103.txt	25667	25677	lot better	Repetition
+HC_interview_103.txt	25746	25812	Why do you think is he doing so well with younger voters out there	Doubt
+HC_interview_103.txt	27011	27027	ballooning costs	Flag-Waving
+HC_interview_103.txt	27247	27263	ballooning costs	Flag-Waving
+HC_interview_103.txt	27794	27841	the clean energy superpower of the 21st century	Flag-Waving
+HC_interview_103.txt	28092	28139	the clean energy superpower of the 21st century	Flag-Waving
+HC_interview_103.txt	28357	28387	superpower of the 21st century	Flag-Waving
+HC_interview_103.txt	29926	29936	impressive	Loaded_Language
+HC_interview_103.txt	31847	31875	you know Wall Street buddies	Repetition
+HC_interview_103.txt	32015	32021	battle	Appeal_to_fear-prejudice
+HC_interview_103.txt	32175	32203	you know Wall Street buddies	Repetition
+HC_interview_103.txt	32250	32260	Democratic	Causal_Oversimplification
+HC_interview_103.txt	32334	32347	battle tested	Appeal_to_fear-prejudice
+HC_interview_103.txt	32494	32522	you know Wall Street buddies	Repetition
+HC_interview_103.txt	32569	32587	Democratic nominee	Causal_Oversimplification
+HC_interview_103.txt	32607	32628	perversely flattering	Repetition
+HC_interview_103.txt	32817	32845	you know Wall Street buddies	Repetition
+HC_interview_103.txt	32930	32951	perversely flattering	Repetition
+HC_interview_103.txt	33183	33204	perversely flattering	Repetition
+HC_interview_103.txt	33312	33329	wreck our economy	Causal_Oversimplification
+HC_press_release_109.txt	370	379	am scared	Repetition
+HC_press_release_109.txt	390	410	Republican president	Repetition
+HC_press_release_109.txt	2454	2462	thrilled	Loaded_Language
+HC_press_release_109.txt	2764	2772	thrilled	Loaded_Language
+HC_press_release_109.txt	5596	5610	American dream	Appeal_to_fear-prejudice
+HC_press_release_109.txt	6768	6866	you are the only person running who I trust to keep our family from danger You are the only person	Black-and-White_Fallacy
+HC_press_release_109.txt	7043	7149	you are the only person running who I trust to keep our family from danger You are the only person running	Black-and-White_Fallacy
+HC_press_release_109.txt	7271	7320	beliefs and lies at the very core of our identity	Appeal_to_fear-prejudice
+HC_press_release_109.txt	7343	7417	you are the only person running who I trust to keep our family from danger	Causal_Oversimplification
+HC_press_release_109.txt	8178	8260	a Republican president who is outspoken about his belief that gay couples shouldnt	Causal_Oversimplification
+HC_press_release_109.txt	8390	8404	I am scared of	Repetition
+HC_press_release_109.txt	8410	8432	a Republican president	Repetition
+HC_press_release_109.txt	8590	8604	I am scared of	Repetition
+HC_press_release_109.txt	8610	8632	a Republican president	Repetition
+HC_press_release_109.txt	9506	9533	"your biggest littlest fan."""	Name_Calling,Labeling
+HC_press_release_109.txt	9870	9897	"your biggest littlest fan."""	Name_Calling,Labeling
+HC_press_release_119.txt	7	17	incredible	Repetition
+HC_press_release_119.txt	244	314	some of the toughest hardest-working most effective leaders in America	Repetition
+HC_press_release_119.txt	363	402	shes a progressive who gets things done	Repetition
+HC_press_release_119.txt	459	469	incredible	Repetition
+HC_press_release_119.txt	696	766	some of the toughest hardest-working most effective leaders in America	Repetition
+HC_press_release_119.txt	815	854	shes a progressive who gets things done	Repetition
+HC_press_release_119.txt	911	921	incredible	Repetition
+HC_press_release_119.txt	1148	1218	some of the toughest hardest-working most effective leaders in America	Repetition
+HC_press_release_119.txt	1267	1306	shes a progressive who gets things done	Repetition
+HC_press_release_119.txt	1574	1632	toughest hardest-working most effective leaders in America	Repetition
+HC_press_release_119.txt	1686	1720	a progressive who gets things done	Name_Calling,Labeling
+HC_press_release_119.txt	1842	1904	the toughest hardest-working most effective leaders in America	Repetition
+HC_press_release_119.txt	1958	1992	a progressive who gets things done	Name_Calling,Labeling
+HC_press_release_119.txt	2314	2339	shattering glass ceilings	Loaded_Language
+HC_press_release_119.txt	2635	2660	shattering glass ceilings	Loaded_Language
+HC_press_release_119.txt	3026	3036	shattering	Loaded_Language
+HC_press_release_119.txt	7139	7152	keep families	Flag-Waving
+HC_press_release_119.txt	7327	7337	swaggering	Loaded_Language
+HC_press_release_119.txt	7627	7644	swaggering around	Loaded_Language
+HC_press_release_119.txt	7909	7926	swaggering around	Loaded_Language
+HC_press_release_119.txt	8155	8192	heartbreaking and unacceptable crisis	Loaded_Language
+HC_press_release_119.txt	8443	8480	heartbreaking and unacceptable crisis	Loaded_Language
+HC_press_release_119.txt	8741	8760	unacceptable crisis	Loaded_Language
+HC_press_release_119.txt	9084	9105	"Pantsuit expert.xa0 """	Repetition
+HC_press_release_119.txt	9202	9208	fierce	Loaded_Language
+HC_press_release_119.txt	9379	9400	"Pantsuit expert.xa0 """	Repetition
+HC_press_release_119.txt	9495	9558	A fierce and unapologetic champion for womens health and rights	Name_Calling,Labeling
+HC_press_release_119.txt	9743	9764	"Pantsuit expert.xa0 """	Repetition
+HC_press_release_119.txt	9861	9922	fierce and unapologetic champion for womens health and rights	Name_Calling,Labeling
+HC_press_release_119.txt	10160	10192	fierce and unapologetic champion	Name_Calling,Labeling
+HC_press_release_125.txt	83	112	"got our work cut out for us."""	Loaded_Language
+HC_press_release_125.txt	352	366	an awesome job	Repetition
+HC_press_release_125.txt	607	621	an awesome job	Repetition
+HC_press_release_125.txt	858	872	an awesome job	Repetition
+HC_press_release_125.txt	1216	1230	an awesome job	Repetition
+HC_press_release_125.txt	1573	1587	an awesome job	Repetition
+HC_press_release_131.txt	1776	1808	toughest hardest-working leaders	Repetition
+HC_press_release_131.txt	1897	1908	"snowstorm."""	Loaded_Language
+HC_press_release_131.txt	2219	2251	toughest hardest-working leaders	Repetition
+HC_press_release_131.txt	2655	2699	the nations toughest hardest-working leaders	Exaggeration,Minimisation
+HC_press_release_131.txt	3040	3072	toughest hardest-working leaders	Repetition
+HC_press_release_28.txt	183	226	What are you thinking?! Its Hillary Clinton	Repetition
+HC_press_release_28.txt	417	427	"""Boo-yah """	Repetition
+HC_press_release_28.txt	628	671	What are you thinking?! Its Hillary Clinton	Repetition
+HC_press_release_28.txt	862	872	"""Boo-yah """	Repetition
+HC_press_release_28.txt	1073	1116	What are you thinking?! Its Hillary Clinton	Repetition
+HC_press_release_28.txt	1307	1317	"""Boo-yah """	Repetition
+HC_press_release_28.txt	1505	1526	What are you thinking	Repetition
+HC_press_release_28.txt	1533	1548	Hillary Clinton	Repetition
+HC_press_release_28.txt	1950	1971	What are you thinking	Repetition
+HC_press_release_28.txt	1978	1993	Hillary Clinton	Repetition
+HC_press_release_28.txt	2395	2416	What are you thinking	Repetition
+HC_press_release_28.txt	2423	2438	Hillary Clinton	Repetition
+HC_press_release_28.txt	2840	2861	What are you thinking	Repetition
+HC_press_release_28.txt	2868	2883	Hillary Clinton	Repetition
+HC_statement_22.txt	369	429	"""American workers built the greatest middle class in history"	Repetition
+HC_statement_22.txt	864	924	"""American workers built the greatest middle class in history"	Repetition
+HC_statement_22.txt	1287	1347	"""American workers built the greatest middle class in history"	Repetition
+HC_statement_22.txt	1480	1488	American	Flag-Waving
+HC_statement_22.txt	1641	1677	the greatest middle class in history	Repetition
+HC_statement_22.txt	1970	1979	"""American"	Flag-Waving
+HC_statement_22.txt	1994	2030	the greatest middle class in history	Repetition
+HC_statement_22.txt	2387	2419	greatest middle class in history	Repetition
+HC_statement_22.txt	3343	3353	our broken	Flag-Waving
+HC_statement_22.txt	4211	4232	hardworking Americans	Repetition
+HC_statement_22.txt	5000	5021	hardworking Americans	Repetition
+HC_statement_22.txt	5353	5374	hardworking Americans	Repetition
+HC_statement_22.txt	5817	5838	hardworking Americans	Repetition
+HC_statement_245.txt	49	70	hardworking Americans	Flag-Waving
+HC_statement_245.txt	453	474	hardworking Americans	Flag-Waving
+HC_statement_245.txt	550	555	Brave	Flag-Waving
+HC_statement_245.txt	847	859	Brave people	Flag-Waving
+HC_statement_245.txt	3514	3523	Americans	Flag-Waving
+HC_statement_245.txt	3533	3568	changing our country for the better	Repetition
+HC_statement_245.txt	3802	3823	millions of Americans	Repetition
+HC_statement_245.txt	3833	3868	changing our country for the better	Repetition
+HC_statement_245.txt	3919	3939	I willfight for them	Repetition
+HC_statement_245.txt	4198	4219	millions of Americans	Repetition
+HC_statement_245.txt	4229	4264	changing our country for the better	Repetition
+HC_statement_245.txt	4315	4335	I willfight for them	Repetition
+HC_statement_245.txt	4594	4615	millions of Americans	Repetition
+HC_statement_245.txt	4625	4660	changing our country for the better	Repetition
+HC_statement_245.txt	4711	4731	I willfight for them	Repetition
+HC_statement_251.txt	1	324	The full faith and credit of the United States of America has been one of the bulwarks of our economic strength for over 200 years For Donald Trump to casually announce he would consider defaulting on our debt for the first time in our history shows a stunning lack of responsibility and understanding of the global economy	Flag-Waving
+HC_statement_251.txt	419	439	the United States of	Flag-Waving
+HC_statement_251.txt	448	505	has been one of the bulwarks of our economic strength for	Flag-Waving
+HC_statement_251.txt	640	713	a stunning lack of responsibility and understanding of the global economy	Doubt
+HC_statement_251.txt	815	933	debt for the first time in our history shows a stunning lack of responsibility and understanding of the global economy	Doubt
+HC_statement_251.txt	1065	1082	no way to run the	Doubt
+HC_statement_251.txt	1215	1412	"to make default a viable economic option for the United States it would risk a global financial meltdown drive up interest rates for Americans for decades and seriously harm middle-class families."""	Appeal_to_fear-prejudice
+HC_statement_251.txt	1548	1557	an action	Name_Calling,Labeling
+HC_statement_251.txt	1563	1662	"experts say could imperil the entire United States economy and/or cause a global financial crisis:"""	Appeal_to_fear-prejudice
+HC_statement_279.txt	1593	1660	We are stronger when we are investing in our country and our future	Flag-Waving
+HC_statement_279.txt	1943	2035	we are stronger together We are stronger when we are investing in our country and our future	Flag-Waving
+HC_statement_279.txt	2276	2291	We are stronger	Flag-Waving
+HC_statement_279.txt	2317	2328	our country	Flag-Waving
+HC_statement_279.txt	2333	2343	our future	Flag-Waving
+HC_statement_279.txt	3140	3159	all of our children	Flag-Waving
+HC_statement_279.txt	3197	3216	God-given potential	Flag-Waving
+HC_statement_279.txt	4425	4436	fundamental	Flag-Waving
+HC_statement_279.txt	4440	4451	our country	Flag-Waving
+HC_statement_279.txt	4850	4859	concerted	Flag-Waving
+HC_statement_279.txt	5088	5103	mighty American	Flag-Waving
+HC_statement_279.txt	5499	5505	mighty	Flag-Waving
+HC_statement_279.txt	5615	5660	when unions are strong workers are strong and	Flag-Waving
+HC_statement_309.txt	21	63	twisted values reflect what America is not	Repetition
+HC_statement_309.txt	65	92	divisive and hateful Arpaio	Repetition
+HC_statement_309.txt	261	466	"degrades hardworking immigrants calling them drug dealers rapists and murderers Trumps message to America is that you should be afraid – afraid of people who look different who speak a different language """	Flag-Waving
+HC_statement_309.txt	486	528	twisted values reflect what America is not	Repetition
+HC_statement_309.txt	530	557	divisive and hateful Arpaio	Repetition
+HC_statement_309.txt	726	931	"degrades hardworking immigrants calling them drug dealers rapists and murderers Trumps message to America is that you should be afraid – afraid of people who look different who speak a different language """	Flag-Waving
+HC_statement_309.txt	951	993	twisted values reflect what America is not	Repetition
+HC_statement_309.txt	995	1022	divisive and hateful Arpaio	Repetition
+HC_statement_309.txt	1191	1394	degrades hardworking immigrants calling them drug dealers rapists and murderers Trumps message to America is that you should be afraid – afraid of people who look different who speak a different language	Flag-Waving
+HC_statement_309.txt	1400	1420	divisive and hateful	Flag-Waving
+HC_statement_309.txt	1596	1627	degrades hardworking immigrants	Flag-Waving
+HC_statement_309.txt	1641	1730	drug dealers rapists and murderers Trumps message to America is that you should be afraid	Flag-Waving
+HC_statement_309.txt	1733	1742	afraid of	Flag-Waving
+HC_statement_309.txt	1926	1957	degrades hardworking immigrants	Flag-Waving
+HC_statement_309.txt	1971	2069	drug dealers rapists and murderers Trumps message to America is that you should be afraid – afraid	Flag-Waving
+HC_statement_309.txt	2170	2311	"""Immigrant families and all American families deserve a president who will fight to keep families together work to ensure everyone is treated"	Flag-Waving
+HC_statement_309.txt	2325	2483	drug dealers rapists and murderers Trumps message to America is that you should be afraid – afraid of people who look different who speak a different language	Flag-Waving
+HC_statement_309.txt	2524	2758	"""Immigrant families and all American families deserve a president who will fight to keep families together work to ensure everyone is treated with respect and who will build our country up Only one candidate gets that: Hillary Clinton"	Flag-Waving
+HC_statement_309.txt	2774	2932	drug dealers rapists and murderers Trumps message to America is that you should be afraid – afraid of people who look different who speak a different language	Repetition
+HC_statement_319.txt	494	570	the most systematic effort to curtail those rights since the era of Jim Crow	Flag-Waving
+HC_statement_319.txt	683	704	thinly veiled attempt	Flag-Waving
+HC_statement_319.txt	1032	1053	thinly veiled attempt	Flag-Waving
+HC_statement_319.txt	1455	1461	thinly	Flag-Waving
+HC_statement_319.txt	2307	2383	the notion that every American has a voice in shaping our future is at stake	Flag-Waving
+HC_statement_319.txt	2684	2732	every American has a voice in shaping our future	Flag-Waving
+HC_statement_319.txt	2804	2942	and actually claims that without them in place the results of American elections should be questioned Its a dangerous attempt to undermine	Appeal_to_fear-prejudice
+HC_statement_319.txt	3030	3044	every American	Flag-Waving
+HC_statement_319.txt	3150	3322	"and actually claims that without them in place the results of American elections should be questioned Its a dangerous attempt to undermine the legitimacy of our democracy """	Repetition
+HC_statement_319.txt	3351	3432	I believe America is stronger when we expand access a voice in shaping our future	Flag-Waving
+HC_statement_319.txt	3504	3677	"and actually claims that without them in place the results of American elections should be questioned Its a dangerous attempt to undermine the legitimacy of our democracy ""I"	Repetition
+HC_statement_319.txt	3715	3790	America is stronger when we expand access to the ballot box not restrict it	Flag-Waving
+HC_statement_319.txt	3902	4074	"and actually claims that without them in place the results of American elections should be questioned Its a dangerous attempt to undermine the legitimacy of our democracy """	Repetition
+HC_statement_319.txt	4113	4140	America is stronger when we	Repetition
+HC_statement_319.txt	4301	4448	"without them in place the results of American elections should be questioned Its a dangerous attempt to undermine the legitimacy of our democracy """	Appeal_to_fear-prejudice
+HC_statement_319.txt	4487	4506	America is stronger	Repetition
+HC_statement_319.txt	4775	4790	"our democracy """	Flag-Waving
+HC_statement_319.txt	4829	4848	America is stronger	Repetition
+HC_statement_319.txt	5102	5178	"the right to vote is one which no American true to our principles can deny """	Flag-Waving
+HC_statement_319.txt	5249	5268	America is stronger	Repetition
+HC_statement_319.txt	5553	5598	"no American true to our principles can deny """	Flag-Waving
+HC_statement_319.txt	5681	5700	America is stronger	Repetition
+HC_statement_319.txt	5985	6030	"no American true to our principles can deny """	Flag-Waving
+HC_statement_321.txt	40	49	dangerous	Repetition
+HC_statement_321.txt	193	202	dangerous	Repetition
+HC_statement_325.txt	107	116	troubling	Doubt
+HC_statement_325.txt	485	494	troubling	Doubt
+HC_statement_335.txt	99	120	pioneering journalist	Repetition
+HC_statement_335.txt	123	152	tireless crusader for justice	Repetition
+HC_statement_335.txt	159	179	true agent of change	Repetition
+HC_statement_335.txt	550	571	pioneering journalist	Repetition
+HC_statement_335.txt	574	603	tireless crusader for justice	Repetition
+HC_statement_335.txt	610	630	true agent of change	Repetition
+HC_statement_335.txt	1001	1022	pioneering journalist	Repetition
+HC_statement_335.txt	1025	1054	tireless crusader for justice	Repetition
+HC_statement_335.txt	1061	1081	true agent of change	Repetition
+HC_statement_335.txt	1452	1473	pioneering journalist	Repetition
+HC_statement_335.txt	1476	1505	tireless crusader for justice	Repetition
+HC_statement_335.txt	1512	1532	true agent of change	Repetition
+HC_statement_335.txt	1903	1924	pioneering journalist	Repetition
+HC_statement_335.txt	1927	1956	tireless crusader for justice	Repetition
+HC_statement_335.txt	1963	1983	true agent of change	Repetition
+HC_statement_335.txt	2354	2375	pioneering journalist	Repetition
+HC_statement_335.txt	2378	2407	tireless crusader for justice	Repetition
+HC_statement_335.txt	2414	2434	true agent of change	Repetition
