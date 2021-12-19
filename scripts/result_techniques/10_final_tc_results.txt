@@ -1,0 +1,294 @@
+article_id	span_start	span_end	span	context	label
+HC2000_2500.txt	29	61	most notorious, brutal dictators	Exaggeration,Minimisation
+HC2000_2500.txt	74	82	red flag	Loaded_Language
+HC2000_2500.txt	278	344	"""They picked a nominee whose only plan is to build a higher wall."""	Doubt
+HC2000_2500.txt	375	393	dangerous policies	Loaded_Language
+HC2000_2500.txt	856	880	whole-heartedly endorses	Loaded_Language
+HC2000_2500.txt	1008	1024	Prisoners of war	Name_Calling,Labeling
+HC2000_2500.txt	1274	1292	"""very good brain."""	Name_Calling,Labeling
+HC2000_2500.txt	1658	1674	brutal dictators	Name_Calling,Labeling
+HC2000_2500.txt	2083	2098	she won’t waver	Loaded_Language
+HC2000_2500.txt	2104	2123	she won’t back down	Loaded_Language
+HC2000_2500.txt	2617	2648	"That's how you judge somebody."""	Thought-terminating_Cliches
+HC2000_2500.txt	2692	2729	“We owe our children better than this	Flag-Waving
+HC2000_2500.txt	2731	2766	We owe ourselves better than this.”	Flag-Waving
+HC2000_2500.txt	2979	2991	record-tying	Loaded_Language
+HC2000_2500.txt	3324	3339	White Americans	Repetition
+HC2000_2500.txt	3787	3830	"None of us can afford to be indifferent."" """	Appeal_to_fear-prejudice
+HC2000_2500.txt	3958	3973	White Americans	Repetition
+HC2000_2500.txt	4637	4682	“Gun violence is ripping apart people’s lives	Loaded_Language
+HC2000_2500.txt	4795	4802	painful	Loaded_Language
+HC2000_2500.txt	4909	4914	black	Loaded_Language
+HC2000_2500.txt	4996	5016	We have to do better	Thought-terminating_Cliches
+HC2000_2500.txt	5018	5158	"There is something wrong with our country. There is too much violence...too much senseless killing, too many people dead who shouldn’t be. """	Flag-Waving
+HC2000_2500.txt	5468	5487	peaceful protesters	Name_Calling,Labeling
+HC2000_2500.txt	5542	5599	We have a responsibility to fight for the next generation	Flag-Waving
+HC2000_2500.txt	5601	5610	All of us	Slogans
+HC2000_2500.txt	5713	5730	abusive companies	Name_Calling,Labeling
+HC2000_2500.txt	5913	5966	“There has to be some form of punishment [for seeking	Black-and-White_Fallacy
+HC2000_2500.txt	6083	6101	Black Lives Matter	Slogans
+HC2000_2500.txt	6127	6238	Trump got ahead by cheating working people like Andrew Tesoro. Now he wants to do the same thing to our country	Flag-Waving
+HC2000_2500.txt	6295	6302	tragedy	Loaded_Language
+HC2000_2500.txt	6332	6350	Black Lives Matter	Slogans
+HC2000_2500.txt	6936	6992	could destroy Donald Trump’s campaign if everyone saw it	Exaggeration,Minimisation
+HC2000_2500.txt	7156	7266	Let's make sure @realDonaldTrump never has the chance to bankrupt America the way he bankrupted his businesses	Flag-Waving
+HC2000_2500.txt	7584	7596	heart breaks	Loaded_Language
+HC2000_2500.txt	7959	7969	destroying	Loaded_Language
+HC2000_2500.txt	7994	8046	“No major company has filed Chapter 11 more often in	Exaggeration,Minimisation
+HC2000_2500.txt	8059	8087	years than Trump’s casinos.”	Exaggeration,Minimisation
+HC2000_2500.txt	8255	8298	No matter who gets destroyed in the process	Exaggeration,Minimisation
+HC2000_2500.txt	8325	8409	"""What he did here in Atlantic City is exactly what he’ll do if he wins in November."""	Bandwagon,Reductio_ad_hitlerum
+HC2000_2500.txt	8485	8503	very good cash cow	Name_Calling,Labeling
+HC2000_2500.txt	8563	8575	incredible.”	Loaded_Language
+HC2000_2500.txt	8609	8683	s] businesses were failing long before the rest of the town was struggling	Doubt
+HC2000_2500.txt	8686	8725	"his bad decisions hurt the whole city."""	Exaggeration,Minimisation
+HC2000_2500.txt	8751	8783	some kind of amazing businessman	Name_Calling,Labeling
+HC2000_2500.txt	8895	8922	the 8th Wonder of the World	Name_Calling,Labeling
+HC2000_2500.txt	9135	9157	"""the biggest hit yet."""	Exaggeration,Minimisation
+HC2000_2500.txt	9246	9331	nothing to brag about—it’s shameful—and every voter in America needs to know about it	Flag-Waving
+HC2000_2500.txt	9333	9398	We can't let Trump bankrupt America like we're one of his casinos	Flag-Waving
+HC2000_2500.txt	9981	9997	brutal dictators	Name_Calling,Labeling
+HC2000_2500.txt	10018	10033	knows no bounds	Exaggeration,Minimisation
+HC2000_2500.txt	10215	10269	"""I'm here today because I believe in Hillary Clinton."""	Slogans
+HC2000_2500.txt	10337	10345	Fired up	Loaded_Language
+HC2000_2500.txt	10347	10358	Ready to go	Thought-terminating_Cliches
+HC2000_2500.txt	10521	10534	Thanks, Obama	Whataboutism,Straw_Men,Red_Herring
+HC2000_2500.txt	10670	10686	"""Don’t boo, vote"	Slogans
+HC2000_2500.txt	10688	10727	Booing doesn’t help. You need to vote.”	Slogans
+HC2000_2500.txt	10754	10774	"dangerous policies """	Loaded_Language
+HC2000_2500.txt	10786	10835	a stateswoman who makes us proud around the world	Name_Calling,Labeling
+HC2000_2500.txt	10841	10850	She knows	Appeal_to_Authority
+HC2000_2500.txt	11030	11120	"""There has never been any man or woman more qualified for this office than Hillary Clinton"	Exaggeration,Minimisation
+HC2000_2500.txt	11122	11140	"That's the truth."""	Thought-terminating_Cliches
+HC2000_2500.txt	11752	11784	we’re fired up and ready to go!”	Loaded_Language
+HC2000_2500.txt	11831	11883	we don’t tear each other down, we lift each other up	Slogans
+HC2000_2500.txt	11925	11972	"""The world hangs on every word a president says"	Exaggeration,Minimisation
+HC2000_2500.txt	11978	12048	"Donald Trump is...temperamentally unfit to be our Commander-in-Chief."""	Flag-Waving
+HC2000_2500.txt	12058	12187	"""He’s a statesman—leading not just our country but the entire world. This is a president who knows how to keep us safe and strong"	Flag-Waving
+HC2000_2500.txt	12961	13062	"""President Obama’s job was to save us from a second Great Depression—and that’s exactly what he did.”"	Whataboutism,Straw_Men,Red_Herring
+HC2000_2500.txt	13133	13180	He knows a thing or two about winning elections	Appeal_to_Authority
+HC2000_2500.txt	13998	14017	the best of America	Name_Calling,Labeling
+HC2000_2500.txt	14094	14116	"""To be great, we can't"	Appeal_to_fear-prejudice
+HC2000_2500.txt	14127	14183	"We have to be as big as the values that define America."""	Flag-Waving
+HC2000_2500.txt	14274	14336	Middle-class Americans thought Trump Institute would help them	Causal_Oversimplification
+HC2000_2500.txt	14338	14379	In reality, it was yet another giant scam	Doubt
+HC2000_2500.txt	14405	14480	"""You have made me a better person and helped me believe I can do anything."""	Thought-terminating_Cliches
+HC2000_2500.txt	14698	14706	horrific	Loaded_Language
+HC2000_2500.txt	14718	14733	ISIS's savagery	Loaded_Language
+HC2000_2500.txt	14735	14754	We will defeat them	Slogans
+HC2000_2500.txt	14802	14884	Every American should have the opportunity to live up to their God-given potential	Flag-Waving
+HC2000_2500.txt	15124	15231	Just like he shouldn’t have his finger on the nuclear button, Trump shouldn’t have his hands on our economy	Doubt
+HC2000_2500.txt	15393	15450	Let's make America a world leader in manufacturing, again	Flag-Waving
+HC2000_2500.txt	15678	15699	We will never succumb	Loaded_Language
+HC2000_2500.txt	16204	16256	cheating innocent Americans out of hard-earned money	Flag-Waving
+HC2000_2500.txt	16282	16292	Trump says	Repetition
+HC2000_2500.txt	16321	16347	"""Made in the USA"" products"	Flag-Waving
+HC2000_2500.txt	16349	16375	but where does he make his	Doubt
+HC2000_2500.txt	16681	16742	Show Hillary she can count on you to stand up to Donald Trump	Slogans
+HC2000_2500.txt	17533	17544	StoptheHate	Slogans
+HC2000_2500.txt	17588	17612	heinous terrorist murder	Loaded_Language
+HC2000_2500.txt	17642	17682	No child should be in danger in her home	Appeal_to_fear-prejudice
+HC2000_2500.txt	18274	18312	We're not going back, @realDonaldTrump	Slogans
+HC2000_2500.txt	18338	18388	"“Donald Trump has a…chance of becoming president."""	Appeal_to_Authority
+HC2000_2500.txt	18944	18948	Cool	Loaded_Language
+HC2000_2500.txt	19412	19421	Well done	Thought-terminating_Cliches
+HC2000_2500.txt	20007	20105	Instead of driving up debt and risking another recession, let's make the economy work for everyone	Appeal_to_fear-prejudice
+HC2000_2500.txt	20385	20485	"""All Americans stand united with the people of Turkey against this campaign of hatred and violence."""	Flag-Waving
+HC2000_2500.txt	20651	20660	legendary	Loaded_Language
+HC2000_2500.txt	20677	20691	second to none	Exaggeration,Minimisation
+HC2000_2500.txt	21016	21027	Senate Dems	Name_Calling,Labeling
+HC2000_2500.txt	21093	21118	harmful partisan policies	Name_Calling,Labeling
+HC2000_2500.txt	21286	21297	progressive	Name_Calling,Labeling
+HC2000_2500.txt	21383	21431	It's almost as if Trump only cares about himself	Doubt
+HC2000_2500.txt	21509	21516	our gun	Flag-Waving
+HC2000_2500.txt	21907	21939	she's the climate leader we need	Appeal_to_Authority
+HC2000_2500.txt	21965	22066	Donald Trump proves every day that he’s not in it for the American people—he’s in it only for himself	Flag-Waving
+HC2000_2500.txt	22170	22198	we can't take it for granted	Appeal_to_fear-prejudice
+HC2000_2500.txt	22896	22960	"No one will fight harder for you and your families than I will."""	Exaggeration,Minimisation
+HC2000_2500.txt	23113	23204	"Donald Trump proves that he’s not in this for the American people. He’s in it for himself."""	Flag-Waving
+HC2000_2500.txt	23320	23339	"a fighting chance."""	Loaded_Language
+HC2000_2500.txt	23459	23551	"""Hillary believes that racism, hatred, injustice, and bigotry have no place in our country."""	Slogans
+HC2000_2500.txt	23821	23960	Trump rails against other countries and talks about making America great, but his own products are made in places that aren’t named America	Whataboutism,Straw_Men,Red_Herring
+HC2000_2500.txt	24001	24056	America the clean energy superpower of the 21st century	Flag-Waving
+HC2000_2500.txt	24222	24341	Let’s make sure that Wall Street and the wealthy pay their fair share of taxes.  Let’s put our families first. We can’t	Flag-Waving
+HC2000_2500.txt	24381	24440	We’ve got to give hard-working students and families relief	Appeal_to_fear-prejudice
+HC2000_2500.txt	24610	24640	exposes [Trump] for what he is	Exaggeration,Minimisation
+HC2000_2500.txt	24642	24705	"temperamentally unfit and totally unqualified to be president."""	Name_Calling,Labeling
+HC2000_2500.txt	24767	24821	a thin-skinned bully who is driven by greed and hate.”	Name_Calling,Labeling
+HC2000_2500.txt	24850	24968	"""When Donald Trump says he’ll make America great, he means make it even greater for rich guys just like Donald Trump.”"	Black-and-White_Fallacy
+HC2000_2500.txt	25416	25447	Safe abortion should be a right	Slogans
+HC2000_2500.txt	25615	25682	In a volatile world, the last thing we need is a volatile president	Bandwagon,Reductio_ad_hitlerum
+HC2000_2500.txt	25909	26015	We can’t stop fighting until all LGBT Americans can live their lives free of prejudice, violence, and hate	Appeal_to_fear-prejudice
+HC2000_2500.txt	26230	26279	goes against everything we stand for as a country	Flag-Waving
+HC2000_2500.txt	26395	26407	snarky tweet	Loaded_Language
+HC2000_2500.txt	26557	26581	Americans deserve better	Flag-Waving
+HC2000_2500.txt	26724	26835	"""There are more mass shootings in the United States than any other country in the world...We cannot accept this"	Exaggeration,Minimisation
+HC2000_2500.txt	26837	26855	"Not now—not ever."""	Loaded_Language
+HC2000_2500.txt	26865	26973	"""We need leaders...who put the interests of the American people ahead of their personal business interests."""	Flag-Waving
+HC2000_2500.txt	27129	27146	champion for LGBT	Name_Calling,Labeling
+HC2000_2500.txt	27300	27304	love	Loaded_Language
+HC2000_2500.txt	27318	27329	our highest	Flag-Waving
+HC2000_2500.txt	27386	27422	Let's keep marching until they don't	Black-and-White_Fallacy
+HC2000_2500.txt	27560	27579	Every LGBT American	Flag-Waving
+HC2000_2500.txt	27787	27806	tear families apart	Loaded_Language
+HC2000_2500.txt	27942	27946	Dems	Name_Calling,Labeling
+HC2000_2500.txt	29091	29161	LGBT seniors have seen so much progress, but still face discrimination	Whataboutism,Straw_Men,Red_Herring
+HC2000_2500.txt	29163	29181	This has to change	Black-and-White_Fallacy
+HC2000_2500.txt	29223	29285	LGBT Americans can get married on Saturday and fired on Monday	Black-and-White_Fallacy
+HC2000_2500.txt	29287	29308	That's not who we are	Flag-Waving
+HC2000_2500.txt	29669	29677	bullying	Loaded_Language
+HC2000_2500.txt	29682	29690	violence	Loaded_Language
+HC2000_2500.txt	29716	29736	Good for you, Jensen	Thought-terminating_Cliches
+HC2000_2500.txt	29794	29827	Keep up the hard work—and courage	Loaded_Language
+HC2000_2500.txt	30475	30526	a person who tried to profit off the housing crisis	Name_Calling,Labeling
+HC2000_2500.txt	31106	31114	bankrupt	Loaded_Language
+HC2000_2500.txt	31281	31296	Bravo, New York	Slogans
+HC2000_2500.txt	31916	31923	separar	Appeal_to_fear-prejudice
+HC2000_2500.txt	32004	32017	heartbreaking	Loaded_Language
+HC2000_2500.txt	32051	32055	tear	Loaded_Language
+HC2000_2500.txt	32101	32118	We must do better	Thought-terminating_Cliches
+HC2000_2500.txt	32205	32226	reckless gun violence	Repetition
+HC2000_2500.txt	32428	32439	gunviolence	Slogans
+HC2000_2500.txt	32956	32987	They are who we're fighting for	Flag-Waving
+HC2000_2500.txt	32989	32999	NotOneMore	Slogans
+HC2000_2500.txt	33466	33477	goodtrouble	Loaded_Language
+HC2000_2500.txt	33791	33806	It’s ridiculous	Loaded_Language
+HC2000_2500.txt	34126	34156	We have to act on gun violence	Appeal_to_fear-prejudice
+HC2000_2500.txt	34443	34518	No company in America should be able to pay women less for the work they do	Flag-Waving
+HC2000_2500.txt	34769	34780	our country	Flag-Waving
+HC2000_2500.txt	34881	34899	the American Dream	Flag-Waving
+HC2000_2500.txt	35031	35043	our national	Flag-Waving
+HC2000_2500.txt	35924	35986	the biggest investment in American infrastructure in decades.”	Exaggeration,Minimisation
+HC2000_2500.txt	36020	36034	Every American	Flag-Waving
+HC2000_2500.txt	36842	36898	"""Trump's economic plans would destroy the U.S. economy."""	Flag-Waving
+HC2000_2500.txt	36965	36989	reckless economic policy	Loaded_Language
+HC2000_2500.txt	37103	37151	Someone should tell him our economy isn’t a game	Appeal_to_Authority
+HC2000_2500.txt	37845	37851	no one	Exaggeration,Minimisation
+HC2000_2500.txt	37993	38003	destroying	Loaded_Language
+HC2000_2500.txt	38113	38162	Is this who you want leading us in an emergency?”	Doubt
+HC2000_2500.txt	38200	38283	only someone who’s never actually faced the consequences of his mistakes would brag	Doubt
+HC2000_2500.txt	38537	38645	“The last time we opted for Trump-style isolationism, it made the Great Depression longer and more painful.”	Bandwagon,Reductio_ad_hitlerum
+HC2000_2500.txt	38791	38808	"""President Trump"""	Name_Calling,Labeling
+HC2000_2500.txt	38901	38925	We can't let that happen	Appeal_to_fear-prejudice
+HC2000_2500.txt	38927	39017	“The full faith and credit of the United States is not something we can just gamble away.”	Flag-Waving
+HC2000_2500.txt	39030	39035	Trump	Name_Calling,Labeling
+HC2000_2500.txt	39038	39062	"reckless economic plan """	Loaded_Language
+HC2000_2500.txt	39347	39379	recklessness—that’s his business	Thought-terminating_Cliches
+HC2000_2500.txt	39466	39487	one of the 10 biggest	Exaggeration,Minimisation
+HC2000_2500.txt	39607	39647	Trump would put us into a deep recession	Appeal_to_fear-prejudice
+HC2000_2500.txt	39736	39779	I sweat the specifics because they matter.”	Slogans
+HC2000_2500.txt	39828	39951	"""If you’re running for president, you should say what you want to do, how you’re going to pay for it, and how you’ll get it"	Appeal_to_Authority
+HC2000_2500.txt	40184	40213	"That's ""trillion""—with a ""t."""	Whataboutism,Straw_Men,Red_Herring
+HC2000_2500.txt	40332	40369	the Senate failed the American people	Flag-Waving
+HC2000_2500.txt	40428	40451	Why, himself, of course	Causal_Oversimplification
+HC2000_2500.txt	40617	40725	Trump's gotten rich driving companies into the ground. What will he do to the U.S. economy?  Oh wait—we know	Doubt
+HC2000_2500.txt	40771	40847	Donald Trump’s worldview doesn't reflect our values, and it’s not who we are	Whataboutism,Straw_Men,Red_Herring
+HC2000_2500.txt	40929	40950	our elected officials	Flag-Waving
+HC2000_2500.txt	40977	40987	DisarmHate	Slogans
+HC2000_2500.txt	41050	41071	overwhelming majority	Exaggeration,Minimisation
+HC2000_2500.txt	41168	41178	DisarmHate	Slogans
+HC2000_2500.txt	41743	41755	common sense	Name_Calling,Labeling
+HC2000_2500.txt	41757	41786	It's time for Congress to act	Flag-Waving
+HC2000_2500.txt	42129	42149	"""lengthy recession."""	Loaded_Language
+HC2000_2500.txt	42286	42325	Being LGBT does not make you less human	Slogans
+HC2000_2500.txt	43271	43301	Let's care for our common home	Flag-Waving
+HC2000_2500.txt	43382	43398	who is a fighter	Name_Calling,Labeling
+HC2000_2500.txt	43400	43425	"We got one tough cookie."""	Loaded_Language
+HC2000_2500.txt	43525	43546	what a year it’s been	Thought-terminating_Cliches
+HC2000_2500.txt	43745	43783	she’s a fighter, a fighter with guts.”	Repetition
+HC2000_2500.txt	43855	43890	overwhelmed with gratitude and love	Loaded_Language
+HC2000_2500.txt	44285	44315	We need to fight them together	Flag-Waving
+HC2000_2500.txt	44438	44454	love never fails	Thought-terminating_Cliches
+HC2000_2500.txt	44480	44575	We can't stop fighting until every LGBT American can live life freely, openly, and without fear	Flag-Waving
+HC2000_2500.txt	44702	44737	This has to stop. We need to change	Black-and-White_Fallacy
+HC2000_2500.txt	44802	44833	We all have a stake in equality	Slogans
+HC2000_2500.txt	44944	44952	Yeah, no	Loaded_Language
+HC2000_2500.txt	44978	45037	Trump has made a big show of supposedly supporting veterans	Doubt
+HC2000_2500.txt	45039	45079	In reality, he's done the exact opposite	Whataboutism,Straw_Men,Red_Herring
+HC2000_2500.txt	45524	45542	cruel and terrible	Loaded_Language
+HC2000_2500.txt	45576	45613	"violent act of political intolerance"""	Loaded_Language
+HC2000_2500.txt	45708	45728	if we stand together	Slogans
+HC2000_2500.txt	45730	45754	hate can never defeat us	Slogans
+HC2000_2500.txt	45836	45882	someone who's shattered so many glass ceilings	Name_Calling,Labeling
+HC2000_2500.txt	46211	46219	champion	Name_Calling,Labeling
+HC2000_2500.txt	46447	46472	And what a year it's been	Thought-terminating_Cliches
+HC2000_2500.txt	46498	46597	It's absurd that people with suspected terrorist links can buy a gun in America, no questions asked	Flag-Waving
+HC2000_2500.txt	46770	46804	Proud to be in this fight with you	Loaded_Language
+HC2000_2500.txt	46882	46901	They deserve action	Slogans
+HC2000_2500.txt	47102	47165	"An ""assault on our values"" A ""new low"" ""Plays into ISIS's hands"	Loaded_Language
+HC2000_2500.txt	47595	47607	Stand strong	Slogans
+HC2000_2500.txt	47648	47745	Your @GOP presidential nominee responding to a terrorist attack with lies and conspiracy theories	Doubt
+HC2000_2500.txt	47900	48012	Donald Trump is an expert at distracting people from the fact that he has nothing substantive to say for himself	Doubt
+HC2000_2500.txt	48038	48090	"America has always been a country of ""we,"" not ""me."""	Slogans
+HC2000_2500.txt	48354	48398	conspiracy theories and self-congratulations	Loaded_Language
+HC2000_2500.txt	48461	48479	My heart is broken	Loaded_Language
+HC2000_2500.txt	48598	48619	a conspiracy theorist	Name_Calling,Labeling
+HC2000_2500.txt	48677	48685	Grateful	Loaded_Language
+HC2000_2500.txt	48873	48950	brave @USArmy soldiers have answered the call to serve and protect our nation	Flag-Waving
+HC2000_2500.txt	48952	48961	Thank you	Loaded_Language
+HC2000_2500.txt	49016	49102	Attacking Muslim Americans is wrong, and it makes it harder for us to defeat terrorism	Appeal_to_fear-prejudice
+HC2000_2500.txt	49128	49185	An attack on LGBT Americans is an attack on all Americans	Flag-Waving
+HC2000_2500.txt	49385	49392	big win	Loaded_Language
+HC2000_2500.txt	49495	49511	one nation under	Slogans
+HC2000_2500.txt	49619	49626	for all	Slogans
+HC2000_2500.txt	49628	49694	We need to work together to keep our country and our citizens safe	Flag-Waving
+HC2000_2500.txt	50028	50165	Trump's statements are lies—but he tells them because he has to distract from the fact that he has nothing substantive to say for himself	Causal_Oversimplification
+HC2000_2500.txt	50167	50378	"""He said I’ll abolish the 2nd Amendment. Wrong. He said I’ll let a flood of refugees into our country without any screening. Also wrong."" Trump's Muslim ban is wrong, dangerous, and in this instance, nonsensical"	Doubt
+HC2000_2500.txt	50442	50523	"""If Donald suggests I won’t call this threat what it is, he hasn’t been listening"	Doubt
+HC2000_2500.txt	50531	50577	"I will not declare war on an entire religion."""	Repetition
+HC2000_2500.txt	50845	50873	Trump's rhetoric is shameful	Loaded_Language
+HC2000_2500.txt	51256	51384	"""I believe we Americans are capable of protecting Second Amendment rights while making sure guns don’t fall into the wrong hands"	Flag-Waving
+HC2000_2500.txt	51602	51628	divisive rhetoric is wrong	Thought-terminating_Cliches
+HC2000_2500.txt	51920	52007	If you’re too dangerous to get on a plane, you're too dangerous to buy a gun in America	Black-and-White_Fallacy
+HC2000_2500.txt	52173	52182	nightmare	Loaded_Language
+HC2000_2500.txt	52197	52222	"mind-numbingly familiar."""	Loaded_Language
+HC2000_2500.txt	52300	52389	Weapons of war like those used in Orlando and San Bernardino have no place on our streets	Flag-Waving
+HC2000_2500.txt	52491	52502	terroristas	Name_Calling,Labeling
+HC2000_2500.txt	52556	52655	Our diversity isn’t a liability in the fight against terrorism. It’s an asset. It makes us stronger	Flag-Waving
+HC2000_2500.txt	52681	52796	We have to stand together and be proud together. There is no better rebuke to the terrorists and all those who hate	Appeal_to_fear-prejudice
+HC2000_2500.txt	53113	53191	"you have millions of allies who will always have your back. I am one of them."""	Exaggeration,Minimisation
+HC2000_2500.txt	53250	53275	out of hatred and bigotry	Loaded_Language
+HC2000_2500.txt	53279	53334	An attack on any American is an attack on all Americans	Flag-Waving
+HC2000_2500.txt	53336	53469	Inflammatory anti-Muslim rhetoric hurts the vast majority of Muslims who love freedom and hate terror. It’s wrong, and it's dangerous	Appeal_to_fear-prejudice
+HC2000_2500.txt	53641	53651	terrorists	Appeal_to_fear-prejudice
+HC2000_2500.txt	53691	53705	kill Americans	Flag-Waving
+HC2000_2500.txt	53707	53749	We should make it harder for them to do so	Black-and-White_Fallacy
+HC2000_2500.txt	54037	54048	lone wolves	Name_Calling,Labeling
+HC2000_2500.txt	54145	54162	breaks our hearts	Loaded_Language
+HC2000_2500.txt	54456	54560	"""We cannot demonize, demagogue, and declare war on an entire religion...Hate is not the answer to hate."""	Slogans
+HC2000_2500.txt	54704	54764	"do everything we can to defend our communities and country."""	Flag-Waving
+HC2000_2500.txt	54794	54802	"""We need"	Flag-Waving
+HC2000_2500.txt	54886	54905	"violent criminals."""	Name_Calling,Labeling
+HC2000_2500.txt	55329	55340	devastadora	Loaded_Language
+HC2000_2500.txt	55440	55448	horrible	Loaded_Language
+HC2000_2500.txt	55474	55490	devastating news	Loaded_Language
+HC2000_2500.txt	55577	55585	horrific	Loaded_Language
+HC2000_2500.txt	55676	55733	A man who thinks that way has no business being president	Doubt
+HC2000_2500.txt	55767	55808	hurt a whole universe of small businesses	Exaggeration,Minimisation
+HC2000_2500.txt	56150	56188	Trump the businessman? A total failure	Doubt
+HC2000_2500.txt	56305	56381	"will be the strong environmental champion that we need to lead our country."""	Flag-Waving
+HC2000_2500.txt	56680	56759	realDonaldTrump is temperamentally unfit to be president and Commander-in-Chief	Doubt
+HC2000_2500.txt	56979	57068	A man with this much contempt and disrespect for women has no business becoming president	Doubt
+HC2000_2500.txt	57126	57147	“the best for women.”	Exaggeration,Minimisation
+HC2000_2500.txt	57189	57249	"""I am the least racist person that you’ve ever encountered."""	Exaggeration,Minimisation
+HC2000_2500.txt	57316	57332	"""She’s a fighter"	Slogans
+HC2000_2500.txt	57334	57364	"She’s out there. She’s tough."""	Thought-terminating_Cliches
+HC2000_2500.txt	57582	57593	Trump can’t	Doubt
+HC2000_2500.txt	57696	57723	Your support is a BIG… deal	Exaggeration,Minimisation
+HC2000_2500.txt	58049	58089	pigs,” “dogs,” and “disgusting animals.”	Name_Calling,Labeling
+HC2000_2500.txt	58184	58300	"""the best for women.""  Anyone who'd defund @PPFA and wipe out safe, legal abortion has no idea what’s best for women"	Exaggeration,Minimisation
+HC2000_2500.txt	58302	58410	Laws that restrict access to abortion don’t make women less likely to seek it—they just make women less safe	Causal_Oversimplification
+HC2000_2500.txt	58635	58653	disproportionately	Loaded_Language
+HC2000_2500.txt	58670	58694	We need to repeal it now	Appeal_to_fear-prejudice
+HC2000_2500.txt	59087	59156	Donald Trump cannot be the one who leads the United States of America	Flag-Waving
+HC2000_2500.txt	59319	59409	"“I’m ready to jump in this fight and make sure that Hillary Clinton is the next president"""	Black-and-White_Fallacy
+HC2000_2500.txt	59530	59626	a woman who is Trump's exact opposite: honest, decent, and deeply concerned for working families	Name_Calling,Labeling
+HC2000_2500.txt	59631	59644	Thanks, Obama	Repetition
+HC2000_2500.txt	59712	59730	"""She's a fighter."""	Slogans
+HC2000_2500.txt	59761	59879	"""doesn’t care who gets hurt as long as he makes a profit off it. That cannot be the person who leads the United States"	Flag-Waving
+HC2000_2500.txt	59933	59970	she’s a fighter, a fighter with guts”	Name_Calling,Labeling
+HC2000_2500.txt	60136	60168	"""I know how hard this job can be"	Exaggeration,Minimisation
+HC2000_2500.txt	60170	60219	"That’s why I know Hillary will be so good at it."""	Causal_Oversimplification
+HC2000_2500.txt	60252	60259	Honored	Loaded_Language
+HC2000_2500.txt	60432	60542	"""Our elections should be shaped by voters' voices—not bought and sold by corporations &amp; special interests"""	Flag-Waving
+HC2000_2500.txt	60634	60651	working Americans	Flag-Waving

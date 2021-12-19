@@ -1,5 +1,0 @@
-article_id	span_start	span_end	span	context	label
-HC_statement_312.txt	340	418	Theres simply no one better at taking the fight to the Republicans than Debbie	Exaggeration,Minimisation
-HC_statement_312.txt	763	841	Theres simply no one better at taking the fight to the Republicans than Debbie	Exaggeration,Minimisation
-HC_statement_312.txt	870	977	her hard work and leadership Theres simply no one better at taking the fight to the Republicans than Debbie	Exaggeration,Minimisation
-HC_statement_312.txt	1577	1700	"as President I will need fighters like Debbie in Congress who are ready on day one to get to work for the American people."""	Flag-Waving

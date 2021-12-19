@@ -1,0 +1,411 @@
+article_id	span_start	span_end	span	context	label
+DT0_500.txt	332	361	we can #MakeAmericaGreatAgain	Repetition
+DT0_500.txt	427	444	Make False Claims	Loaded_Language
+DT0_500.txt	602	606	MAGA	Repetition
+DT0_500.txt	873	890	Thank you America	Repetition
+DT0_500.txt	893	897	MAGA	Repetition
+DT0_500.txt	1002	1006	Nice	Loaded_Language
+DT0_500.txt	1058	1062	MAGA	Repetition
+DT0_500.txt	1088	1106	Such a great honor	Exaggeration,Minimisation
+DT0_500.txt	1174	1178	MAGA	Repetition
+DT0_500.txt	1310	1314	MAGA	Repetition
+DT0_500.txt	1340	1426	Hillary's been failing for 30 years in not getting the job done - it will never change	Doubt
+DT0_500.txt	1429	1508	True blue-collar billionaire Donald Trump shows Hillary Clinton is out of touch	Doubt
+DT0_500.txt	1814	1914	Crooked Hillary says she is going to do so many things.Why hasn't she done them in her last 30 years	Doubt
+DT0_500.txt	2075	2118	we will MAKE AMERICA SAFE &amp; GREAT AGAIN	Slogans
+DT0_500.txt	2248	2258	lets #MAGA	Slogans
+DT0_500.txt	2489	2493	MAGA	Repetition
+DT0_500.txt	2575	2579	NICE	Loaded_Language
+DT0_500.txt	2755	2785	Thank you Governor @Mike_Pence	Slogans
+DT0_500.txt	2787	2850	Lets MAKE AMERICA SAFE AND GREAT AGAIN with the American people	Flag-Waving
+DT0_500.txt	2934	2938	MAGA	Repetition
+DT0_500.txt	3276	3291	A Global Threat	Name_Calling,Labeling
+DT0_500.txt	3545	3560	sweetheart deal	Loaded_Language
+DT0_500.txt	3955	3959	MAGA	Repetition
+DT0_500.txt	4114	4160	Hillary's policies have made America less safe	Flag-Waving
+DT0_500.txt	4374	4424	I will stand with police and protect ALL Americans	Flag-Waving
+DT0_500.txt	4440	4444	MAGA	Repetition
+DT0_500.txt	4501	4541	families are going to be safe and secure	Slogans
+DT0_500.txt	4543	4573	Law and order will be RESTORED	Slogans
+DT0_500.txt	4576	4580	MAGA	Repetition
+DT0_500.txt	4754	4772	typical politician	Name_Calling,Labeling
+DT0_500.txt	4775	4794	all talk, no action	Doubt
+DT0_500.txt	4809	4832	HILLARY'S BAD TAX HABIT	Loaded_Language
+DT0_500.txt	4858	4906	A Clinton economy = more taxes and more spending	Black-and-White_Fallacy
+DT0_500.txt	4962	5012	has been part of the rigged DC system for 30 years	Doubt
+DT0_500.txt	5069	5184	Instead of driving jobs and wealth away, AMERICA will become the world's great magnet for innovation and job creati	Flag-Waving
+DT0_500.txt	5419	5473	A @realDonaldTrump Administration will bring JOBS BACK	Slogans
+DT0_500.txt	5512	5553	Why isn't Hillary Clinton 50 points ahead	Doubt
+DT0_500.txt	5735	5754	team of deplorables	Name_Calling,Labeling
+DT0_500.txt	6177	6181	King	Name_Calling,Labeling
+DT0_500.txt	6222	6237	a true champion	Name_Calling,Labeling
+DT0_500.txt	6398	6403	riots	Loaded_Language
+DT0_500.txt	6700	6718	only gotten bigger	Exaggeration,Minimisation
+DT0_500.txt	7018	7035	failed Benefactor	Name_Calling,Labeling
+DT0_500.txt	7502	7520	tremendous victory	Loaded_Language
+DT0_500.txt	7634	7638	MAGA	Repetition
+DT0_500.txt	7682	7695	bad judgement	Loaded_Language
+DT0_500.txt	7799	7803	dumb	Name_Calling,Labeling
+DT0_500.txt	8241	8245	MAGA	Repetition
+DT0_500.txt	8326	8347	crashing the Internet	Loaded_Language
+DT0_500.txt	8469	8483	tremendous job	Loaded_Language
+DT0_500.txt	8511	8557	This is more than a campaign- it is a movement	Flag-Waving
+DT0_500.txt	8560	8581	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	8602	8613	WE WILL WIN	Repetition
+DT0_500.txt	8697	8701	MAGA	Repetition
+DT0_500.txt	8951	8968	Two amazing women	Name_Calling,Labeling
+DT0_500.txt	9092	9102	lets #MAGA	Slogans
+DT0_500.txt	9221	9243	Lets MAKE AMERICA SAFE	Slogans
+DT0_500.txt	9394	9402	violence	Loaded_Language
+DT0_500.txt	9567	9573	tragic	Loaded_Language
+DT0_500.txt	9575	9623	We must come together to make America safe again	Flag-Waving
+DT0_500.txt	9716	9740	we will MAKE AMERICA SAF	Flag-Waving
+DT0_500.txt	10115	10125	Sleep well	Thought-terminating_Cliches
+DT0_500.txt	10226	10267	We will bring jobs back where they belong	Slogans
+DT0_500.txt	10400	10416	Thank you Nevada	Slogans
+DT0_500.txt	10433	10454	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	10538	10559	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	10609	10624	Crooked Hillary	Repetition
+DT0_500.txt	10738	10745	Amazing	Loaded_Language
+DT0_500.txt	10765	10783	this is a MOVEMENT	Slogans
+DT0_500.txt	10851	10902	Together, we will MAKE AMERICA SAFE AND GREAT AGAIN	Slogans
+DT0_500.txt	11133	11241	Hillary Clinton's weakness while she was Secretary of State, has emboldened terrorists all over the world..c	Appeal_to_fear-prejudice
+DT0_500.txt	11270	11385	Once again someone we were told is ok turns out to be a terrorist who wants to destroy our country &amp; its people	Doubt
+DT0_500.txt	11415	11424	Great job	Thought-terminating_Cliches
+DT0_500.txt	11503	11540	without them, we don't have a country	Black-and-White_Fallacy
+DT0_500.txt	11726	11774	"he's the ONLY candidate that will keep us safe!"""	Black-and-White_Fallacy
+DT0_500.txt	11822	11830	Terrible	Loaded_Language
+DT0_500.txt	11870	11881	Thinking of	Loaded_Language
+DT0_500.txt	11910	11923	all Americans	Flag-Waving
+DT0_500.txt	11925	11945	We need to be strong	Slogans
+DT0_500.txt	12385	12393	horrible	Loaded_Language
+DT0_500.txt	12456	12487	Look at the mess the U.S. is in	Flag-Waving
+DT0_500.txt	12684	12713	the failing @nytimes so badly	Name_Calling,Labeling
+DT0_500.txt	12784	12857	Really disgusting The failing @nytimes has gone nuts that Crooked Hillary	Loaded_Language
+DT0_500.txt	12922	12941	a laughingstock rag	Name_Calling,Labeling
+DT0_500.txt	12963	12982	the wacky columnist	Name_Calling,Labeling
+DT0_500.txt	12987	13007	the failing @nytimes	Repetition
+DT0_500.txt	13044	13118	Wacky @NYTimesDowd, who hardly knows me, makes up things that I never said	Doubt
+DT0_500.txt	13157	13172	A neurotic dope	Name_Calling,Labeling
+DT0_500.txt	13176	13260	CNN just doesn't get it, and that's why their ratings are so low - and getting worse	Doubt
+DT0_500.txt	13262	13312	Boring anti-Trump panelists, mostly losers in life	Name_Calling,Labeling
+DT0_500.txt	13437	13453	a total disaster	Name_Calling,Labeling
+DT0_500.txt	13455	13470	Crooked Hillary	Repetition
+DT0_500.txt	13748	13784	"the greatest trick he’s ever pulled"""	Exaggeration,Minimisation
+DT0_500.txt	14072	14081	fantastic	Loaded_Language
+DT0_500.txt	14113	14127	I love you all	Thought-terminating_Cliches
+DT0_500.txt	14129	14142	We will #MAGA	Repetition
+DT0_500.txt	14144	14180	Thank you for the incredible support	Exaggeration,Minimisation
+DT0_500.txt	14224	14285	I am truly honored and grateful for receiving SO much support	Exaggeration,Minimisation
+DT0_500.txt	14291	14336	our American heroes...https://t.co/S9bvbysiOr	Flag-Waving
+DT0_500.txt	14858	14963	Instead of driving jobs and wealth away, AMERICA will become the WORLD'S great magnet for innovation &amp	Flag-Waving
+DT0_500.txt	15078	15100	What a scary statistic	Loaded_Language
+DT0_500.txt	15102	15115	Americans are	Flag-Waving
+DT0_500.txt	15362	15366	MAGA	Repetition
+DT0_500.txt	15466	15514	Thank you to all of our law enforcement officers	Slogans
+DT0_500.txt	15540	15544	MAGA	Repetition
+DT0_500.txt	15686	15690	MAGA	Repetition
+DT0_500.txt	15898	15916	weak understanding	Repetition
+DT0_500.txt	15951	15989	Iraq = disaster. We can do much better	Exaggeration,Minimisation
+DT0_500.txt	16107	16114	MAGA #A	Repetition
+DT0_500.txt	16231	16255	MAKE AMERICA GREAT AGAIN	Repetition
+DT0_500.txt	16349	16367	the very wonderful	Name_Calling,Labeling
+DT0_500.txt	17019	17095	Why isn't President Obama working instead of campaigning for Hillary Clinton	Doubt
+DT0_500.txt	17424	17446	a candidate of destiny	Name_Calling,Labeling
+DT0_500.txt	17490	17524	THAT WILL MAKE AMERICA GREAT AGAIN	Repetition
+DT0_500.txt	18021	18042	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	18133	18154	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	18600	18604	MAGA	Repetition
+DT0_500.txt	18645	18671	tremendous men &amp; women	Loaded_Language
+DT0_500.txt	18845	18871	seriously failing @nytimes	Name_Calling,Labeling
+DT0_500.txt	18964	18978	dishonest hits	Loaded_Language
+DT0_500.txt	19021	19051	What a terrible thing she said	Loaded_Language
+DT0_500.txt	19058	19081	so many great Americans	Flag-Waving
+DT0_500.txt	19100	19201	We need a President who is fighting for all Americans, not one who writes off nearly half the country	Flag-Waving
+DT0_500.txt	19222	19237	horrible things	Loaded_Language
+DT0_500.txt	19452	19456	Sass	Name_Calling,Labeling
+DT0_500.txt	19483	19579	Wow, Hillary Clinton was SO INSULTING to my supporters, millions of amazing, hard working people	Flag-Waving
+DT0_500.txt	19678	19715	a wonderful and truly respected woman	Name_Calling,Labeling
+DT0_500.txt	19785	19802	a Total Whack Job	Name_Calling,Labeling
+DT0_500.txt	19978	20025	Super lib, Crooked H supporter. Irrelevant dope	Name_Calling,Labeling
+DT0_500.txt	20027	20039	Dummy writer	Name_Calling,Labeling
+DT0_500.txt	20126	20155	hostile basket case who feels	Name_Calling,Labeling
+DT0_500.txt	20184	20224	we are going to MAKE AMERICA GREAT AGAIN	Slogans
+DT0_500.txt	20401	20415	Thank you Ohio	Slogans
+DT0_500.txt	20417	20459	Together, we will MAKE AMERICA GREAT AGAIN	Slogans
+DT0_500.txt	20509	20520	Great honor	Loaded_Language
+DT0_500.txt	20548	20563	amp; successful	Loaded_Language
+DT0_500.txt	20584	20591	A state	Flag-Waving
+DT0_500.txt	20654	20678	MAKE AMERICA GREAT AGAIN	Repetition
+DT0_500.txt	20836	20844	so badly	Loaded_Language
+DT0_500.txt	20846	20851	Funny	Loaded_Language
+DT0_500.txt	20923	20944	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	21048	21180	CNN is unwatchable. Their news on me is fiction. They are a disgrace to the broadcasting industry and an arm of the Clinton campaign	Doubt
+DT0_500.txt	21230	21249	total waste of time	Exaggeration,Minimisation
+DT0_500.txt	21308	21314	A joke	Repetition
+DT0_500.txt	21408	21412	MAGA	Repetition
+DT0_500.txt	21499	21515	very dumb answer	Loaded_Language
+DT0_500.txt	21535	21577	the veteran who said she should be in jail	Name_Calling,Labeling
+DT0_500.txt	21840	21855	wonderful deals	Loaded_Language
+DT0_500.txt	21937	21954	brilliant finance	Name_Calling,Labeling
+DT0_500.txt	21968	21981	wonderful man	Name_Calling,Labeling
+DT0_500.txt	22128	22177	She is totally confused. Unfit to serve as #POTUS	Doubt
+DT0_500.txt	22199	22209	disastrous	Loaded_Language
+DT0_500.txt	22284	22318	She's being decimated by the media	Exaggeration,Minimisation
+DT0_500.txt	22397	22418	lets #MAGA!! Lets WIN	Slogans
+DT0_500.txt	22653	22670	Thank you America	Repetition
+DT0_500.txt	22673	22678	great	Loaded_Language
+DT0_500.txt	22750	22768	fantastic veterans	Name_Calling,Labeling
+DT0_500.txt	22887	22936	if elected, I will think big for our country &amp	Flag-Waving
+DT0_500.txt	22938	22972	never let the American people down	Flag-Waving
+DT0_500.txt	23266	23270	MAGA	Repetition
+DT0_500.txt	23576	23597	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	23780	23816	all of our amazing military families	Flag-Waving
+DT0_500.txt	24051	24151	Mainstream media never covered Hillary’s massive “hacking” or coughing attack, yet it is #1 trending	Whataboutism,Straw_Men,Red_Herring
+DT0_500.txt	24201	24240	Please wake up and vote DonaldTrump now	Slogans
+DT0_500.txt	24269	24303	"save our America before too late!"""	Flag-Waving
+DT0_500.txt	24596	24617	"""the son of a whore."""	Name_Calling,Labeling
+DT0_500.txt	24765	24779	Thank you Ohio	Slogans
+DT0_500.txt	25024	25028	MAGA	Repetition
+DT0_500.txt	25349	25404	Obama is not a natural deal maker. Only makes bad deals	Doubt
+DT0_500.txt	25463	25472	a patriot	Name_Calling,Labeling
+DT0_500.txt	25515	25519	MAGA	Repetition
+DT0_500.txt	25610	25632	a @realDonaldTrump fan	Name_Calling,Labeling
+DT0_500.txt	25634	25643	"Love it."""	Loaded_Language
+DT0_500.txt	25731	25761	"get real, she will lose big"" """	Appeal_to_fear-prejudice
+DT0_500.txt	25793	25853	We need to show Americans that Hillary will KILL our Country	Flag-Waving
+DT0_500.txt	25857	25871	Vote for Trump	Slogans
+DT0_500.txt	25905	25957	It defies belief the Web of Lies Hillary is spinning	Loaded_Language
+DT0_500.txt	25959	25969	One excuse	Thought-terminating_Cliches
+DT0_500.txt	26188	26233	The Democrats have failed you for fifty years	Whataboutism,Straw_Men,Red_Herring
+DT0_500.txt	26235	26245	high crime	Loaded_Language
+DT0_500.txt	26317	26332	Crooked Hillary	Repetition
+DT0_500.txt	26416	26433	acid-wash e-mails	Loaded_Language
+DT0_500.txt	26497	26511	amazing people	Loaded_Language
+DT0_500.txt	26520	26553	very weak and ineffective Senator	Name_Calling,Labeling
+DT0_500.txt	26567	26570	Sad	Repetition
+DT0_500.txt	26633	26644	weak people	Name_Calling,Labeling
+DT0_500.txt	26892	26901	so biased	Doubt
+DT0_500.txt	26903	26924	Never ever watch them	Loaded_Language
+DT0_500.txt	26926	26936	Trump 2016	Name_Calling,Labeling
+DT0_500.txt	27039	27048	total lie	Name_Calling,Labeling
+DT0_500.txt	27086	27106	the failing @nytimes	Repetition
+DT0_500.txt	27168	27221	at the back of the pack - no longer a credible source	Doubt
+DT0_500.txt	27231	27258	so disgusting in their bias	Loaded_Language
+DT0_500.txt	27386	27395	fantastic	Loaded_Language
+DT0_500.txt	27859	27880	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	28051	28054	WIN	Repetition
+DT0_500.txt	28186	28194	to #MAGA	Repetition
+DT0_500.txt	28212	28244	crazy and very dumb @morningmika	Name_Calling,Labeling
+DT0_500.txt	28251	28267	mental breakdown	Loaded_Language
+DT0_500.txt	28328	28334	a mess	Loaded_Language
+DT0_500.txt	28840	28867	the great people of Arizona	Name_Calling,Labeling
+DT0_500.txt	28991	29075	Hillary Clinton doesn't have the strength or the stamina to MAKE AMERICA GREAT AGAIN	Doubt
+DT0_500.txt	29115	29139	There will be no amnesty	Black-and-White_Fallacy
+DT0_500.txt	29142	29163	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	29237	29258	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	29369	29400	Put America and Americans First	Flag-Waving
+DT0_500.txt	29511	29549	the most magnificent speech ever given	Exaggeration,Minimisation
+DT0_500.txt	29641	29650	wonderful	Loaded_Language
+DT0_500.txt	29794	29859	She doesn't have the drive or stamina to MAKE AMERICA GREAT AGAIN	Doubt
+DT0_500.txt	29989	29991	"""f"	Loaded_Language
+DT0_500.txt	29999	30019	Thank you Washington	Slogans
+DT0_500.txt	30021	30072	Together, WE will MAKE AMERICA SAFE AND GREAT AGAIN	Repetition
+DT0_500.txt	30452	30476	Thank you North Carolina	Thought-terminating_Cliches
+DT0_500.txt	30479	30483	MAGA	Repetition
+DT0_500.txt	30508	30525	Thank you America	Repetition
+DT0_500.txt	30528	30532	MAGA	Repetition
+DT0_500.txt	31075	31096	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	31159	31200	the horrible disaster known as #Obamacare	Name_Calling,Labeling
+DT0_500.txt	31227	31241	CrookedHillary	Repetition
+DT0_500.txt	31275	31399	African-Americans are seeing what a bad job Hillary type policy and management has done to the inner-cities, they want TRUMP	Appeal_to_fear-prejudice
+DT0_500.txt	31401	31541	Crooked Hillary's brainpower is highly overrated.Probably why her decision making is so bad or, as stated by Bernie S, she has BAD JUDGEMENT	Doubt
+DT0_500.txt	31564	31579	Crooked Hillary	Repetition
+DT0_500.txt	31742	31757	Crooked Hillary	Repetition
+DT0_500.txt	32146	32236	African-Americans will vote for Trump because they know I will stop the slaughter going on	Causal_Oversimplification
+DT0_500.txt	32266	32377	How much more crime, how many more shootings, will it take for African-Americans and Latinos to vote Trump=SAFE	Whataboutism,Straw_Men,Red_Herring
+DT0_500.txt	32548	32563	Crooked Hillary	Repetition
+DT0_500.txt	33125	33132	praying	Loaded_Language
+DT0_500.txt	33152	33163	Stay strong	Slogans
+DT0_500.txt	33182	33194	NeverHillary	Repetition
+DT0_500.txt	33321	33328	amazing	Loaded_Language
+DT0_500.txt	33545	33562	wonderful Senator	Name_Calling,Labeling
+DT0_500.txt	33840	33873	African-Americans will VOTE TRUMP	Slogans
+DT0_500.txt	33931	33955	No Regard For Black Race	Slogans
+DT0_500.txt	34056	34065	desperate	Loaded_Language
+DT0_500.txt	34073	34080	bashing	Loaded_Language
+DT0_500.txt	34708	34729	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	34868	34882	insider threat	Name_Calling,Labeling
+DT0_500.txt	34918	34929	Trumpocrats	Name_Calling,Labeling
+DT0_500.txt	35122	35136	CrookedHillary	Repetition
+DT0_500.txt	35192	35207	Crooked Hillary	Repetition
+DT0_500.txt	35238	35255	"""SUPER PREDATORS"""	Name_Calling,Labeling
+DT0_500.txt	35371	35405	Such a big problem for our country	Flag-Waving
+DT0_500.txt	35459	35468	viciously	Loaded_Language
+DT0_500.txt	35495	35513	crazy @morningmika	Name_Calling,Labeling
+DT0_500.txt	35554	35623	What do African-Americans and Hispanics have to lose by going with me	Thought-terminating_Cliches
+DT0_500.txt	35680	35693	I will fix it	Thought-terminating_Cliches
+DT0_500.txt	35695	35738	Crooked Hillary will NEVER be able to solve	Exaggeration,Minimisation
+DT0_500.txt	35858	35876	the real predators	Name_Calling,Labeling
+DT0_500.txt	36524	36594	Hillary Clinton only knows how to make a speech when it is a hit on me	Causal_Oversimplification
+DT0_500.txt	36596	36605	No policy	Loaded_Language
+DT0_500.txt	36664	36779	HRC is using the oldest play in the Dem playbook- when their policies fail, they are left w/this one tired argument	Causal_Oversimplification
+DT0_500.txt	36830	36842	race-baiting	Loaded_Language
+DT0_500.txt	36896	36925	she is all talk and NO ACTION	Doubt
+DT0_500.txt	36961	37008	pandering to the worst instincts in our society	Loaded_Language
+DT0_500.txt	37010	37042	She should be ashamed of herself	Thought-terminating_Cliches
+DT0_500.txt	37067	37081	CrookedHillary	Repetition
+DT0_500.txt	37113	37147	She is the only one fear-mongering	Causal_Oversimplification
+DT0_500.txt	37426	37432	"Wow! """	Thought-terminating_Cliches
+DT0_500.txt	37484	37534	We CAN do this! We can #MAGA with @realDonaldTrump	Slogans
+DT0_500.txt	37584	37611	the great people of Indiana	Name_Calling,Labeling
+DT0_500.txt	37613	37629	You will prevail	Slogans
+DT0_500.txt	37728	37743	True leadership	Repetition
+DT0_500.txt	38105	38144	together we will #MakeAmericaGreatAgain	Repetition
+DT0_500.txt	38232	38253	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	38341	38361	MakeAmericaSafeAgain	Repetition
+DT0_500.txt	38502	38513	earthquakes	Loaded_Language
+DT0_500.txt	38569	38590	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	38766	38798	our amazing Border Patrol Agents	Flag-Waving
+DT0_500.txt	39052	39072	Too little, too late	Thought-terminating_Cliches
+DT0_500.txt	39122	39148	"""absolutely no connection"""	Exaggeration,Minimisation
+DT0_500.txt	39208	39211	LIE	Loaded_Language
+DT0_500.txt	39310	39349	the worst in American political history	Exaggeration,Minimisation
+DT0_500.txt	39529	39543	a hit job book	Name_Calling,Labeling
+DT0_500.txt	39619	39625	boring	Loaded_Language
+DT0_500.txt	39803	39817	Amazing people	Repetition
+DT0_500.txt	40235	40245	Two clowns	Name_Calling,Labeling
+DT0_500.txt	40262	40284	low-rated @Morning_Joe	Name_Calling,Labeling
+DT0_500.txt	40300	40311	unwatchable	Loaded_Language
+DT0_500.txt	40329	40341	off the wall	Loaded_Language
+DT0_500.txt	40343	40357	a neurotic and	Name_Calling,Labeling
+DT0_500.txt	40755	40759	MAGA	Repetition
+DT0_500.txt	40841	40856	super predators	Name_Calling,Labeling
+DT0_500.txt	41040	41045	nasty	Loaded_Language
+DT0_500.txt	41047	41057	Irrelevant	Loaded_Language
+DT0_500.txt	41059	41198	Crooked Hillary is flooding the airwaves with false and misleading ads - all paid for by her bosses on Wall Street. Media is protecting her	Doubt
+DT0_500.txt	41301	41319	Something very big	Exaggeration,Minimisation
+DT0_500.txt	41334	41393	Together, we are going to MAKE AMERICA SAFE AND GREAT AGAIN	Slogans
+DT0_500.txt	41455	41471	please oh please	Loaded_Language
+DT0_500.txt	41530	41544	"sooo powerful"""	Loaded_Language
+DT0_500.txt	41546	41550	Good	Loaded_Language
+DT0_500.txt	41580	41597	been a great week	Thought-terminating_Cliches
+DT0_500.txt	41599	41649	"More of the same will get you in the white house!"""	Black-and-White_Fallacy
+DT0_500.txt	41650	41723	We will bring America together as ONE country again – united as Americans	Flag-Waving
+DT0_500.txt	41762	41766	MAGA	Repetition
+DT0_500.txt	41795	41835	We are going to MAKE AMERICA GREAT AGAIN	Slogans
+DT0_500.txt	42199	42216	MAGA #AlwaysTrump	Slogans
+DT0_500.txt	42362	42379	We are one nation	Slogans
+DT0_500.txt	42381	42408	When one hurts, we all hurt	Slogans
+DT0_500.txt	42533	42551	Thank you Michigan	Slogans
+DT0_500.txt	42553	42571	This is a MOVEMENT	Repetition
+DT0_500.txt	42573	42622	We are going to MAKE AMERICA SAFE AND GREAT AGAIN	Slogans
+DT0_500.txt	42864	42933	The reporting at the failing @nytimes gets worse and worse by the day	Doubt
+DT0_500.txt	42935	42971	Fortunately, it is a dying newspaper	Thought-terminating_Cliches
+DT0_500.txt	43141	43169	one state hurts, we all hurt	Slogans
+DT0_500.txt	43284	43305	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	43331	43373	Together, we will MAKE AMERICA GREAT AGAIN	Slogans
+DT0_500.txt	43400	43414	CrookedHillary	Repetition
+DT0_500.txt	43730	43767	a government of the people once again	Slogans
+DT0_500.txt	43770	43791	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	43885	43905	soaring double-digit	Loaded_Language
+DT0_500.txt	43933	43941	disaster	Loaded_Language
+DT0_500.txt	43967	44075	A vote for Hillary Clinton is a vote for another generation of poverty, high crime, &amp; lost opportunities	Black-and-White_Fallacy
+DT0_500.txt	44113	44133	MakeAmericaSafeAgain	Repetition
+DT0_500.txt	44240	44261	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	44625	44646	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	44807	44826	the American people	Flag-Waving
+DT0_500.txt	45241	45261	MakeAmericaSafeAgain	Repetition
+DT0_500.txt	45421	45424	Sad	Repetition
+DT0_500.txt	45562	45568	I have	Loaded_Language
+DT0_500.txt	45617	45699	The media wants me to change but it would be very dishonest to supporters to do so	Causal_Oversimplification
+DT0_500.txt	45765	45839	allowed to say and write whatever they want even if it is completely false	Exaggeration,Minimisation
+DT0_500.txt	45864	45879	Crooked Hillary	Repetition
+DT0_500.txt	45895	45926	the dishonest and corrupt media	Name_Calling,Labeling
+DT0_500.txt	45981	46119	Crooked Hillary Clinton is being protected by the media. She is not a talented person or politician. The dishonest media refuses to expose	Doubt
+DT0_500.txt	46248	46353	If the disgusting and corrupt media covered me honestly and didn't put false meaning into the words I say	Doubt
+DT0_500.txt	46389	46409	The failing @nytimes	Repetition
+DT0_500.txt	46411	46431	which never spoke to	Whataboutism,Straw_Men,Red_Herring
+DT0_500.txt	46530	46672	"The failing @nytimes talks about anonymous sources and meetings that never happened. Their reporting is fiction. The media protects Hillary! """	Doubt
+DT0_500.txt	46683	46767	You are a man for the people because you know what it is like to be among the people	Flag-Waving
+DT0_500.txt	46769	46804	"MakeAmericaGreatAgain #USA Loves U"""	Slogans
+DT0_500.txt	47036	47059	glorious luxurious life	Loaded_Language
+DT0_500.txt	47063	47086	get beat up for America	Flag-Waving
+DT0_500.txt	47133	47140	Crooked	Name_Calling,Labeling
+DT0_500.txt	47191	47203	PAY-FOR-PLAY	Loaded_Language
+DT0_500.txt	47205	47229	How can she run for Pres	Doubt
+DT0_500.txt	47247	47290	Thank you for all that you are doing for us	Thought-terminating_Cliches
+DT0_500.txt	47292	47350	You campaign endlessly and have spent millions.We love you	Exaggeration,Minimisation
+DT0_500.txt	47428	47465	The people of our country are amazing	Flag-Waving
+DT0_500.txt	47499	47635	The failing @nytimes has become a newspaper of fiction. Their stories about me always quote non-existent unnamed sources. Very dishonest	Doubt
+DT0_500.txt	47713	47722	Thank you	Loaded_Language
+DT0_500.txt	47743	47782	Together we will #MakeAmericaGreatAgain	Repetition
+DT0_500.txt	47808	47828	Unbelievable support	Exaggeration,Minimisation
+DT0_500.txt	47865	47869	MAGA	Repetition
+DT0_500.txt	47979	48025	When will the dishonest media report the facts	Doubt
+DT0_500.txt	48049	48079	poor, pathetic people (pundits	Name_Calling,Labeling
+DT0_500.txt	48154	48164	They can't	Loaded_Language
+DT0_500.txt	48215	48238	Crooked Hillary Clinton	Name_Calling,Labeling
+DT0_500.txt	48256	48264	terrible	Loaded_Language
+DT0_500.txt	48466	48478	so seriously	Loaded_Language
+DT0_500.txt	48521	48542	"""the founder"" of ISIS"	Name_Calling,Labeling
+DT0_500.txt	48648	48687	"stop believing media lies about Trump."""	Appeal_to_Authority
+DT0_500.txt	48731	48748	THE CORRUPT MEDIA	Name_Calling,Labeling
+DT0_500.txt	48896	48947	Everything coming from this administration is a lie	Exaggeration,Minimisation
+DT0_500.txt	48949	48986	"Only @realDonaldTrump will change it"""	Black-and-White_Fallacy
+DT0_500.txt	49060	49084	Constant phony reporting	Loaded_Language
+DT0_500.txt	49090	49102	failing @CNN	Name_Calling,Labeling
+DT0_500.txt	49123	49149	The American people get it	Flag-Waving
+DT0_500.txt	49213	49234	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	49413	49444	Made up story by @CNN is a hoax	Doubt
+DT0_500.txt	49446	49466	"Totally dishonest. """	Doubt
+DT0_500.txt	49510	49545	Working so hard for all Americans n	Flag-Waving
+DT0_500.txt	49583	49599	"a biased Media."""	Name_Calling,Labeling
+DT0_500.txt	49601	49622	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	49680	49701	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	49751	49836	"No such meeting or conversation ever happened - a made up story by ""low ratings"" @CNN"	Doubt
+DT0_500.txt	49926	49930	MAGA	Repetition
+DT0_500.txt	50237	50246	went wild	Loaded_Language
+DT0_500.txt	50279	50282	sad	Repetition
+DT0_500.txt	50427	50443	"dumb as a rock """	Loaded_Language
+DT0_500.txt	50701	50717	our Constitution	Flag-Waving
+DT0_500.txt	50719	50854	When is the media going to talk about Hillary's policies that have gotten people killed, like Libya, open borders, and maybe her emails	Doubt
+DT0_500.txt	51032	51053	MakeAmericaGreatAgain	Repetition
+DT0_500.txt	51177	51189	NeverHillary	Repetition
+DT0_500.txt	51218	51304	If @HillaryClinton gets to pick her anti-#2A #SCOTUS judges, there’s nothing we can do	Appeal_to_fear-prejudice
+DT0_500.txt	51307	51319	NeverHillary	Repetition
+DT0_500.txt	51337	51351	our presidents	Flag-Waving
+DT0_500.txt	51358	51378	our great presidents	Flag-Waving
+DT0_500.txt	51619	51623	MAGA	Repetition
+DT0_500.txt	51625	51638	"NeverHillary"""	Slogans
+DT0_500.txt	51766	51789	the Washington insiders	Name_Calling,Labeling
+DT0_500.txt	51836	51883	These are the people that have made U.S. a mess	Doubt
+DT0_500.txt	52010	52015	great	Exaggeration,Minimisation
+DT0_500.txt	52048	52102	We Can Do Better, We Must Do Better, We Will Do Better	Slogans
+DT0_500.txt	52366	52449	killed the scientist who helped the U.S. because of Hillary Clinton's hacked emails	Causal_Oversimplification
+DT0_500.txt	52750	52789	together we will #MakeAmericaGreatAgain	Repetition
+DT0_500.txt	53285	53296	lightweight	Name_Calling,Labeling
+DT0_500.txt	53376	53398	a total Clinton flunky	Name_Calling,Labeling
+DT0_500.txt	53400	53424	The media is going crazy	Exaggeration,Minimisation
+DT0_500.txt	53426	53472	They totally distort so many things on purpose	Doubt
+DT0_500.txt	53491	53501	"""the baby"""	Name_Calling,Labeling
+DT0_500.txt	53506	53513	so much	Loaded_Language
+DT0_500.txt	53520	53534	Very dishonest	Loaded_Language
+DT0_500.txt	53681	53722	Look at the job she has done in Baltimore	Whataboutism,Straw_Men,Red_Herring
+DT0_500.txt	53724	53737	She is a joke	Loaded_Language
+DT0_500.txt	53788	53792	MAGA	Repetition
+DT0_500.txt	53835	53884	Donald Trump Is the middle-class growth candidate	Slogans
+DT0_500.txt	53940	53963	Crooked Hillary Clinton	Name_Calling,Labeling
+DT0_500.txt	53986	54029	the very dishonest and totally biased media	Name_Calling,Labeling
+DT0_500.txt	54032	54046	but I will win	Repetition
+DT0_500.txt	54049	54099	CrookedHillary is not fit to be our next president	Doubt
+DT0_500.txt	54249	54315	"Anybody whose mind ""SHORT CIRCUITS"" is not fit to be our president"	Doubt
+DT0_500.txt	54334	54348	"""BRAINWASHED."""	Repetition
+DT0_500.txt	54473	54487	Very dangerous	Loaded_Language
+DT0_500.txt	54866	54870	MAGA	Repetition
+DT0_500.txt	54895	54932	DON'T LET HILLARY CLINTON DO IT AGAIN	Appeal_to_fear-prejudice
+DT0_500.txt	55053	55057	MAGA	Repetition
+DT0_500.txt	55095	55115	MakeAmericaSafeAgain	Repetition
+DT0_500.txt	55221	55234	Win-lose deal	Thought-terminating_Cliches
+DT0_500.txt	55306	55373	Hillary Clinton has bad judgment and is unfit to serve as President	Doubt
+DT0_500.txt	55680	55699	disastrous judgment	Loaded_Language

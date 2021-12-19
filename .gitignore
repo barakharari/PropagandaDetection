@@ -1,3 +1,3 @@
 .DS_Store
-meta/*
-aschern_data/*
+scripts/meta/*
+scripts/aschern_data/*

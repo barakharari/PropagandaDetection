@@ -1,0 +1,118 @@
+article_id	span_start	span_end	span	context	label
+HC3000_3500.txt	38	87	Continued inaction from Congress is irresponsible	Appeal_to_fear-prejudice
+HC3000_3500.txt	89	106	We should act now	Appeal_to_fear-prejudice
+HC3000_3500.txt	484	502	"love trumps hate."""	Slogans
+HC3000_3500.txt	512	581	"""We cannot let Barack Obama’s legacy fall into Donald Trump’s hands."""	Appeal_to_fear-prejudice
+HC3000_3500.txt	650	687	these aren’t somebody else’s problems	Thought-terminating_Cliches
+HC3000_3500.txt	689	713	"These are our problems."""	Thought-terminating_Cliches
+HC3000_3500.txt	851	1018	We should be making it easier to vote, not harder. The attacks on voting rights have to end. “Something’s wrong when so many black parents are burying their children.”	Whataboutism,Straw_Men,Red_Herring
+HC3000_3500.txt	1052	1165	"""Something’s wrong when the median wealth for black families is just a tiny fraction of that for white families."""	Whataboutism,Straw_Men,Red_Herring
+HC3000_3500.txt	1175	1211	“Race still plays a significant role	Appeal_to_Authority
+HC3000_3500.txt	1306	1336	that great strong land of love	Name_Calling,Labeling
+HC3000_3500.txt	1339	1381	That is more than poetry…that’s a prayer.”	Appeal_to_Authority
+HC3000_3500.txt	1545	1569	tremendous contributions	Loaded_Language
+HC3000_3500.txt	1655	1760	"""She’s battle tested, she’s got a dirty uniform, and that’s who you want fighting for your kids’ future.”"	Appeal_to_Authority
+HC3000_3500.txt	2259	2309	If standing up for women is playing the #WomanCard	Black-and-White_Fallacy
+HC3000_3500.txt	2728	2742	LoveTrumpsHate	Slogans
+HC3000_3500.txt	2780	2785	bully	Name_Calling,Labeling
+HC3000_3500.txt	3108	3126	"""quite concerning"""	Loaded_Language
+HC3000_3500.txt	3734	3768	We can't afford a Trump presidency	Black-and-White_Fallacy
+HC3000_3500.txt	3903	3908	bully	Name_Calling,Labeling
+HC3000_3500.txt	3989	3996	amazing	Loaded_Language
+HC3000_3500.txt	4233	4310	"If fighting for women is ""playing the #WomanCard,"" what card is Trump playing"	Doubt
+HC3000_3500.txt	4336	4364	Hate isn't an American value	Slogans
+HC3000_3500.txt	4488	4507	Couldn't agree more	Exaggeration,Minimisation
+HC3000_3500.txt	4902	4923	President Trump? Same	Thought-terminating_Cliches
+HC3000_3500.txt	5031	5040	Well done	Thought-terminating_Cliches
+HC3000_3500.txt	5069	5082	"""Everything I"	Exaggeration,Minimisation
+HC3000_3500.txt	5105	5112	"folks."""	Loaded_Language
+HC3000_3500.txt	5155	5189	Let's go out and win this election	Slogans
+HC3000_3500.txt	5248	5359	Turning away Muslims, pitting Americans against each other, inciting violence and chaos—these aren't our values	Flag-Waving
+HC3000_3500.txt	5482	5493	devastating	Loaded_Language
+HC3000_3500.txt	5519	5524	Yikes	Loaded_Language
+HC3000_3500.txt	5550	5616	Donald Trump's foreign policy isn't just offensive, it's dangerous	Appeal_to_fear-prejudice
+HC3000_3500.txt	5805	5849	fighting for women is playing the #WomanCard	Causal_Oversimplification
+HC3000_3500.txt	5949	5965	Wouldn't support	Repetition
+HC3000_3500.txt	6018	6097	Women still face too many barriers—a president shouldn't be part of the problem	Whataboutism,Straw_Men,Red_Herring
+HC3000_3500.txt	6204	6236	Hillary can handle these attacks	Thought-terminating_Cliches
+HC3000_3500.txt	6238	6273	Millions of women shouldn't have to	Exaggeration,Minimisation
+HC3000_3500.txt	6367	6378	"""shouting."""	Loaded_Language
+HC3000_3500.txt	6688	6760	Donald Trump's anti-Muslim rhetoric goes against everything we stand for	Appeal_to_Authority
+HC3000_3500.txt	6855	6876	Let's defend them all	Slogans
+HC3000_3500.txt	7127	7154	"playing the ""woman's card."""	Loaded_Language
+HC3000_3500.txt	8189	8308	“If fighting for women’s health care and paid family leave and equal pay is playing the ‘woman card,’ then deal me in.”	Black-and-White_Fallacy
+HC3000_3500.txt	8444	8465	Let's defend them all	Slogans
+HC3000_3500.txt	9528	9567	this team is building something special	Exaggeration,Minimisation
+HC3000_3500.txt	9569	9589	Thanks for believing	Thought-terminating_Cliches
+HC3000_3500.txt	9632	9659	Thanks to everyone who made	Exaggeration,Minimisation
+HC3000_3500.txt	9718	9737	We did it, Delaware	Slogans
+HC3000_3500.txt	10304	10318	brutal murders	Loaded_Language
+HC3000_3500.txt	10323	10333	deplorable	Loaded_Language
+HC3000_3500.txt	10436	10516	If our leaders won't stand up to the gun lobby, we need to hold them accountable	Black-and-White_Fallacy
+HC3000_3500.txt	10582	10599	Hillary needs you	Slogans
+HC3000_3500.txt	11109	11125	hateful rhetoric	Loaded_Language
+HC3000_3500.txt	11321	11370	America's gun violence epidemic is out of control	Exaggeration,Minimisation
+HC3000_3500.txt	11372	11416	No more excuses—we need to act to save lives	Appeal_to_fear-prejudice
+HC3000_3500.txt	11608	11629	"post-racial society."""	Name_Calling,Labeling
+HC3000_3500.txt	11782	11860	"""When barriers for women fall, the world becomes a better place for everyone."""	Black-and-White_Fallacy
+HC3000_3500.txt	12065	12072	passion	Loaded_Language
+HC3000_3500.txt	12143	12194	“She's more accomplished than any other candidate.”	Exaggeration,Minimisation
+HC3000_3500.txt	12300	12349	but what we really need is more love and kindness	Appeal_to_fear-prejudice
+HC3000_3500.txt	12892	12914	"""Everybody has a story"	Thought-terminating_Cliches
+HC3000_3500.txt	12916	12929	Everybody has	Flag-Waving
+HC3000_3500.txt	13128	13240	Not interested in endorsements from people who deny climate science and try to make it harder for people to vote	Whataboutism,Straw_Men,Red_Herring
+HC3000_3500.txt	13355	13364	absurdity	Loaded_Language
+HC3000_3500.txt	13390	13439	When someone shows you who they are, believe them	Appeal_to_Authority
+HC3000_3500.txt	13441	13469	Trump has shown us who he is	Doubt
+HC3000_3500.txt	14012	14034	Every child in America	Flag-Waving
+HC3000_3500.txt	14484	14498	"""etch-a-sketch"	Loaded_Language
+HC3000_3500.txt	14716	14784	Does Trump think he can fool us into forgetting his hateful rhetoric	Doubt
+HC3000_3500.txt	14786	14789	Sad	Loaded_Language
+HC3000_3500.txt	14815	14876	Zika has reached the U.S. and we can't wait any longer to act	Appeal_to_fear-prejudice
+HC3000_3500.txt	14908	14928	public health crisis	Loaded_Language
+HC3000_3500.txt	14966	15012	Donald Trump says offensive things about women	Loaded_Language
+HC3000_3500.txt	15637	15642	awful	Loaded_Language
+HC3000_3500.txt	15925	15940	historic accord	Repetition
+HC3000_3500.txt	15960	15976	unmatched impact	Exaggeration,Minimisation
+HC3000_3500.txt	16141	16192	The climate is changing. Republican policies aren't	Doubt
+HC3000_3500.txt	16211	16235	we need to #ActOnClimate	Slogans
+HC3000_3500.txt	16336	16363	We need to act on Zika—fast	Appeal_to_fear-prejudice
+HC3000_3500.txt	16588	16646	Zika is a threat to public health &amp; we have to act now	Appeal_to_fear-prejudice
+HC3000_3500.txt	16782	16863	What better way to celebrate Earth Day than taking action to help save our planet	Flag-Waving
+HC3000_3500.txt	16868	16951	To make a better future for our kids, we've got to protect the future of our planet	Appeal_to_fear-prejudice
+HC3000_3500.txt	17670	17734	A few bad actors supply the vast majority of guns used in crimes	Whataboutism,Straw_Men,Red_Herring
+HC3000_3500.txt	17736	17756	We need to stop them	Appeal_to_fear-prejudice
+HC3000_3500.txt	17806	17833	Gun violence is an epidemic	Exaggeration,Minimisation
+HC3000_3500.txt	17905	18000	"""We have got to address the unequal effects of the criminal justice system on people of color."""	Black-and-White_Fallacy
+HC3000_3500.txt	18042	18116	If anything else killed 33,000 people per year, Congress would take action	Black-and-White_Fallacy
+HC3000_3500.txt	18118	18147	It's time to #StopGunViolence	Slogans
+HC3000_3500.txt	18384	18433	Thank you, New York. Let's go win this nomination	Slogans
+HC3000_3500.txt	18459	18489	"""Victory"" never tasted so good"	Exaggeration,Minimisation
+HC3000_3500.txt	18618	18670	but Congress needs to act now to help Flint families	Appeal_to_fear-prejudice
+HC3000_3500.txt	18778	18786	stickers	Loaded_Language
+HC3000_3500.txt	18812	18820	"""No more"	Slogans
+HC3000_3500.txt	18949	18989	A woman, a leader, and a freedom fighter	Name_Calling,Labeling
+HC3000_3500.txt	18991	19023	I can't think of a better choice	Exaggeration,Minimisation
+HC3000_3500.txt	19950	19962	let’s go out	Loaded_Language
+HC3000_3500.txt	19989	20008	all rise together.”	Slogans
+HC3000_3500.txt	20234	20242	divisive	Loaded_Language
+HC3000_3500.txt	20655	20674	We did it, New York	Slogans
+HC3000_3500.txt	20959	20981	worked your hearts out	Loaded_Language
+HC3000_3500.txt	20995	21011	This is your win	Slogans
+HC3000_3500.txt	21048	21073	Let's win this nomination	Slogans
+HC3000_3500.txt	21193	21209	at you, New York	Loaded_Language
+HC3000_3500.txt	21235	21280	Thank you, New York. You put your faith in me	Slogans
+HC3000_3500.txt	21313	21345	I'll never stop fighting for you	Thought-terminating_Cliches
+HC3000_3500.txt	22116	22170	Our country can't reach its potential unless we all do	Flag-Waving
+HC3000_3500.txt	22567	22588	They didn’t hold back	Loaded_Language
+HC3000_3500.txt	22880	22897	Hillary needs you	Slogans
+HC3000_3500.txt	23069	23085	FightForFamilies	Slogans
+HC3000_3500.txt	23153	23198	and that's one of America's biggest strengths	Flag-Waving
+HC3000_3500.txt	23635	23724	"""One of the most broadly and deeply qualified presidential candidates in modern history."""	Exaggeration,Minimisation
+HC3000_3500.txt	23858	23875	FightForFamilies”	Slogans
+HC3000_3500.txt	24101	24111	our broken	Flag-Waving
+HC3000_3500.txt	24153	24197	We need comprehensive immigration reform now	Black-and-White_Fallacy
+HC3000_3500.txt	24446	24493	live in fear of being torn apart by deportation	Appeal_to_fear-prejudice
+HC3000_3500.txt	25123	25135	"""Anything is"	Thought-terminating_Cliches
+HC3000_3500.txt	25990	26000	earthquake	Loaded_Language
+HC3000_3500.txt	26492	26524	“I love you, New York! Go vote!”	Slogans

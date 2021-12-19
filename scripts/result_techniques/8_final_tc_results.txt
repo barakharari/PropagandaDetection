@@ -1,0 +1,572 @@
+article_id	span_start	span_end	span	context	label
+HC0_500.txt	173	181	"""smart."""	Loaded_Language
+HC0_500.txt	207	218	Unpatriotic	Name_Calling,Labeling
+HC0_500.txt	244	266	Couldn't be more proud	Exaggeration,Minimisation
+HC0_500.txt	349	382	she's ready to be our next @POTUS	Exaggeration,Minimisation
+HC0_500.txt	640	681	This election is too important to sit out	Exaggeration,Minimisation
+HC0_500.txt	797	805	goes low	Loaded_Language
+HC0_500.txt	1158	1185	lied to the American people	Flag-Waving
+HC0_500.txt	1323	1355	She was like an eating machine.”	Exaggeration,Minimisation
+HC0_500.txt	1540	1560	"""I love this country"	Flag-Waving
+HC0_500.txt	1562	1587	I’m proud of this country	Flag-Waving
+HC0_500.txt	1835	1857	dangerously incoherent	Loaded_Language
+HC0_500.txt	2059	2142	"""What kind of a person would want to root for 9 million families losing their homes"	Doubt
+HC0_500.txt	2145	2180	"One who should never be president."""	Doubt
+HC0_500.txt	2520	2536	a record-setting	Exaggeration,Minimisation
+HC0_500.txt	3331	3343	"""Miss Piggy"""	Repetition
+HC0_500.txt	3639	3658	We all make choices	Thought-terminating_Cliches
+HC0_500.txt	3715	3739	massive amount of weight	Exaggeration,Minimisation
+HC0_500.txt	3875	3912	beaten, left bloody &amp; unconscious	Loaded_Language
+HC0_500.txt	4031	4051	We have to do better	Thought-terminating_Cliches
+HC0_500.txt	4131	4156	really, really good night	Loaded_Language
+HC0_500.txt	4451	4498	who built this damn country: the middle class.”	Flag-Waving
+HC0_500.txt	4710	4786	"""Anyone who complains about microphone problems is not having a good night."""	Causal_Oversimplification
+HC0_500.txt	4827	4840	"""Miss Piggy."""	Repetition
+HC0_500.txt	4870	4894	massive amount of weight	Loaded_Language
+HC0_500.txt	4945	4976	"""I have a winning temperament."""	Thought-terminating_Cliches
+HC0_500.txt	5325	5348	Let’s go win this thing	Slogans
+HC0_500.txt	5613	5625	"""Miss Piggy"""	Repetition
+HC0_500.txt	5630	5650	"""Miss Housekeeping."""	Name_Calling,Labeling
+HC0_500.txt	5884	5905	"""Hillary won big time"	Exaggeration,Minimisation
+HC0_500.txt	5916	5926	"shut out."""	Repetition
+HC0_500.txt	6437	6440	con	Loaded_Language
+HC0_500.txt	6636	6659	let's go win this thing	Slogans
+HC0_500.txt	6717	6739	"""winning temperament."""	Name_Calling,Labeling
+HC0_500.txt	6800	6812	“Miss Piggy”	Repetition
+HC0_500.txt	7026	7091	"""cavalier attitude about nuclear weapons is so deeply troubling.”"	Appeal_to_fear-prejudice
+HC0_500.txt	7564	7585	the fact-checkers are	Name_Calling,Labeling
+HC0_500.txt	7632	7654	the invasion of Iraq.”	Repetition
+HC0_500.txt	7963	8001	When Donald Trump goes low, we go high	Slogans
+HC0_500.txt	8125	8182	he's giving you an idea of what kind of president he'd be	Doubt
+HC0_500.txt	8372	8404	racist birther conspiracy theory	Name_Calling,Labeling
+HC0_500.txt	8494	8546	"You know what else I prepared for? Being president."""	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	8560	8672	President Obama was born in the United States. He’s American. Trump only has one reason for refusing to admit it	Flag-Waving
+HC0_500.txt	8687	8707	Still a complete lie	Exaggeration,Minimisation
+HC0_500.txt	8747	8836	Donald Trump is more concerned with pandering to the gun lobby than keeping families safe	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	8949	8972	"""we need law and order"""	Slogans
+HC0_500.txt	9011	9090	We’ve got to address the systemic racism in our criminal justice system and end	Appeal_to_fear-prejudice
+HC0_500.txt	9589	9633	"Paying zero in taxes doesn’t make you ""smart"	Doubt
+HC0_500.txt	9652	9662	tax evader	Name_Calling,Labeling
+HC0_500.txt	9688	9736	No wonder Donald Trump is hiding his tax returns	Doubt
+HC0_500.txt	10255	10276	Or, we can do nothing	Black-and-White_Fallacy
+HC0_500.txt	10303	10323	"""I never said that."""	Thought-terminating_Cliches
+HC0_500.txt	10494	10514	"""losing their home."""	Slogans
+HC0_500.txt	10664	10684	Trump seems to think	Doubt
+HC0_500.txt	10772	10887	Every time Trump makes a show of railing against outsourcing, remember the countries he shipped jobs and profits to	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	11482	11495	Let's do this	Slogans
+HC0_500.txt	12594	12632	"Is this the example we want for them?"""	Doubt
+HC0_500.txt	12810	12815	Trump	Repetition
+HC0_500.txt	13273	13330	"a man who dwells in bigotry, bluster and false promises."""	Name_Calling,Labeling
+HC0_500.txt	13502	13530	Our daughters deserve better	Flag-Waving
+HC0_500.txt	13637	13701	Trump can't win tonight's debate by lying to the American people	Flag-Waving
+HC0_500.txt	13945	13949	Gold	Name_Calling,Labeling
+HC0_500.txt	14081	14095	brave students	Name_Calling,Labeling
+HC0_500.txt	14286	14300	LoveTrumpsHate	Slogans
+HC0_500.txt	14383	14406	life or death decisions	Exaggeration,Minimisation
+HC0_500.txt	14582	14683	Take it from those who have been there - Trump is not ready for the responsibility of being president	Appeal_to_Authority
+HC0_500.txt	14723	14782	one of the most qualified people ever to run for the office	Exaggeration,Minimisation
+HC0_500.txt	14848	14922	Our veterans and their families deserve a president who doesn't disrespect	Flag-Waving
+HC0_500.txt	15203	15271	Trump's own words are the best evidence he's not fit to be president	Doubt
+HC0_500.txt	15297	15315	Gold Star families	Repetition
+HC0_500.txt	16493	16533	We know all too well who Donald Trump is	Appeal_to_Authority
+HC0_500.txt	16535	16577	Let's make sure he never becomes president	Appeal_to_fear-prejudice
+HC0_500.txt	16884	16954	Donald Trump doesn't see people like Anastasia—he only sees disability	Causal_Oversimplification
+HC0_500.txt	17095	17126	Tell a girl to run - for office	Slogans
+HC0_500.txt	17200	17307	If the young women of this country have Donald Trump as their president, what will they think of themselves	Black-and-White_Fallacy
+HC0_500.txt	17481	17496	just blown away	Loaded_Language
+HC0_500.txt	17721	17752	"""Donald Trump committed perjury"	Doubt
+HC0_500.txt	17754	17829	"Or he looked into the faces of the Republican faithful and knowingly lied."""	Doubt
+HC0_500.txt	18062	18099	"Donald Trump would be a catastrophe."""	Appeal_to_fear-prejudice
+HC0_500.txt	18255	18264	Addiction	Appeal_to_fear-prejudice
+HC0_500.txt	18575	18591	"She's our girl."""	Slogans
+HC0_500.txt	18928	18956	Trump would be a catastrophe	Exaggeration,Minimisation
+HC0_500.txt	18983	19030	Is this the president we want for our daughters	Doubt
+HC0_500.txt	19056	19100	"""He's 70 years old, and he's still a bully."""	Thought-terminating_Cliches
+HC0_500.txt	19423	19499	Let's make sure nobody who works full-time in America has to live in poverty	Flag-Waving
+HC0_500.txt	19597	19654	America's interests—but they're great for his bottom line	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	19821	19933	The man who could be your next president may be deeply indebted to another country. Do you trust him to run ours	Doubt
+HC0_500.txt	19979	19986	bullies	Name_Calling,Labeling
+HC0_500.txt	20050	20115	"""Donald Trump doesn't see people like me, he only sees disability"	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	20191	20252	"""I think this is the most important election in my lifetime."""	Exaggeration,Minimisation
+HC0_500.txt	20658	20690	her most memorable interview yet	Exaggeration,Minimisation
+HC0_500.txt	20716	20801	Trump should have to answer exactly why he refuses to believe that @POTUS is American	Doubt
+HC0_500.txt	21455	21466	a president	Name_Calling,Labeling
+HC0_500.txt	21476	21497	the best in all of us	Exaggeration,Minimisation
+HC0_500.txt	22014	22073	We all win when everyone gets to share in America's promise	Black-and-White_Fallacy
+HC0_500.txt	23373	23505	When we leave people out or write them off, we not only shortchange them and their dreams, we shortchange our country and our future	Flag-Waving
+HC0_500.txt	23692	23700	violence	Loaded_Language
+HC0_500.txt	23838	23876	serve every day with courage and honor	Loaded_Language
+HC0_500.txt	23994	24045	It’s unbearable, and it needs to become intolerable	Appeal_to_fear-prejudice
+HC0_500.txt	24353	24368	Too many others	Thought-terminating_Cliches
+HC0_500.txt	24370	24389	This has got to end	Loaded_Language
+HC0_500.txt	25022	25044	“Battle of the Sexes.”	Slogans
+HC0_500.txt	25291	25415	Trump’s calls to torture and mistreat prisoners go against the very values we are fighting to defend. We’re better than this	Flag-Waving
+HC0_500.txt	25860	25886	This should be intolerable	Loaded_Language
+HC0_500.txt	25888	25914	We have so much work to do	Thought-terminating_Cliches
+HC0_500.txt	26048	26160	Trump cannot be trusted with his own charity, but we are supposed to believe he can manage the nation’s treasury	Doubt
+HC0_500.txt	26322	26377	"""The voice of your vote is the greatest voice we have."""	Slogans
+HC0_500.txt	26441	26493	"""No one has the right to immigrate to this country."""	Slogans
+HC0_500.txt	26643	26665	Hillary's biggest fans	Name_Calling,Labeling
+HC0_500.txt	26802	26888	Nobody in America should have to forgo a higher education because they can't afford it	Flag-Waving
+HC0_500.txt	27034	27115	America has never made progress by thinking one person alone can fix our problems	Flag-Waving
+HC0_500.txt	27204	27212	drowning	Loaded_Language
+HC0_500.txt	27530	27541	love trumps	Slogans
+HC0_500.txt	27868	27886	we will trump hate	Slogans
+HC0_500.txt	28021	28053	We have to stand up to this hate	Appeal_to_fear-prejudice
+HC0_500.txt	28090	28154	America is better than this. America is better than Donald Trump	Flag-Waving
+HC0_500.txt	28169	28294	a candidate with a history of discrimination in his businesses, who retweets white supremacists, and led the birther movement	Name_Calling,Labeling
+HC0_500.txt	28554	28584	No one gets through life alone	Thought-terminating_Cliches
+HC0_500.txt	28586	28620	We have to look out for each other	Slogans
+HC0_500.txt	28669	28718	"""No one will work harder to make your life better"	Exaggeration,Minimisation
+HC0_500.txt	28720	28766	"I’ll never stop, no matter how tough it gets."""	Thought-terminating_Cliches
+HC0_500.txt	28800	28893	When Americans get knocked down, we get right back up again. We refuse to quit—no matter what	Flag-Waving
+HC0_500.txt	28897	29044	That’s the spirit we need in this election. We have a Republican nominee for president who incites hatred and violence like we’ve never seen before	Appeal_to_fear-prejudice
+HC0_500.txt	29418	29422	tear	Loaded_Language
+HC0_500.txt	29507	29519	loose cannon	Name_Calling,Labeling
+HC0_500.txt	29551	29568	a reality TV show	Name_Calling,Labeling
+HC0_500.txt	29592	29610	birth certificates	Repetition
+HC0_500.txt	29614	29657	name-calling or stunts to get on cable news	Loaded_Language
+HC0_500.txt	29816	29824	the most	Exaggeration,Minimisation
+HC0_500.txt	30089	30109	“This threat is real	Appeal_to_fear-prejudice
+HC0_500.txt	30121	30132	our resolve	Flag-Waving
+HC0_500.txt	30134	30158	Americans will not cower	Flag-Waving
+HC0_500.txt	30160	30177	We will prevail.”	Slogans
+HC0_500.txt	30211	30347	Not only is @realDonaldTrump wrong on birtherism, his words and policies are bad for Americans alive now and our children yet to be born	Flag-Waving
+HC0_500.txt	30601	30714	“I’m the only candidate in this race who’s been part of the hard decisions to take terrorists off the battlefield	Exaggeration,Minimisation
+HC0_500.txt	30856	30875	"""Like all Americans"	Flag-Waving
+HC0_500.txt	30944	30965	our first responders”	Flag-Waving
+HC0_500.txt	31279	31372	"""We have got to do everything we can to make sure that Hillary Clinton is elected president."""	Appeal_to_fear-prejudice
+HC0_500.txt	31413	31421	Grateful	Loaded_Language
+HC0_500.txt	31426	31457	our brave men and women serving	Flag-Waving
+HC0_500.txt	31579	31582	Big	Name_Calling,Labeling
+HC0_500.txt	31626	31708	"""Progress is on the ballot. Tolerance is on the ballot. Democracy is on the ballot"	Slogans
+HC0_500.txt	31710	31736	"Justice is on the ballot."""	Black-and-White_Fallacy
+HC0_500.txt	32052	32065	life changing	Loaded_Language
+HC0_500.txt	32196	32206	ridiculous	Loaded_Language
+HC0_500.txt	32263	32279	strongly condemn	Loaded_Language
+HC0_500.txt	32655	32668	we trump hate	Loaded_Language
+HC0_500.txt	32732	32765	"We've got to get people to vote."""	Black-and-White_Fallacy
+HC0_500.txt	32823	32897	So what exactly is Donald Trump hiding from voters? Pretty much everything	Doubt
+HC0_500.txt	33479	33569	"We can’t let @POTUS's legacy fall into the hands of someone who doesn’t understand that. """	Appeal_to_fear-prejudice
+HC0_500.txt	34013	34047	On the backs of American taxpayers	Flag-Waving
+HC0_500.txt	34280	34307	made a spectacle of himself	Loaded_Language
+HC0_500.txt	34590	34661	Any of these examples proves that Donald Trump is unfit to be president	Doubt
+HC0_500.txt	34724	34738	every American	Flag-Waving
+HC0_500.txt	35097	35138	This election is too important to sit out	Exaggeration,Minimisation
+HC0_500.txt	35256	35283	terrible things he, himself	Name_Calling,Labeling
+HC0_500.txt	35523	35607	The brave men and women who have served our country deserve better than Donald Trump	Flag-Waving
+HC0_500.txt	35633	35711	126 things Donald Trump has said and done that should disqualify his candidacy	Doubt
+HC0_500.txt	35877	35941	Donald Trump has spent years peddling lies about President Obama	Doubt
+HC0_500.txt	35996	36088	Donald Trump spent five years lying about @POTUS's citizenship. He can’t just take that back	Doubt
+HC0_500.txt	36114	36232	"""We deserve a president…who believes that each of us is part of the American story, and we’re always stronger together"	Flag-Waving
+HC0_500.txt	36292	36366	a president who believes in science and will fight climate change—or not.”	Black-and-White_Fallacy
+HC0_500.txt	36705	36767	"""Elections aren't just about who votes, but who doesn't vote."""	Slogans
+HC0_500.txt	36835	36913	one of the most qualified people who has ever endeavored to become president.”	Exaggeration,Minimisation
+HC0_500.txt	37278	37312	going to take this job seriously.”	Exaggeration,Minimisation
+HC0_500.txt	37704	37719	Trump should do	Repetition
+HC0_500.txt	37721	37765	for once in his life, own up to his mistakes	Thought-terminating_Cliches
+HC0_500.txt	37767	37821	Apologize to the President, and to the American people	Flag-Waving
+HC0_500.txt	38006	38057	an ordinary reality TV star into a political figure	Name_Calling,Labeling
+HC0_500.txt	38119	38153	peddling a racist conspiracy aimed	Loaded_Language
+HC0_500.txt	38169	38205	the first African American president	Name_Calling,Labeling
+HC0_500.txt	38593	38598	he is	Doubt
+HC0_500.txt	38654	38673	Leading the birther	Name_Calling,Labeling
+HC0_500.txt	38686	38696	deplorable	Loaded_Language
+HC0_500.txt	38780	38787	asinine	Loaded_Language
+HC0_500.txt	38833	38859	a racist conspiracy theory	Name_Calling,Labeling
+HC0_500.txt	38933	38966	What Trump just did is a disgrace	Exaggeration,Minimisation
+HC0_500.txt	39030	39050	POTUS isn't American	Flag-Waving
+HC0_500.txt	39210	39253	Let’s build a future where love trumps hate	Slogans
+HC0_500.txt	39297	39319	cynicism, the bullying	Loaded_Language
+HC0_500.txt	39329	39346	divisive rhetoric	Loaded_Language
+HC0_500.txt	39505	39588	"""He looks at a Gold Star family and sees them as Muslims, not patriotic Americans.”"	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	39607	39709	"""Donald Trump looks at a distinguished judge born in Indiana, and he sees a Mexican, not an American.”"	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	39719	39756	Donald Trump is unfit to be president	Doubt
+HC0_500.txt	39829	39842	it won’t stop	Appeal_to_fear-prejudice
+HC0_500.txt	40156	40183	our first black president.”	Flag-Waving
+HC0_500.txt	40241	40306	The future of our children and grandchildren hangs in the balance	Exaggeration,Minimisation
+HC0_500.txt	40402	40460	a criminal justice system that actually delivers justice.”	Flag-Waving
+HC0_500.txt	40470	40540	“The American people deserve something to vote for, not just against.”	Flag-Waving
+HC0_500.txt	41033	41136	Trump, the Birther-in-Chief, still refuses to even release his own tax returns and real medical records	Doubt
+HC0_500.txt	41162	41267	"President Obama’s successor cannot and will not be the man who led the racist birther movement. Period. """	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	41454	41472	couldn't be higher	Exaggeration,Minimisation
+HC0_500.txt	41538	41634	Immigrants aren’t somehow changing the American character; immigrants are the American character	Flag-Waving
+HC0_500.txt	41766	41788	still refuses to admit	Repetition
+HC0_500.txt	41877	41920	the most divisive campaign of our lifetimes	Exaggeration,Minimisation
+HC0_500.txt	41973	41992	all out in the open	Loaded_Language
+HC0_500.txt	41998	42098	Donald Trump still refuses to say @POTUS was born in America. And this man wants to be our president	Doubt
+HC0_500.txt	42124	42132	ugliness	Loaded_Language
+HC0_500.txt	42304	42344	immigrants are not rapists and criminals	Name_Calling,Labeling
+HC0_500.txt	42504	42606	comprehensive immigration reform isn’t just the smart thing to do—it’s what the American people demand	Flag-Waving
+HC0_500.txt	43142	43170	“I believe with all my heart	Exaggeration,Minimisation
+HC0_500.txt	43176	43203	the American Dream is alive	Slogans
+HC0_500.txt	44041	44091	“This is why I do it and this is who I’m in it for	Appeal_to_Authority
+HC0_500.txt	44173	44207	"""My opponent has America all wrong"	Doubt
+HC0_500.txt	44209	44274	"There’s nothing we can’t do when we come together as one nation."""	Slogans
+HC0_500.txt	45487	45531	dream of changing our world for the better.”	Flag-Waving
+HC0_500.txt	45572	45610	if they get sick, they’re on their own	Black-and-White_Fallacy
+HC0_500.txt	45612	45629	There’s no backup	Thought-terminating_Cliches
+HC0_500.txt	46082	46093	"""disgrace."""	Name_Calling,Labeling
+HC0_500.txt	46114	46120	lashes	Loaded_Language
+HC0_500.txt	46363	46374	our country	Flag-Waving
+HC0_500.txt	46627	46646	deplorable campaign	Loaded_Language
+HC0_500.txt	46672	46679	bigoted	Name_Calling,Labeling
+HC0_500.txt	46698	46812	Trump's global web of financial and business ties would compromise our national security if he’s elected president	Appeal_to_fear-prejudice
+HC0_500.txt	46883	46944	a laundry list of things he's hiding from the American public	Flag-Waving
+HC0_500.txt	46970	46982	Proud of you	Slogans
+HC0_500.txt	47084	47152	When 40 million Americans are facing the same problem, it's a crisis	Appeal_to_fear-prejudice
+HC0_500.txt	47350	47423	Trump's always put his own profits above all—no matter who else gets hurt	Causal_Oversimplification
+HC0_500.txt	47425	47464	Why would that change if he's president	Doubt
+HC0_500.txt	47490	47554	This is the America I believe in-Beautiful. Multifaceted. Loving	Flag-Waving
+HC0_500.txt	47631	47722	How will Trump guarantee that he'll put America's security over his own financial interests	Doubt
+HC0_500.txt	47889	47919	Proud to have you on this team	Slogans
+HC0_500.txt	47997	48004	scammed	Loaded_Language
+HC0_500.txt	48929	48938	dangerous	Loaded_Language
+HC0_500.txt	49051	49129	Trump's spent his life unscrupulously looking out for his own wallet above all	Doubt
+HC0_500.txt	49179	49306	how will Trump guarantee that if forced to choose between America's security and his own bank account, he won't pick the latter	Doubt
+HC0_500.txt	50250	50322	how can you conduct foreign policy that puts the U.S. above your profits	Doubt
+HC0_500.txt	50336	50407	the Russian mob boss who ran a criminal organization out of Trump Tower	Name_Calling,Labeling
+HC0_500.txt	51001	51006	tough	Name_Calling,Labeling
+HC0_500.txt	51168	51198	a known terrorist and dictator	Name_Calling,Labeling
+HC0_500.txt	51377	51387	bad actors	Name_Calling,Labeling
+HC0_500.txt	51818	51912	"""Almost every foreign policy decision [Trump] makes will raise serious conflicts of interest."""	Exaggeration,Minimisation
+HC0_500.txt	52080	52179	Trump Organization business would place national security at risk, even undermining the war on ISIS	Appeal_to_fear-prejudice
+HC0_500.txt	52229	52294	Trump's foreign ties could upend U.S. national security interests	Appeal_to_fear-prejudice
+HC0_500.txt	52560	52632	"""If you're serious about our democracy, then you've got to be with her."""	Flag-Waving
+HC0_500.txt	53287	53314	Investigation never happens	Doubt
+HC0_500.txt	53407	53425	normalizing racism	Appeal_to_fear-prejudice
+HC0_500.txt	53436	53446	deplorable	Loaded_Language
+HC0_500.txt	53649	53674	Our work isn't done until	Flag-Waving
+HC0_500.txt	53855	53889	"""Donald Trump says stuff every day"	Thought-terminating_Cliches
+HC0_500.txt	53988	54049	"""America is not about ‘yes, he will.' It's about ‘yes, we can"	Flag-Waving
+HC0_500.txt	54265	54291	This is serious business.”	Loaded_Language
+HC0_500.txt	54300	54341	"""We cannot take this election for granted"	Appeal_to_Authority
+HC0_500.txt	54343	54378	We’ve got to fight for this thing.”	Appeal_to_fear-prejudice
+HC0_500.txt	54428	54439	love trumps	Slogans
+HC0_500.txt	54466	54558	"""If you want higher wages, better benefits...then you should be voting for Hillary Clinton."""	Black-and-White_Fallacy
+HC0_500.txt	54635	54652	Don’t boo, vote!”	Slogans
+HC0_500.txt	54686	54796	"""I believe there has never been a man or woman more qualified than Hillary Clinton to serve as our president."""	Exaggeration,Minimisation
+HC0_500.txt	54863	54876	blast through	Loaded_Language
+HC0_500.txt	55430	55453	"""I could not be prouder"	Exaggeration,Minimisation
+HC0_500.txt	55653	55724	Every woman in this country deserves to be free from harm and from fear	Flag-Waving
+HC0_500.txt	56064	56150	"""It just seems that the economy does better under the Democrats than the Republicans."""	Causal_Oversimplification
+HC0_500.txt	56579	56617	Discrimination has no place in America	Slogans
+HC0_500.txt	56633	56708	"""you can't lead this nation if you have such a low opinion for its citizens"	Flag-Waving
+HC0_500.txt	56977	56984	attacks	Loaded_Language
+HC0_500.txt	57065	57075	incredibly	Loaded_Language
+HC0_500.txt	57088	57137	Why isn’t Donald Trump talking about these issues	Doubt
+HC0_500.txt	58170	58183	crushing them	Loaded_Language
+HC0_500.txt	58235	58308	Your student debt collector would really like you not to vote for Hillary	Whataboutism,Straw_Men,Red_Herring
+HC0_500.txt	58474	58554	If you won’t say the KKK is deplorable, you have no business running the country	Black-and-White_Fallacy
+HC0_500.txt	58580	58657	"""You can't lead this nation if you have such a low opinion for its citizens."""	Flag-Waving
+HC0_500.txt	59693	59756	has left the basis of facts and veered into dangerous territory	Loaded_Language
+HC0_500.txt	60065	60071	horror	Loaded_Language
+HC0_500.txt	60449	60459	"""The story"	Thought-terminating_Cliches
+HC0_500.txt	60464	60494	vastly exceeded the boundaries	Loaded_Language
+HC0_500.txt	60723	60801	If he becomes president, Donald Trump would have the U.S. economy in his hands	Black-and-White_Fallacy
+HC0_500.txt	60980	61011	If Donald Trump wins, kids lose	Black-and-White_Fallacy
+HC1000_1500.txt	29	51	couldn't be more stark	Exaggeration,Minimisation
+HC1000_1500.txt	216	230	Trump Loophole	Loaded_Language
+HC1000_1500.txt	233	285	his backdoor tax break for billionaires like himself	Name_Calling,Labeling
+HC1000_1500.txt	331	364	Let’s go out and build the future	Slogans
+HC1000_1500.txt	1092	1154	big corporations, millionaires, and Wall Street money managers	Name_Calling,Labeling
+HC1000_1500.txt	1462	1486	make America great again	Slogans
+HC1000_1500.txt	1489	1526	Actually make great things in America	Flag-Waving
+HC1000_1500.txt	1630	1657	cowering in the locker room	Loaded_Language
+HC1000_1500.txt	1703	1718	talk a big game	Loaded_Language
+HC1000_1500.txt	1777	1833	"fear that we can’t compete with the rest of the world. """	Appeal_to_fear-prejudice
+HC1000_1500.txt	1919	1927	American	Repetition
+HC1000_1500.txt	2570	2635	Donald Trump has spent his whole career stiffing small businesses	Whataboutism,Straw_Men,Red_Herring
+HC1000_1500.txt	2698	2718	“Make it in America”	Slogans
+HC1000_1500.txt	2791	2918	"""Some country is going to be the clean energy superpower of the 21st century and create millions of jobs...I want it to be us."""	Flag-Waving
+HC1000_1500.txt	3072	3077	stark	Loaded_Language
+HC1000_1500.txt	3136	3150	Every American	Flag-Waving
+HC1000_1500.txt	3321	3374	There’s nothing America can’t do if we do it together	Flag-Waving
+HC1000_1500.txt	3461	3513	He’s missing so much about what makes Michigan great	Doubt
+HC1000_1500.txt	3621	3660	Anyone willing to sink so low, so often	Exaggeration,Minimisation
+HC1000_1500.txt	3701	3719	Commander-in-Chief	Name_Calling,Labeling
+HC1000_1500.txt	3859	3864	smear	Loaded_Language
+HC1000_1500.txt	3941	3953	Donald Trump	Repetition
+HC1000_1500.txt	4041	4062	Unlike Donald Trump's	Whataboutism,Straw_Men,Red_Herring
+HC1000_1500.txt	4372	4424	"Who benefits from Donald Trump's ""new"" economic plan"	Doubt
+HC1000_1500.txt	4426	4455	Rich people like Donald Trump	Name_Calling,Labeling
+HC1000_1500.txt	5241	5259	That has to change	Black-and-White_Fallacy
+HC1000_1500.txt	5682	5781	Donald Trump has spent his career stiffing small businesses, refusing to pay them what they’re owed	Whataboutism,Straw_Men,Red_Herring
+HC1000_1500.txt	5944	5991	the clean energy superpower of the 21st Century	Name_Calling,Labeling
+HC1000_1500.txt	6781	6804	might astound Americans	Loaded_Language
+HC1000_1500.txt	7188	7230	There is no other Donald Trump. This is it	Repetition
+HC1000_1500.txt	7430	7438	bad deal	Loaded_Language
+HC1000_1500.txt	7466	7473	big tax	Loaded_Language
+HC1000_1500.txt	7528	7535	trickle	Name_Calling,Labeling
+HC1000_1500.txt	7556	7569	big giveaways	Loaded_Language
+HC1000_1500.txt	7829	7887	“would be the most reckless president in American history”	Exaggeration,Minimisation
+HC1000_1500.txt	8197	8332	realDonaldTrump's econ plan was written by rich corporate insider advisors to make the economy even greater for rich corporate insiders	Doubt
+HC1000_1500.txt	8539	8547	We can’t	Repetition
+HC1000_1500.txt	8574	8669	Donald Trump is not only putting our national security at risk—he’s putting our economy at risk	Flag-Waving
+HC1000_1500.txt	8800	8933	Donald Trump's plan is just a repackaging of trickle-down economics—and it doesn’t help our economy or the vast majority of Americans	Appeal_to_Authority
+HC1000_1500.txt	8965	8980	climate deniers	Name_Calling,Labeling
+HC1000_1500.txt	9372	9401	"""tremendous business success"""	Loaded_Language
+HC1000_1500.txt	9509	9520	hardworking	Name_Calling,Labeling
+HC1000_1500.txt	9570	9583	Creating jobs	Black-and-White_Fallacy
+HC1000_1500.txt	9586	9608	it's what Democrats do	Whataboutism,Straw_Men,Red_Herring
+HC1000_1500.txt	9709	9727	massive income and	Exaggeration,Minimisation
+HC1000_1500.txt	9747	9759	it is absurd	Loaded_Language
+HC1000_1500.txt	9805	9876	"""Clinton’s economic policies...will result in a stronger U.S. economy.”"	Black-and-White_Fallacy
+HC1000_1500.txt	9990	10000	despicable	Loaded_Language
+HC1000_1500.txt	10002	10036	We have to stand up against terror	Slogans
+HC1000_1500.txt	10915	10919	cozy	Loaded_Language
+HC1000_1500.txt	11395	11438	America's unending gratitude and admiration	Exaggeration,Minimisation
+HC1000_1500.txt	11482	11514	no good, horrible, very bad week	Loaded_Language
+HC1000_1500.txt	11629	11638	Good luck	Loaded_Language
+HC1000_1500.txt	11958	12043	"""She will deliver on the most important duty of a president—keeping our nation safe."""	Flag-Waving
+HC1000_1500.txt	12186	12203	Good luck, Simone	Thought-terminating_Cliches
+HC1000_1500.txt	12367	12382	So proud of you	Repetition
+HC1000_1500.txt	12474	12480	dismal	Loaded_Language
+HC1000_1500.txt	12521	12552	Trump should never be president	Black-and-White_Fallacy
+HC1000_1500.txt	12604	12653	Seriously, what is going on with Trump and Russia	Doubt
+HC1000_1500.txt	12798	12848	The right to vote is at the heart of our democracy	Flag-Waving
+HC1000_1500.txt	12854	12878	a weakened VRA threatens	Appeal_to_fear-prejudice
+HC1000_1500.txt	12994	13042	the “starkest political choice in living memory”	Exaggeration,Minimisation
+HC1000_1500.txt	13068	13131	Why do Trump’s foreign policy ideas read like a Putin wish list	Doubt
+HC1000_1500.txt	13501	13577	America is stronger when we expand access to the ballot box, not restrict it	Flag-Waving
+HC1000_1500.txt	13924	13936	U.S.A! U.S.A	Slogans
+HC1000_1500.txt	14076	14164	"""We have never had a candidate that was more qualified to take the office of president."""	Exaggeration,Minimisation
+HC1000_1500.txt	14267	14315	how much @HillaryClinton cares about our country	Flag-Waving
+HC1000_1500.txt	14409	14421	"""the devil,"""	Name_Calling,Labeling
+HC1000_1500.txt	14439	14450	crying baby	Name_Calling,Labeling
+HC1000_1500.txt	15100	15200	“I believe with all my heart that America is better than this. America is better than Donald Trump.”	Flag-Waving
+HC1000_1500.txt	15364	15405	the most shameful chapters of our history	Exaggeration,Minimisation
+HC1000_1500.txt	15423	15458	the ugliest impulses of our society	Exaggeration,Minimisation
+HC1000_1500.txt	16045	16145	"""Trump is not only unqualified for the job, but he may well pose a threat to our national security."""	Appeal_to_fear-prejudice
+HC1000_1500.txt	16376	16387	Magnificent	Name_Calling,Labeling
+HC1000_1500.txt	16755	16773	It takes a village	Repetition
+HC1000_1500.txt	17611	17714	Donald Trump is not qualified to be president, and he is temperamentally unfit to be Commander-in-Chief	Doubt
+HC1000_1500.txt	18162	18179	our economy needs	Flag-Waving
+HC1000_1500.txt	18468	18524	the most productive and competitive workers in the world	Exaggeration,Minimisation
+HC1000_1500.txt	18976	18995	no doubt in my mind	Thought-terminating_Cliches
+HC1000_1500.txt	19001	19065	Donald Trump is unqualified and unfit to be Commander-in-Chief.”	Doubt
+HC1000_1500.txt	19102	19113	pessimistic	Loaded_Language
+HC1000_1500.txt	19131	19153	That is not who we are	Flag-Waving
+HC1000_1500.txt	19444	19455	"""I love war"	Slogans
+HC1000_1500.txt	19675	19687	You're fired	Slogans
+HC1000_1500.txt	19844	19949	"If Trump is serious about ""making America great again,"" he should start by making his products in America"	Flag-Waving
+HC1000_1500.txt	20006	20016	"terrible."""	Loaded_Language
+HC1000_1500.txt	20024	20037	"""I love war."""	Slogans
+HC1000_1500.txt	20725	20729	Gold	Name_Calling,Labeling
+HC1000_1500.txt	20756	20769	kicked a baby	Loaded_Language
+HC1000_1500.txt	20789	20815	Virginia is not for haters	Slogans
+HC1000_1500.txt	21139	21145	"""unfit"	Name_Calling,Labeling
+HC1000_1500.txt	21217	21275	This from a man who says he’s “sacrificed” for our country	Whataboutism,Straw_Men,Red_Herring
+HC1000_1500.txt	21356	21394	filled with diversity, love &amp; hope	Loaded_Language
+HC1000_1500.txt	21481	21517	will make you proud to be a Democrat	Flag-Waving
+HC1000_1500.txt	22458	22469	our country	Flag-Waving
+HC1000_1500.txt	22489	22496	scammed	Loaded_Language
+HC1000_1500.txt	22863	22951	"""No one—no one—has given more for our freedom and security than our Gold Star families."""	Exaggeration,Minimisation
+HC1000_1500.txt	23181	23197	America is about	Flag-Waving
+HC1000_1500.txt	23498	23507	Gold Star	Repetition
+HC1000_1500.txt	23587	23612	Your courage is inspiring	Exaggeration,Minimisation
+HC1000_1500.txt	24091	24109	a Gold Star mother	Name_Calling,Labeling
+HC1000_1500.txt	24351	24367	denigrates their	Loaded_Language
+HC1000_1500.txt	24685	24702	Gold Star parents	Repetition
+HC1000_1500.txt	24791	24810	A night to remember	Loaded_Language
+HC1000_1500.txt	24836	24891	The American people have always made this country great	Flag-Waving
+HC1000_1500.txt	24955	24974	the best of America	Flag-Waving
+HC1000_1500.txt	24980	24994	we salute them	Slogans
+HC1000_1500.txt	25108	25144	That really should go without saying	Thought-terminating_Cliches
+HC1000_1500.txt	25176	25203	"""make America great again."""	Slogans
+HC1000_1500.txt	25423	25427	zero	Loaded_Language
+HC1000_1500.txt	25889	25929	the most productive workers in the world	Exaggeration,Minimisation
+HC1000_1500.txt	26028	26047	incredibly grateful	Loaded_Language
+HC1000_1500.txt	26231	26241	Incredibly	Loaded_Language
+HC1000_1500.txt	27118	27165	has painted a dark, divisive picture of America	Flag-Waving
+HC1000_1500.txt	27590	27621	embodied the best of our values	Exaggeration,Minimisation
+HC1000_1500.txt	27756	27837	every time we knock down a barrier in America, it liberates everyone in America.”	Flag-Waving
+HC1000_1500.txt	28142	28216	"So what better place to kick off this campaign than where it all started?"""	Thought-terminating_Cliches
+HC1000_1500.txt	28533	28578	Do all the good you can and serve one another	Thought-terminating_Cliches
+HC1000_1500.txt	28580	28614	That's what this election is about	Causal_Oversimplification
+HC1000_1500.txt	28640	28693	"""Let’s look to the future with courage and confidence"	Slogans
+HC1000_1500.txt	28696	28752	"Let’s build a better tomorrow for our beloved children."""	Slogans
+HC1000_1500.txt	28777	28811	The next president—and her husband	Name_Calling,Labeling
+HC1000_1500.txt	29066	29108	In America, we’re always stronger together	Slogans
+HC1000_1500.txt	29134	29172	"""Yes, the world is watching what we do"	Exaggeration,Minimisation
+HC1000_1500.txt	29174	29214	Yes, America's destiny is ours to choose	Flag-Waving
+HC1000_1500.txt	29246	29267	"my fellow Americans!"""	Flag-Waving
+HC1000_1500.txt	29497	29506	"bullies."""	Name_Calling,Labeling
+HC1000_1500.txt	29548	29581	Every generation of Americans has	Flag-Waving
+HC1000_1500.txt	29596	29643	to make our country freer, fairer, and stronger	Flag-Waving
+HC1000_1500.txt	29645	29673	None of us…can do it alone.”	Thought-terminating_Cliches
+HC1000_1500.txt	29683	29719	“Enough with the bigotry and bombast	Loaded_Language
+HC1000_1500.txt	29721	29792	Donald Trump's not offering real change, he’s offering empty promises.”	Doubt
+HC1000_1500.txt	29825	29855	There is no other Donald Trump	Repetition
+HC1000_1500.txt	29857	29869	This is it.”	Thought-terminating_Cliches
+HC1000_1500.txt	30045	30053	we can't	Repetition
+HC1000_1500.txt	30079	30123	We have to heal the divides in our country.”	Flag-Waving
+HC1000_1500.txt	30250	30286	"""I'm not here to take away your guns"	Slogans
+HC1000_1500.txt	30288	30377	I just don't want you to be shot by someone who shouldn't have a gun in the first place.”	Appeal_to_fear-prejudice
+HC1000_1500.txt	30387	30516	"""If we’re serious about keeping our country safe, we also can’t afford to have a president who’s in the pocket of the gun lobby."""	Flag-Waving
+HC1000_1500.txt	30526	30607	"""A man you can bait with a tweet is not a man we can trust with nuclear weapons."""	Black-and-White_Fallacy
+HC1000_1500.txt	30617	30696	"""Donald Trump can't even handle the rough-and-tumble of a presidential campaign"	Exaggeration,Minimisation
+HC1000_1500.txt	30753	30842	"""A president should respect the men and women who risk their lives to serve our country."""	Flag-Waving
+HC1000_1500.txt	31107	31202	"""Keeping our nation safe and honoring the people who do that work will be my highest priority.”"	Flag-Waving
+HC1000_1500.txt	31212	31333	"""Donald Trump says he wants to make America great again—well, he could start by actually making things in America again."""	Flag-Waving
+HC1000_1500.txt	31529	31546	Don’t boo, vote!”	Slogans
+HC1000_1500.txt	31722	31822	"""If you believe that every man, woman &amp; child in America has the right to affordable health care"	Flag-Waving
+HC1000_1500.txt	31867	31972	"""If fighting for affordable child care and paid family leave is playing the woman card, then deal me in!”"	Black-and-White_Fallacy
+HC1000_1500.txt	32006	32059	“Way too many dreams die in the parking lots of banks	Appeal_to_fear-prejudice
+HC1000_1500.txt	32061	32123	In America, if you can dream it, you should be able to do it.”	Flag-Waving
+HC1000_1500.txt	32659	32670	our economy	Flag-Waving
+HC1000_1500.txt	32741	32879	"""When we have millions of hardworking immigrants contributing to our economy, it would be self-defeating and inhumane to kick them out."" """	Appeal_to_fear-prejudice
+HC1000_1500.txt	32938	32948	our planet	Flag-Waving
+HC1000_1500.txt	33301	33416	"""I believe that our economy isn't working the way it should because our democracy isn't working the way it should."""	Causal_Oversimplification
+HC1000_1500.txt	33704	33753	"when there are no ceilings, the sky’s the limit."""	Black-and-White_Fallacy
+HC1000_1500.txt	33970	34037	"the struggling, the striving and the successful…for all Americans."""	Flag-Waving
+HC1000_1500.txt	34152	34169	"It’s a big deal."""	Thought-terminating_Cliches
+HC1000_1500.txt	34170	34198	"""Simply caring is not enough"	Black-and-White_Fallacy
+HC1000_1500.txt	34200	34265	"To drive real progress, you have to change both hearts and laws."""	Black-and-White_Fallacy
+HC1000_1500.txt	34275	34287	"""No one gets"	Exaggeration,Minimisation
+HC1000_1500.txt	34606	34727	"with humility, determination, and boundless confidence in America’s promise that I accept your nomination for president!"""	Flag-Waving
+HC1000_1500.txt	34739	34756	Stronger Together	Slogans
+HC1000_1500.txt	34824	34859	"for the country we’ve always been."""	Flag-Waving
+HC1000_1500.txt	35209	35269	Don’t let anyone tell you that our country is weak—we’re not	Flag-Waving
+HC1000_1500.txt	35342	35390	the most dynamic and diverse people in the world	Exaggeration,Minimisation
+HC1000_1500.txt	35516	35529	all Americans	Repetition
+HC1000_1500.txt	35534	35544	our allies	Flag-Waving
+HC1000_1500.txt	36008	36086	"He wants to divide us...He wants us to fear the future and fear each other."" “"	Appeal_to_fear-prejudice
+HC1000_1500.txt	36263	36362	“@BernieSanders, you’ve put economic and social justice issues front and center where they belong.”	Appeal_to_Authority
+HC1000_1500.txt	36557	36603	your campaign inspired millions of Americans.”	Exaggeration,Minimisation
+HC1000_1500.txt	36682	36740	"he'll make the whole country proud as our vice president."""	Flag-Waving
+HC1000_1500.txt	36785	36803	from his big heart	Loaded_Language
+HC1000_1500.txt	36886	36946	"""America is stronger because of President Obama's leadership"	Flag-Waving
+HC1000_1500.txt	37269	37277	so proud	Repetition
+HC1000_1500.txt	37402	37431	always, always there for me.”	Exaggeration,Minimisation
+HC1000_1500.txt	37496	37508	so, so proud	Repetition
+HC1000_1500.txt	37574	37623	a woman…who knows women’s rights are human rights	Name_Calling,Labeling
+HC1000_1500.txt	37706	37724	How does she do it	Doubt
+HC1000_1500.txt	37738	37799	It’s because she never, ever forgets who she’s fighting for.”	Causal_Oversimplification
+HC1000_1500.txt	37957	37965	So proud	Repetition
+HC1000_1500.txt	38004	38054	a proud American, a proud Democrat, a proud mother	Name_Calling,Labeling
+HC1000_1500.txt	38084	38113	a very, very proud daughter.”	Name_Calling,Labeling
+HC1000_1500.txt	38732	38792	"""When Flint's water poisons its children, it hurts all of us"	Appeal_to_fear-prejudice
+HC1000_1500.txt	38794	38818	"These are our children."""	Flag-Waving
+HC1000_1500.txt	38857	38883	A night we'll never forget	Exaggeration,Minimisation
+HC1000_1500.txt	38909	38938	"""That's a bunch of malarkey!"""	Thought-terminating_Cliches
+HC1000_1500.txt	39203	39220	the #DemsInPhilly	Repetition
+HC1000_1500.txt	39326	39364	one of the toughest tests of my life.”	Exaggeration,Minimisation
+HC1000_1500.txt	39412	39481	You better listen to @RepCleaver — @HillaryClinton won't stay throwed	Appeal_to_fear-prejudice
+HC1000_1500.txt	39484	39496	DemsInPhilly	Repetition
+HC1000_1500.txt	39803	39823	the honor of my life	Exaggeration,Minimisation
+HC1000_1500.txt	40053	40085	"""No matter how daunting the odds"	Exaggeration,Minimisation
+HC1000_1500.txt	40087	40134	no matter how much people try to knock her down	Exaggeration,Minimisation
+HC1000_1500.txt	40136	40159	"she never, ever quits."""	Repetition
+HC1000_1500.txt	40260	40272	DemsInPhilly	Repetition
+HC1000_1500.txt	40376	40432	"""I ask you to do for Hillary Clinton what you did for me"	Slogans
+HC1000_1500.txt	40628	40651	this incredible journey	Exaggeration,Minimisation
+HC1000_1500.txt	40674	40714	"God bless the United States of America!"""	Slogans
+HC1000_1500.txt	41325	41359	“Democracy isn’t a spectator sport	Slogans
+HC1000_1500.txt	41361	41393	America isn’t about 'yes he will	Flag-Waving
+HC1000_1500.txt	41545	41643	"""There has never been a man or a woman more qualified than Hillary Clinton to serve as president."""	Exaggeration,Minimisation
+HC1000_1500.txt	41676	41807	"""We all need to get out and vote for Democrats up and down the ticket, and then hold them accountable until they get the job done.”"	Appeal_to_fear-prejudice
+HC1000_1500.txt	41816	41832	"""Democracy works"	Slogans
+HC1000_1500.txt	41936	41996	“The American Dream is something no wall will ever contain.”	Flag-Waving
+HC1000_1500.txt	42131	42197	"""America has never been about what one person says he’ll do for us"	Flag-Waving
+HC1000_1500.txt	42269	42287	"""That’s who we are"	Slogans
+HC1000_1500.txt	42289	42310	That’s our birthright	Flag-Waving
+HC1000_1500.txt	42391	42415	a shining city on a hill	Name_Calling,Labeling
+HC1000_1500.txt	42497	42633	"""America is already great. America is already strong &amp; I promise you, our strength, our greatness, does not depend on Donald Trump.”"	Flag-Waving
+HC1000_1500.txt	42673	42685	our military	Flag-Waving
+HC1000_1500.txt	42688	42696	disaster	Loaded_Language
+HC1000_1500.txt	42709	42726	America is weak.”	Flag-Waving
+HC1000_1500.txt	42827	42873	Hillary won’t relent until ISIL is destroyed.”	Appeal_to_fear-prejudice
+HC1000_1500.txt	43018	43078	He’s not really a plans guy, not really a facts guy either.”	Doubt
+HC1000_1500.txt	43087	43105	"""Don't boo, vote!”"	Slogans
+HC1000_1500.txt	43271	43401	“There has never been a man or a woman more qualified than Hillary Clinton to serve as president of the United States of America.”	Exaggeration,Minimisation
+HC1000_1500.txt	43425	43442	daunting the odds	Loaded_Language
+HC1000_1500.txt	43493	43516	"She never, ever quits."""	Repetition
+HC1000_1500.txt	43858	43871	Ginger Rogers	Name_Calling,Labeling
+HC1000_1500.txt	44063	44075	Americans of	Repetition
+HC1000_1500.txt	44136	44162	we are stronger together.”	Slogans
+HC1000_1500.txt	44246	44274	what is right with America.”	Flag-Waving
+HC1000_1500.txt	44425	44450	deeply pessimistic vision	Loaded_Language
+HC1000_1500.txt	44454	44498	a country where we turn against each other.”	Flag-Waving
+HC1000_1500.txt	44793	44900	“We still have more work to do. More work to do for every American still in need of a good job or a raise.”	Flag-Waving
+HC1000_1500.txt	45729	45750	Fired up, ready to go	Loaded_Language
+HC1000_1500.txt	45776	45793	"""Hillary is ready"	Thought-terminating_Cliches
+HC1000_1500.txt	45795	45823	Ready to fight. Ready to win	Slogans
+HC1000_1500.txt	45825	45840	"Ready to lead."""	Slogans
+HC1000_1500.txt	45876	45952	"""Folks, you cannot believe one word that comes out of Donald Trump's mouth.”"	Exaggeration,Minimisation
+HC1000_1500.txt	46120	46249	"""We better elect the candidate who's proven she can be trusted with the job. The candidate who’s proven she’s ready for the job."""	Flag-Waving
+HC1000_1500.txt	46255	46331	"""Folks, you cannot believe one word that comes out of Donald Trump's mouth."""	Exaggeration,Minimisation
+HC1000_1500.txt	46505	46536	Donald Trump has a passion, too	Loaded_Language
+HC1000_1500.txt	46539	46553	"It's himself!"""	Thought-terminating_Cliches
+HC1000_1500.txt	46810	46860	how fantastic a senator that Hillary Clinton was.”	Exaggeration,Minimisation
+HC1000_1500.txt	47403	47416	humbly accept	Loaded_Language
+HC1000_1500.txt	47565	47583	wonderful children	Name_Calling,Labeling
+HC1000_1500.txt	47639	47695	"""The richest thing about Donald Trump is his hypocrisy."""	Exaggeration,Minimisation
+HC1000_1500.txt	47856	47945	"Trump is a risky, reckless, and radical choice, and we can't afford to make that choice."""	Appeal_to_fear-prejudice
+HC1000_1500.txt	48030	48041	God help us	Slogans
+HC1000_1500.txt	48098	48136	"a problem solver, not a bomb thrower."""	Name_Calling,Labeling
+HC1000_1500.txt	48320	48343	"a dangerous demagogue."""	Name_Calling,Labeling
+HC1000_1500.txt	48387	48492	"""I believe it is an imperative that we elect Hillary Clinton as the next President of the United States.”"	Flag-Waving
+HC1000_1500.txt	48510	48597	"He says he cares about the middle class? Give me a break.  That’s a bunch of malarkey!"""	Doubt
+HC1000_1500.txt	48759	48874	“A man who seeks to sow division in America for his own gain…we simply cannot let that happen as Americans—period.”	Flag-Waving
+HC1000_1500.txt	48895	49019	"""No major party nominee in the history of this nation has known less or been less prepared to deal with...national security"""	Exaggeration,Minimisation
+HC1000_1500.txt	49036	49133	"Trump ""doesn’t have a clue about the middle class… “He has no clue about what makes America great"	Flag-Waving
+HC1000_1500.txt	49178	49234	He says he cares about the middle class? Give me a break	Doubt
+HC1000_1500.txt	49238	49266	"That’s a bunch of malarkey."""	Thought-terminating_Cliches
+HC1000_1500.txt	49299	49314	lack of empathy	Loaded_Language
+HC1000_1500.txt	49361	49400	he’s proud he made famous—'you’re fired	Loaded_Language
+HC1000_1500.txt	49993	50013	you are incredible.”	Exaggeration,Minimisation
+HC1000_1500.txt	50405	50437	What the world needs now is love	Exaggeration,Minimisation
+HC1000_1500.txt	50847	50876	Let's go elect some Democrats	Slogans
+HC1000_1500.txt	50963	50980	Madam President.”	Name_Calling,Labeling
+HC1000_1500.txt	51021	51076	"""In the White House, she will stand up to the gun lobby"	Black-and-White_Fallacy
+HC1000_1500.txt	51078	51113	That’s why I'm voting for Hillary!”	Thought-terminating_Cliches
+HC1000_1500.txt	51197	51209	Strong women	Slogans
+HC1000_1500.txt	51244	51336	"""As president, she will do what is right for our nation, not what is politically expedient.”"	Flag-Waving
+HC1000_1500.txt	51644	51693	too many politicians cower behind the gun lobby.”	Loaded_Language
+HC1000_1500.txt	51826	51888	We have had #enough of the unrelenting gun violence in America	Flag-Waving
+HC1000_1500.txt	51890	51930	It's time for us to fight back, together	Flag-Waving
+HC1000_1500.txt	52150	52171	horrifying trajectory	Loaded_Language
+HC1000_1500.txt	52175	52215	cascading massacres…We can change this.”	Loaded_Language
+HC1000_1500.txt	52487	52500	all Americans	Repetition
+HC1000_1500.txt	52574	52613	"""Trump says global warming is a hoax.⁰⁰"	Exaggeration,Minimisation
+HC1000_1500.txt	52621	52639	Trump is a fraud.”	Name_Calling,Labeling
+HC1000_1500.txt	52817	52831	DemsInPhilly “	Slogans
+HC1000_1500.txt	52843	52868	talks and talks and talks	Loaded_Language
+HC1000_1500.txt	52975	52990	a bully, racist	Name_Calling,Labeling
+HC1000_1500.txt	53008	53021	a tough woman	Name_Calling,Labeling
+HC1000_1500.txt	53116	53158	"Hillary Clinton is as tough as they come."""	Exaggeration,Minimisation
+HC1000_1500.txt	53263	53272	our first	Flag-Waving
+HC1000_1500.txt	53413	53425	DemsinPhilly	Repetition
+HC1000_1500.txt	53460	53527	"""Republicans want to tear down the pillars of middle-class security"	Slogans
+HC1000_1500.txt	53529	53555	"We won’t let that happen!"""	Black-and-White_Fallacy
+HC1000_1500.txt	53799	53857	"Once that barrier falls, it will never... be put back up."""	Black-and-White_Fallacy
+HC1000_1500.txt	53946	53955	"immoral."""	Loaded_Language
+HC1000_1500.txt	54150	54191	the best darn changemaker I've ever known	Exaggeration,Minimisation
+HC1000_1500.txt	54379	54396	lifelong devotion	Loaded_Language
+HC1000_1500.txt	54400	54423	"our nation's children."""	Flag-Waving
+HC1000_1500.txt	54476	54497	the biggest crack yet	Exaggeration,Minimisation
+HC1000_1500.txt	54601	54647	the best darn change maker I have ever known.”	Exaggeration,Minimisation
+HC1000_1500.txt	54830	54869	"""Hillary will make us stronger together"	Slogans
+HC1000_1500.txt	54871	54924	"You know it because she’s spent a lifetime doing it."""	Appeal_to_Authority
+HC1000_1500.txt	55444	55482	You're the one who brought the hot air	Doubt
+HC1000_1500.txt	55508	55520	History made	Repetition
+HC1000_1500.txt	55592	55622	"never buckles under pressure."""	Loaded_Language
+HC1000_1500.txt	55675	55724	put the biggest crack in that glass ceiling yet.”	Loaded_Language
+HC1000_1500.txt	55783	55792	our first	Flag-Waving
+HC1000_1500.txt	55815	55846	"she will be a great president."""	Thought-terminating_Cliches
+HC1000_1500.txt	56148	56193	the best darn changemaker I have ever known.”	Exaggeration,Minimisation
+HC1000_1500.txt	56265	56300	the picture the Republicans painted	Doubt
+HC1000_1500.txt	56304	56331	their opponent in Cleveland	Name_Calling,Labeling
+HC1000_1500.txt	56333	56344	"You can’t."""	Loaded_Language
+HC1000_1500.txt	56780	56812	another outsider, Robert Kennedy	Name_Calling,Labeling
+HC1000_1500.txt	56878	56898	“She’s a changemaker	Thought-terminating_Cliches
+HC1000_1500.txt	56900	56922	That’s what she does.”	Thought-terminating_Cliches
+HC1000_1500.txt	57149	57167	insatiably curious	Loaded_Language
+HC1000_1500.txt	57221	57264	she’s the best darn changemaker I’ve seen.”	Exaggeration,Minimisation
+HC1000_1500.txt	57297	57327	we elected the wrong Clinton.”	Whataboutism,Straw_Men,Red_Herring
+HC1000_1500.txt	57419	57433	opened my eyes	Loaded_Language
+HC1000_1500.txt	57521	57551	the greatest moment of my life	Exaggeration,Minimisation
+HC1000_1500.txt	57596	57625	the best mother in the world”	Exaggeration,Minimisation
+HC1000_1500.txt	57899	57904	never	Loaded_Language
+HC1000_1500.txt	58279	58310	one of Hillary’s greatest gifts	Exaggeration,Minimisation

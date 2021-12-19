@@ -1,0 +1,175 @@
+article_id	span_start	span_end	span	context	label
+DT3000_3500.txt	21	40	failing publication	Name_Calling,Labeling
+DT3000_3500.txt	136	139	Sad	Loaded_Language
+DT3000_3500.txt	175	196	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	232	313	Why does @Greta have a fired Bushy like dummy, John Sununu on- spewing false info	Doubt
+DT3000_3500.txt	385	406	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	538	553	Thank you, Iowa	Thought-terminating_Cliches
+DT3000_3500.txt	645	666	a totally special guy	Name_Calling,Labeling
+DT3000_3500.txt	726	734	disaster	Repetition
+DT3000_3500.txt	764	784	Low energy candidate	Name_Calling,Labeling
+DT3000_3500.txt	876	903	He should go home and relax	Thought-terminating_Cliches
+DT3000_3500.txt	905	922	Sad sack @JebBush	Name_Calling,Labeling
+DT3000_3500.txt	1147	1166	Dishonest reporting	Name_Calling,Labeling
+DT3000_3500.txt	1250	1264	ILLEGAL ALIENS	Name_Calling,Labeling
+DT3000_3500.txt	1367	1388	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	1514	1601	You're the only candidate we can trust, other candidates are controlled by their donors	Causal_Oversimplification
+DT3000_3500.txt	1615	1620	Wacko	Loaded_Language
+DT3000_3500.txt	1715	1752	Glenn is a failing, crying, lost soul	Name_Calling,Labeling
+DT3000_3500.txt	1774	1783	destroyed	Loaded_Language
+DT3000_3500.txt	2006	2025	Cataclysmic’ Losses	Loaded_Language
+DT3000_3500.txt	2444	2452	red dirt	Name_Calling,Labeling
+DT3000_3500.txt	2560	2581	Such wonderful people	Name_Calling,Labeling
+DT3000_3500.txt	2676	2697	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	2709	2722	LIFE CHANGING	Loaded_Language
+DT3000_3500.txt	3209	3230	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	3297	3373	“Palin’s brand among evangelicals is as gold as the faucets in Trump tower,”	Exaggeration,Minimisation
+DT3000_3500.txt	3531	3556	highly respected Governor	Name_Calling,Labeling
+DT3000_3500.txt	3582	3610	"""Ted Cruz must be defeated."""	Slogans
+DT3000_3500.txt	3611	3621	Big shoker	Name_Calling,Labeling
+DT3000_3500.txt	3649	3659	true honor	Loaded_Language
+DT3000_3500.txt	4180	4202	You are an amazing guy	Name_Calling,Labeling
+DT3000_3500.txt	4348	4369	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	4405	4508	Really disgusting that the failing New York Times allows dishonest writers to totally fabricate stories	Doubt
+DT3000_3500.txt	4575	4581	losers	Name_Calling,Labeling
+DT3000_3500.txt	4660	4679	Conflicting Stances	Doubt
+DT3000_3500.txt	4723	4746	Gives #TeamTrump credit	Causal_Oversimplification
+DT3000_3500.txt	4826	4847	he is a nervous wreck	Loaded_Language
+DT3000_3500.txt	5393	5413	Record setting crowd	Exaggeration,Minimisation
+DT3000_3500.txt	5415	5434	unbelievable people	Loaded_Language
+DT3000_3500.txt	6372	6383	N.Y. bosses	Name_Calling,Labeling
+DT3000_3500.txt	6462	6522	Get tough and smart U.S., or we won't have a country anymore	Black-and-White_Fallacy
+DT3000_3500.txt	7003	7057	Is this the New York that Ted Cruz is talking about &a	Doubt
+DT3000_3500.txt	7061	7070	demeaning	Loaded_Language
+DT3000_3500.txt	7229	7238	Hypocrite	Name_Calling,Labeling
+DT3000_3500.txt	7380	7409	Greatly dishonest of @TedCruz	Loaded_Language
+DT3000_3500.txt	7643	7768	Everybody that loves the people of New York, and all they have been thru, should get hypocrites like Ted Cruz out of politics	Exaggeration,Minimisation
+DT3000_3500.txt	7770	7904	If Ted Cruz is so opposed to gay marriage, why did he accept money from people who espouse gay marriage? Ted is the ultimate hypocrite	Doubt
+DT3000_3500.txt	7906	7954	Says one thing for money, does another for votes	Doubt
+DT3000_3500.txt	8013	8034	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	8214	8226	They own him	Repetition
+DT3000_3500.txt	8298	8322	"""natural born Canadian,"""	Name_Calling,Labeling
+DT3000_3500.txt	8563	8571	disgrace	Loaded_Language
+DT3000_3500.txt	8748	8770	Not much of a reformer	Name_Calling,Labeling
+DT3000_3500.txt	8898	8912	Not believable	Doubt
+DT3000_3500.txt	9054	9080	More radical Islam attacks	Repetition
+DT3000_3500.txt	9089	9102	it never ends	Thought-terminating_Cliches
+DT3000_3500.txt	9128	9157	we must be vigilant and smart	Repetition
+DT3000_3500.txt	9207	9245	is a total clown. Has zero credibility	Doubt
+DT3000_3500.txt	9304	9340	the very dumb and failing @glennbeck	Name_Calling,Labeling
+DT3000_3500.txt	9449	9463	amazing people	Loaded_Language
+DT3000_3500.txt	9566	9589	You are a true champion	Name_Calling,Labeling
+DT3000_3500.txt	9612	9621	great guy	Exaggeration,Minimisation
+DT3000_3500.txt	9651	9665	got ass kicked	Loaded_Language
+DT3000_3500.txt	9697	9730	He offended every New Yorker &amp	Exaggeration,Minimisation
+DT3000_3500.txt	9910	9944	GREAT, responsible, patriotic kids	Name_Calling,Labeling
+DT3000_3500.txt	10043	10075	WE WILL MAKE AMERICA GREAT AGAIN	Repetition
+DT3000_3500.txt	10121	10140	embarrassed himself	Loaded_Language
+DT3000_3500.txt	10183	10210	further embarrasses himself	Loaded_Language
+DT3000_3500.txt	10670	10745	"no one wants a Bush or a Clinton, they want a straight shooter like TRUMP!"""	Slogans
+DT3000_3500.txt	10763	10770	Massive	Loaded_Language
+DT3000_3500.txt	10800	10812	Unbelievable	Loaded_Language
+DT3000_3500.txt	11071	11097	Our country was humiliated	Flag-Waving
+DT3000_3500.txt	11162	11200	our sailors and military and Americans	Flag-Waving
+DT3000_3500.txt	11281	11355	"There isn't anything Donald Trump says that I don't agree with. Go Trump!"""	Thought-terminating_Cliches
+DT3000_3500.txt	11511	11524	a paper tiger	Name_Calling,Labeling
+DT3000_3500.txt	11624	11641	Horrible pictures	Loaded_Language
+DT3000_3500.txt	11656	11662	We are	Repetition
+DT3000_3500.txt	11688	11760	Stuart Stevens is a dumb guy who fails @ virtually everything he touches	Name_Calling,Labeling
+DT3000_3500.txt	11792	11827	Why does @andersoncooper put him on	Doubt
+DT3000_3500.txt	11890	11916	failed campaign strategist	Name_Calling,Labeling
+DT3000_3500.txt	11935	11958	who lost BIG for Romney	Whataboutism,Straw_Men,Red_Herring
+DT3000_3500.txt	11987	12060	unbelievable job on #FoxNews with @greta. That was better than I could do	Exaggeration,Minimisation
+DT3000_3500.txt	12120	12135	THANK YOU, IOWA	Repetition
+DT3000_3500.txt	12459	12480	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	12642	12646	Dems	Repetition
+DT3000_3500.txt	12742	12792	THIS ELECTION IS ABOUT AMERICAS FUTURE, VOTE TRUMP	Flag-Waving
+DT3000_3500.txt	12958	12970	ridiculously	Loaded_Language
+DT3000_3500.txt	13220	13300	one of the most boring, rambling and non-substantive I have heard in a long time	Exaggeration,Minimisation
+DT3000_3500.txt	13538	13546	terrible	Loaded_Language
+DT3000_3500.txt	13815	13819	Dems	Name_Calling,Labeling
+DT3000_3500.txt	14088	14103	horrible advise	Loaded_Language
+DT3000_3500.txt	14119	14148	made victory an impossibility	Exaggeration,Minimisation
+DT3000_3500.txt	14168	14195	Now Stevens can't get a job	Doubt
+DT3000_3500.txt	14233	14323	"failed ""strategist"" who can't find clients criticizes winning #TeamTrump. Stop complaining"	Thought-terminating_Cliches
+DT3000_3500.txt	14648	14651	WOW	Loaded_Language
+DT3000_3500.txt	14741	14753	Total agenda	Name_Calling,Labeling
+DT3000_3500.txt	14755	14767	bad reporter	Name_Calling,Labeling
+DT3000_3500.txt	15024	15085	She is so average in every way, who the hell wants to woo her	Loaded_Language
+DT3000_3500.txt	15114	15135	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	15216	15249	the circus will never be the same	Exaggeration,Minimisation
+DT3000_3500.txt	15433	15453	all of my supporters	Name_Calling,Labeling
+DT3000_3500.txt	15456	15477	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	15513	15528	So professional	Exaggeration,Minimisation
+DT3000_3500.txt	15559	15589	failing @UnionLeader newspaper	Name_Calling,Labeling
+DT3000_3500.txt	15630	15646	highly unethical	Loaded_Language
+DT3000_3500.txt	15830	15895	A wonderful guy- who has created something special- well deserved	Loaded_Language
+DT3000_3500.txt	15945	15965	a hater &amp; racist	Name_Calling,Labeling
+DT3000_3500.txt	16008	16039	ABC can do much better than him	Thought-terminating_Cliches
+DT3000_3500.txt	16041	16082	Thank you to our law enforcement officers	Slogans
+DT3000_3500.txt	16177	16183	kicked	Loaded_Language
+DT3000_3500.txt	16211	16221	like a dog	Loaded_Language
+DT3000_3500.txt	16266	16405	UL has lost all credibility under Joe McQuaid w circulation dropping to record lows. They aren't worthy of representing the great people NH	Doubt
+DT3000_3500.txt	16522	16659	If their highly unethical behavior, including begging me for ads, isn’t questionable enough, they have endorsed a candidate who can’t win	Doubt
+DT3000_3500.txt	17064	17088	MAKE AMERICA GREAT AGAIN	Repetition
+DT3000_3500.txt	17112	17119	amazing	Loaded_Language
+DT3000_3500.txt	17248	17269	pummels his opponents	Loaded_Language
+DT3000_3500.txt	17391	17410	an unbelievable day	Exaggeration,Minimisation
+DT3000_3500.txt	17764	17783	tells it like it is	Thought-terminating_Cliches
+DT3000_3500.txt	17787	17800	the real deal	Name_Calling,Labeling
+DT3000_3500.txt	18510	18534	so unbelievably exciting	Loaded_Language
+DT3000_3500.txt	18604	18611	Love it	Loaded_Language
+DT3000_3500.txt	18633	18642	fantastic	Loaded_Language
+DT3000_3500.txt	18676	18713	way to go Pat, way ahead of your time	Doubt
+DT3000_3500.txt	18845	18854	wonderful	Loaded_Language
+DT3000_3500.txt	18921	18933	Will be wild	Loaded_Language
+DT3000_3500.txt	18963	18984	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	19021	19042	MakeAmericaGreatAgain	Repetition
+DT3000_3500.txt	19187	19219	Their #Dem leaders can’t compete	Exaggeration,Minimisation
+DT3000_3500.txt	19299	19326	Nobody knows jobs like I do	Exaggeration,Minimisation
+DT3000_3500.txt	19328	19355	Don’t let them sell you out	Loaded_Language
+DT3000_3500.txt	19577	19599	a total waste of money	Name_Calling,Labeling
+DT3000_3500.txt	19630	19682	You did great and showed courage going to Burlington	Doubt
+DT3000_3500.txt	19684	19738	"No other GOP candidate would do what you did tonight!"""	Exaggeration,Minimisation
+DT3000_3500.txt	19819	19832	won't be good	Loaded_Language
+DT3000_3500.txt	19834	19852	"He will be great!"""	Thought-terminating_Cliches
+DT3000_3500.txt	20080	20116	Make America Great Again for my Kids	Slogans
+DT3000_3500.txt	20238	20294	The movement to Make America Great Again is unbelievable	Exaggeration,Minimisation
+DT3000_3500.txt	20361	20376	It will be wild	Loaded_Language
+DT3000_3500.txt	20470	20485	We love Barbara	Slogans
+DT3000_3500.txt	20560	20574	total freefall	Loaded_Language
+DT3000_3500.txt	20595	20603	terrible	Loaded_Language
+DT3000_3500.txt	20615	20630	Explosive Trump	Loaded_Language
+DT3000_3500.txt	20803	20834	Weak &amp; ineffective @JebBush	Loaded_Language
+DT3000_3500.txt	20912	20929	False advertising	Thought-terminating_Cliches
+DT3000_3500.txt	20979	20987	disaster	Repetition
+DT3000_3500.txt	21410	21441	total mess-big crime. GET SMART	Loaded_Language
+DT3000_3500.txt	21527	21551	MAKE AMERICA GREAT AGAIN	Repetition
+DT3000_3500.txt	21779	21800	Very disloyal company	Name_Calling,Labeling
+DT3000_3500.txt	21802	21823	Another win for Trump	Slogans
+DT3000_3500.txt	21825	21832	Boycott	Loaded_Language
+DT3000_3500.txt	21838	21868	failing @UnionLeader newspaper	Name_Calling,Labeling
+DT3000_3500.txt	21944	21969	How stupid, how desperate	Loaded_Language
+DT3000_3500.txt	22388	22401	I don’t cheat	Repetition
+DT3000_3500.txt	22437	22467	with his game he has no choice	Thought-terminating_Cliches
+DT3000_3500.txt	22472	22494	stop doing commercials	Doubt
+DT3000_3500.txt	22534	22551	Very proud of you	Slogans
+DT3000_3500.txt	22723	22731	disaster	Repetition
+DT3000_3500.txt	22804	22840	no other politician ever dared to do	Exaggeration,Minimisation
+DT3000_3500.txt	22842	22880	"attacked the media for all their lies"""	Loaded_Language
+DT3000_3500.txt	22921	22982	"Have to get people of all ages out to vote for Donald Trump!"""	Slogans
+DT3000_3500.txt	23082	23109	"The Don is by far the best"""	Exaggeration,Minimisation
+DT3000_3500.txt	23193	23249	"And Hillary wants to take those rights away from women!"""	Whataboutism,Straw_Men,Red_Herring
+DT3000_3500.txt	23420	23436	Slave of the #WH	Name_Calling,Labeling
+DT3000_3500.txt	23574	23595	the crowd unstoppable	Loaded_Language
+DT3000_3500.txt	23619	23627	"Kingly."""	Loaded_Language
+DT3000_3500.txt	23686	23750	"If Trump doesn't win, we may not be able to recuperate America."""	Appeal_to_fear-prejudice
+DT3000_3500.txt	23785	23802	an AWESOME speech	Loaded_Language
+DT3000_3500.txt	23852	23909	if @realDonaldTrump doesn't win, I'm leaving this country	Black-and-White_Fallacy
+DT3000_3500.txt	24275	24278	Duh	Loaded_Language
+DT3000_3500.txt	24421	24427	boring	Loaded_Language
+DT3000_3500.txt	24429	24434	Not a	Repetition
+DT3000_3500.txt	24723	24730	Awesome	Loaded_Language
+DT3000_3500.txt	24732	24743	Great crowd	Loaded_Language
+DT3000_3500.txt	24745	24769	Make America Great Again	Repetition
+DT3000_3500.txt	25137	25161	MAKE AMERICA GREAT AGAIN	Repetition
