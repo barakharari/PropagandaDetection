@@ -12,6 +12,7 @@ from os.path import join, isdir
 from os import mkdir
 from util import remove_dir, create_fp_and_meta_files, check_files
 from pathlib import Path
+from tqdm import tqdm
 
 # Length of sequence of tokens being passed into model
 SEQ_LENGTH = 75
@@ -46,7 +47,7 @@ def write_tweets(candidate, df, column, folder, file_type):
 def write_non_tweets(candidate, df, non_tweet_folder, file_type, aschern=True):
 
   # Loop through the non tweets, check that directories exist and the such
-  for i in range(df["NON_TWEETS"].shape[0]):
+  for i in tqdm(range(df["NON_TWEETS"].shape[0])):
     if df["NON_TWEETS"][i] == []:
       continue
     category = df["CONTENT_CATEGORY"][i]
@@ -79,7 +80,7 @@ def write_non_tweets(candidate, df, non_tweet_folder, file_type, aschern=True):
         tokens.extend(s)
         index += len(s)
       
-      create_fp_and_meta_files(sentences, token_spans, tokens, meta_file_path, fp_file_path, SEQ_LENGTH)
+      create_fp_and_meta_files(meta_file_path, fp_file_path, sentences, token_spans, tokens, SEQ_LENGTH)
 
     elif file_type == "json":
       with open(fp_file_path, "w") as f:
@@ -127,7 +128,7 @@ if __name__ == "__main__":
 
   elif file_type == "txt":
 
-    if overwrite:
+    if overwrite or not isdir(base_folder):
 
       # Create new directories
       Path(base_folder).mkdir(parents=True, exist_ok=True)

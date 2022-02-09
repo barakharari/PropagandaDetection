@@ -1,3 +1,4 @@
 .DS_Store
 scripts/meta/*
-scripts/aschern_data/*
+# scripts/aschern_data/*
+ReuterBERT/*

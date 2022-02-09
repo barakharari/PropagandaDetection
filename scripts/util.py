@@ -52,7 +52,6 @@ def get_nearest_token_span(seq_length, start, end, tokens):
 # Create forward pass and meta files for aschern
 def create_fp_and_meta_files(meta_file_path, fp_file_path, sentences, spans, tokens=[], sequence_length=-1):
 
-
   meta_df = pandas.DataFrame(columns=["sentence", "start", "end"])
   sentences = list(map(lambda x,y: (x,y[0],y[1]), sentences, spans))
   # Pad each sentence correctly so we maximize how much is fed into the model.
